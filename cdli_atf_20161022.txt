@@ -1,5 +1,6 @@
 &P332304 = A l'ombre de Babel, no. 46
 #atf: lang sux
+#atf: use lexical
 @tablet
 @obverse
 $ (not given)
@@ -27,6 +28,7 @@ $ blank space
 
 &P142660 = AAICAB 1/1, pl. 018, 1911-147
 #atf: lang sux
+#atf: use lexical
 @tablet
 @obverse
 1. 1(disz) 1/3(disz) gin2 ku3-babbar
@@ -44,6 +46,7 @@ $ blank space
 
 &P285642 = AAICAB 1/1, pl. 019, 1911-154
 #atf: lang sux
+#link: def A = Q000039 = OB Nippur Ur5-ra 01 (wood)
 @tablet
 @obverse
 1. 2(asz) sze gur lugal
@@ -60,6 +63,7 @@ $ blank space
 
 &P142678 = AAICAB 1/1, pl. 020, 1911-165
 #atf: lang sux
+#link: def A = Q000039 = OB Nippur Ur5-ra 01 (wood)
 @tablet
 @obverse
 1. 1(disz) dug gal
@@ -152,6 +156,9 @@ $ blank space
 
 &P999999 = AAICAB 1/1, pl. 031, 1911-217
 #atf: lang sux
+#link: def A = Q000039
+#CBS 09868 + 12741= MSL 07: 211 = V18 = SLT 193
+#version: 0.8
 @tablet
 @obverse
 1. 2(asz) gu2 siki GI
@@ -179,6 +186,9 @@ $ blank space
 
 &P142741 = AAICAB 1/1, pl. 038-039, 1911-229
 #atf: lang sux
+#link: def A = Q000039 = prashant
+#CBS 09868 + 12741= MSL 07: 211 = V18 = SLT 193
+#version: 0.8
 @tablet
 @obverse
 @column 1

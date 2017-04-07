@@ -5,9 +5,9 @@ _tabversion = '3.10'
 
 _lr_method = 'LALR'
 
-_lr_signature = 'PNUMBER EQUALS NEWLINE NORMALSTRINGdescription : PNUMBER EQUALS string newlinestring : NORMALSTRING\n                  | string NORMALSTRINGnewline : NEWLINE'
+_lr_signature = 'AMPERSAND ATF CBS COLON DEF DOLLAR EQUALS HASH LANG LEXICAL LINK NEWLINE PNUMBER QNUMBER STRING USE VERSION VNUMBERversion_comment : VERSION VNUMBER newlinestring : STRING\n                  | string STRING\n                  | string EQUALSnewline : NEWLINE'
     
-_lr_action_items = {'NEWLINE':([4,5,8,],[-2,7,-3,]),'PNUMBER':([0,],[1,]),'EQUALS':([1,],[3,]),'NORMALSTRING':([3,4,5,8,],[4,-2,8,-3,]),'$end':([2,6,7,],[0,-1,-4,]),}
+_lr_action_items = {'NEWLINE':([3,],[4,]),'VNUMBER':([2,],[3,]),'VERSION':([0,],[2,]),'$end':([1,4,5,],[0,-5,-1,]),}
 
 _lr_action = {}
 for _k, _v in _lr_action_items.items():
@@ -16,7 +16,7 @@ for _k, _v in _lr_action_items.items():
       _lr_action[_x][_k] = _y
 del _lr_action_items
 
-_lr_goto_items = {'newline':([5,],[6,]),'description':([0,],[2,]),'string':([3,],[5,]),}
+_lr_goto_items = {'version_comment':([0,],[1,]),'newline':([3,],[5,]),}
 
 _lr_goto = {}
 for _k, _v in _lr_goto_items.items():
@@ -25,9 +25,10 @@ for _k, _v in _lr_goto_items.items():
        _lr_goto[_x][_k] = _y
 del _lr_goto_items
 _lr_productions = [
-  ("S' -> description","S'",1,None,None,None),
-  ('description -> PNUMBER EQUALS string newline','description',4,'p_description','atfyacc.py',12),
-  ('string -> NORMALSTRING','string',1,'p_string','atfyacc.py',16),
-  ('string -> string NORMALSTRING','string',2,'p_string','atfyacc.py',17),
-  ('newline -> NEWLINE','newline',1,'p_newline','atfyacc.py',21),
+  ("S' -> version_comment","S'",1,None,None,None),
+  ('version_comment -> VERSION VNUMBER newline','version_comment',3,'p_version_comment','atfyacc.py',39),
+  ('string -> STRING','string',1,'p_string','atfyacc.py',43),
+  ('string -> string STRING','string',2,'p_string','atfyacc.py',44),
+  ('string -> string EQUALS','string',2,'p_string','atfyacc.py',45),
+  ('newline -> NEWLINE','newline',1,'p_newline','atfyacc.py',52),
 ]

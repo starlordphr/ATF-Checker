@@ -21,3 +21,4 @@ if __name__ == "__main__":
         print(tok)
 
 #python atffile.py /Users/smith/Documents/atfparser/cdli_atf_20161022.txt
+#python atffile.py /Users/smith/Documents/atfparser/broad_sample.atf

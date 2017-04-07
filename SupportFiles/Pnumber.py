@@ -58,10 +58,15 @@ class Pnumber(object):
 
         if foundMap:
             index = self.oldPlist.index(pnumber)
-            print "Replace Old Pnumber : "+pnumber+" with New Pnumber : "+self.newPlist[index]
+            self.write_to_file("Replace Old Pnumber : "+pnumber+" with New Pnumber : "+self.newPlist[index])
             return self.newPlist[index], True
         else:
             if(self.CheckPnumber(pnumber)):
                 return pnumber, True
             else:
                 return pnumber, False
+
+    def write_to_file(self, content):
+        text_file = open("Output.txt", "a")
+        text_file.write(content+"\n")
+        text_file.close()
