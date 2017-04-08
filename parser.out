@@ -6,24 +6,24 @@ Unused terminals:
     LANG
     USE
     HASH
-    QNUMBER
     LEXICAL
     DOLLAR
-    LINK
     CBS
+    VNUMBER
+    VERSION
     COLON
     AMPERSAND
     PNUMBER
-    DEF
 
 Grammar
 
-Rule 0     S' -> version_comment
-Rule 1     version_comment -> VERSION VNUMBER newline
-Rule 2     string -> STRING
-Rule 3     string -> string STRING
-Rule 4     string -> string EQUALS
-Rule 5     newline -> NEWLINE
+Rule 0     S' -> link_comment
+Rule 1     link_comment -> LINK DEF string EQUALS QNUMBER EQUALS string newline
+Rule 2     link_comment -> LINK DEF string EQUALS QNUMBER newline
+Rule 3     string -> STRING
+Rule 4     string -> string STRING
+Rule 5     string -> string EQUALS
+Rule 6     newline -> NEWLINE
 
 Terminals, with rules where they appear
 
@@ -31,71 +31,167 @@ AMPERSAND            :
 ATF                  : 
 CBS                  : 
 COLON                : 
-DEF                  : 
+DEF                  : 1 2
 DOLLAR               : 
-EQUALS               : 4
+EQUALS               : 1 1 2 5
 HASH                 : 
 LANG                 : 
 LEXICAL              : 
-LINK                 : 
-NEWLINE              : 5
+LINK                 : 1 2
+NEWLINE              : 6
 PNUMBER              : 
-QNUMBER              : 
-STRING               : 2 3
+QNUMBER              : 1 2
+STRING               : 3 4
 USE                  : 
-VERSION              : 1
-VNUMBER              : 1
+VERSION              : 
+VNUMBER              : 
 error                : 
 
 Nonterminals, with rules where they appear
 
-newline              : 1
-string               : 3 4
-version_comment      : 0
+link_comment         : 0
+newline              : 1 2
+string               : 1 1 2 4 5
 
 Parsing method: LALR
 
 state 0
 
-    (0) S' -> . version_comment
-    (1) version_comment -> . VERSION VNUMBER newline
+    (0) S' -> . link_comment
+    (1) link_comment -> . LINK DEF string EQUALS QNUMBER EQUALS string newline
+    (2) link_comment -> . LINK DEF string EQUALS QNUMBER newline
 
-    VERSION         shift and go to state 2
+    LINK            shift and go to state 1
 
-    version_comment                shift and go to state 1
+    link_comment                   shift and go to state 2
 
 state 1
 
-    (0) S' -> version_comment .
+    (1) link_comment -> LINK . DEF string EQUALS QNUMBER EQUALS string newline
+    (2) link_comment -> LINK . DEF string EQUALS QNUMBER newline
 
+    DEF             shift and go to state 3
 
 
 state 2
 
-    (1) version_comment -> VERSION . VNUMBER newline
+    (0) S' -> link_comment .
 
-    VNUMBER         shift and go to state 3
 
 
 state 3
 
-    (1) version_comment -> VERSION VNUMBER . newline
-    (5) newline -> . NEWLINE
+    (1) link_comment -> LINK DEF . string EQUALS QNUMBER EQUALS string newline
+    (2) link_comment -> LINK DEF . string EQUALS QNUMBER newline
+    (3) string -> . STRING
+    (4) string -> . string STRING
+    (5) string -> . string EQUALS
 
-    NEWLINE         shift and go to state 4
+    STRING          shift and go to state 5
 
-    newline                        shift and go to state 5
+    string                         shift and go to state 4
 
 state 4
 
-    (5) newline -> NEWLINE .
+    (1) link_comment -> LINK DEF string . EQUALS QNUMBER EQUALS string newline
+    (2) link_comment -> LINK DEF string . EQUALS QNUMBER newline
+    (4) string -> string . STRING
+    (5) string -> string . EQUALS
 
-    $end            reduce using rule 5 (newline -> NEWLINE .)
+    EQUALS          shift and go to state 6
+    STRING          shift and go to state 7
 
 
 state 5
 
-    (1) version_comment -> VERSION VNUMBER newline .
+    (3) string -> STRING .
 
-    $end            reduce using rule 1 (version_comment -> VERSION VNUMBER newline .)
+    STRING          reduce using rule 3 (string -> STRING .)
+    EQUALS          reduce using rule 3 (string -> STRING .)
+    NEWLINE         reduce using rule 3 (string -> STRING .)
+
+
+state 6
+
+    (1) link_comment -> LINK DEF string EQUALS . QNUMBER EQUALS string newline
+    (2) link_comment -> LINK DEF string EQUALS . QNUMBER newline
+    (5) string -> string EQUALS .
+
+    QNUMBER         shift and go to state 8
+    EQUALS          reduce using rule 5 (string -> string EQUALS .)
+    STRING          reduce using rule 5 (string -> string EQUALS .)
+
+
+state 7
+
+    (4) string -> string STRING .
+
+    STRING          reduce using rule 4 (string -> string STRING .)
+    EQUALS          reduce using rule 4 (string -> string STRING .)
+    NEWLINE         reduce using rule 4 (string -> string STRING .)
+
+
+state 8
+
+    (1) link_comment -> LINK DEF string EQUALS QNUMBER . EQUALS string newline
+    (2) link_comment -> LINK DEF string EQUALS QNUMBER . newline
+    (6) newline -> . NEWLINE
+
+    EQUALS          shift and go to state 11
+    NEWLINE         shift and go to state 9
+
+    newline                        shift and go to state 10
+
+state 9
+
+    (6) newline -> NEWLINE .
+
+    $end            reduce using rule 6 (newline -> NEWLINE .)
+
+
+state 10
+
+    (2) link_comment -> LINK DEF string EQUALS QNUMBER newline .
+
+    $end            reduce using rule 2 (link_comment -> LINK DEF string EQUALS QNUMBER newline .)
+
+
+state 11
+
+    (1) link_comment -> LINK DEF string EQUALS QNUMBER EQUALS . string newline
+    (3) string -> . STRING
+    (4) string -> . string STRING
+    (5) string -> . string EQUALS
+
+    STRING          shift and go to state 5
+
+    string                         shift and go to state 12
+
+state 12
+
+    (1) link_comment -> LINK DEF string EQUALS QNUMBER EQUALS string . newline
+    (4) string -> string . STRING
+    (5) string -> string . EQUALS
+    (6) newline -> . NEWLINE
+
+    STRING          shift and go to state 7
+    EQUALS          shift and go to state 14
+    NEWLINE         shift and go to state 9
+
+    newline                        shift and go to state 13
+
+state 13
+
+    (1) link_comment -> LINK DEF string EQUALS QNUMBER EQUALS string newline .
+
+    $end            reduce using rule 1 (link_comment -> LINK DEF string EQUALS QNUMBER EQUALS string newline .)
+
+
+state 14
+
+    (5) string -> string EQUALS .
+
+    STRING          reduce using rule 5 (string -> string EQUALS .)
+    EQUALS          reduce using rule 5 (string -> string EQUALS .)
+    NEWLINE         reduce using rule 5 (string -> string EQUALS .)
 

@@ -5,9 +5,9 @@ _tabversion = '3.10'
 
 _lr_method = 'LALR'
 
-_lr_signature = 'AMPERSAND ATF CBS COLON DEF DOLLAR EQUALS HASH LANG LEXICAL LINK NEWLINE PNUMBER QNUMBER STRING USE VERSION VNUMBERversion_comment : VERSION VNUMBER newlinestring : STRING\n                  | string STRING\n                  | string EQUALSnewline : NEWLINE'
+_lr_signature = 'AMPERSAND ATF CBS COLON DEF DOLLAR EQUALS HASH LANG LEXICAL LINK NEWLINE PNUMBER QNUMBER STRING USE VERSION VNUMBERlink_comment : LINK DEF string EQUALS QNUMBER EQUALS string newline\n                        | LINK DEF string EQUALS QNUMBER newlinestring : STRING\n                  | string STRING\n                  | string EQUALSnewline : NEWLINE'
     
-_lr_action_items = {'NEWLINE':([3,],[4,]),'VNUMBER':([2,],[3,]),'VERSION':([0,],[2,]),'$end':([1,4,5,],[0,-5,-1,]),}
+_lr_action_items = {'STRING':([3,4,5,6,7,11,12,14,],[5,7,-3,-5,-4,5,7,-5,]),'NEWLINE':([5,7,8,12,14,],[-3,-4,9,9,-5,]),'EQUALS':([4,5,6,7,8,12,14,],[6,-3,-5,-4,11,14,-5,]),'QNUMBER':([6,],[8,]),'LINK':([0,],[1,]),'DEF':([1,],[3,]),'$end':([2,9,10,13,],[0,-6,-2,-1,]),}
 
 _lr_action = {}
 for _k, _v in _lr_action_items.items():
@@ -16,7 +16,7 @@ for _k, _v in _lr_action_items.items():
       _lr_action[_x][_k] = _y
 del _lr_action_items
 
-_lr_goto_items = {'version_comment':([0,],[1,]),'newline':([3,],[5,]),}
+_lr_goto_items = {'newline':([8,12,],[10,13,]),'string':([3,11,],[4,12,]),'link_comment':([0,],[2,]),}
 
 _lr_goto = {}
 for _k, _v in _lr_goto_items.items():
@@ -25,8 +25,9 @@ for _k, _v in _lr_goto_items.items():
        _lr_goto[_x][_k] = _y
 del _lr_goto_items
 _lr_productions = [
-  ("S' -> version_comment","S'",1,None,None,None),
-  ('version_comment -> VERSION VNUMBER newline','version_comment',3,'p_version_comment','atfyacc.py',39),
+  ("S' -> link_comment","S'",1,None,None,None),
+  ('link_comment -> LINK DEF string EQUALS QNUMBER EQUALS string newline','link_comment',8,'p_link_comment','atfyacc.py',27),
+  ('link_comment -> LINK DEF string EQUALS QNUMBER newline','link_comment',6,'p_link_comment','atfyacc.py',28),
   ('string -> STRING','string',1,'p_string','atfyacc.py',43),
   ('string -> string STRING','string',2,'p_string','atfyacc.py',44),
   ('string -> string EQUALS','string',2,'p_string','atfyacc.py',45),

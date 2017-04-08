@@ -1,0 +1,116 @@
+Replace Old Pnumber : P230902 with New Pnumber : P279522
+Link Line : #link: def None = Q000039 = None
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000079 = None
+Warning: Qnumber not recognised.
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000081 = None
+Warning: Qnumber not recognised.
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000304 = None
+Link Line : #link: def None = Q000039
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000079
+Warning: Qnumber not recognised.
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000081
+Warning: Qnumber not recognised.
+Warning: Qnumber not recognised.
+Link Line : #link: def None = Q000304
+Link Line : #link: def None = Q000040 = None
+Link Line : #link: def None = Q000040 = None
+Link Line : #link: def None = Q000040 = None
+Replace Old Pnumber : P229076 with New Pnumber : P257011
+Link Line : #link: def None = Q000040 = None
+Link Line : #link: def None = Q000047 = None
+Link Line : #link: def None = Q000047 = None
+Link Line : #link: def None = Q000047 = None
+Replace Old Pnumber : P134670 with New Pnumber : P345643
+Replace Old Pnumber : P269091 with New Pnumber : P278655
+Link Line : #link: def None = Q000566
+Link Line : #link: def None = Q000634 = None
+Link Line : #link: def None = Q000635 = None
+Link Line : #link: def None = Q000636 = None
+Link Line : #link: def None = Q000637 = None
+Link Line : #link: def None = Q000637 = None
+Link Line : #link: def None = Q000639 = None
+Link Line : #link: def None = Q000644 = None
+Replace Old Pnumber : P266110 with New Pnumber : P345221
+Link Line : #link: def None = Q000646 = None
+Link Line : #link: def None = Q000647 = None
+Replace Old Pnumber : P343627 with New Pnumber : P250376
+Link Line : #link: def None = Q000647 = None
+Link Line : #link: def None = Q000649 = None
+Link Line : #link: def None = Q000649 = None
+Link Line : #link: def None = Q000649 = None
+Link Line : #link: def None = Q000656 = None
+Link Line : #link: def None = Q000651 = None
+Link Line : #link: def None = Q000652 = None
+Link Line : #link: def None = Q000653 = None
+Replace Old Pnumber : P278541 with New Pnumber : P280087
+Link Line : #link: def None = Q000653 = None
+Link Line : #link: def None = Q000655 = None
+Link Line : #link: def None = Q000655 = None
+Link Line : #link: def None = Q000659 = None
+Replace Old Pnumber : P000766 with New Pnumber : P000777
+Replace Old Pnumber : P000853 with New Pnumber : P000856
+Replace Old Pnumber : P000867 with New Pnumber : P000880
+Replace Old Pnumber : P000886 with New Pnumber : P000891
+Replace Old Pnumber : P001026 with New Pnumber : P001191
+Replace Old Pnumber : P001033 with New Pnumber : P001197
+Replace Old Pnumber : P001088 with New Pnumber : P001213
+Replace Old Pnumber : P001189 with New Pnumber : P001193
+Replace Old Pnumber : P212431 with New Pnumber : P368465
+Replace Old Pnumber : P212435 with New Pnumber : P248999
+Replace Old Pnumber : P249200 with New Pnumber : P212436
+Replace Old Pnumber : P217546 with New Pnumber : P330174
+Replace Old Pnumber : P217576 with New Pnumber : P330175
+Replace Old Pnumber : P227338 with New Pnumber : P212517
+Replace Old Pnumber : P102178 with New Pnumber : P212551
+Replace Old Pnumber : P235690 with New Pnumber : P213224
+Replace Old Pnumber : P391079 with New Pnumber : P357331
+Replace Old Pnumber : P358872 with New Pnumber : P358867
+Replace Old Pnumber : P456184 with New Pnumber : P463246
+Replace Old Pnumber : P357880 with New Pnumber : P493100
+Replace Old Pnumber : P361604 with New Pnumber : P358042
+Replace Old Pnumber : P361425 with New Pnumber : P390639
+Replace Old Pnumber : P273583 with New Pnumber : P273612
+Replace Old Pnumber : P273589 with New Pnumber : P345131
+Replace Old Pnumber : P361610 with New Pnumber : P358388
+Replace Old Pnumber : P360796 with New Pnumber : P361389
+Replace Old Pnumber : P360808 with New Pnumber : P360809
+Replace Old Pnumber : P361617 with New Pnumber : P360836
+Replace Old Pnumber : P359405 with New Pnumber : P359632
+Replace Old Pnumber : P359407 with New Pnumber : P359807
+Replace Old Pnumber : P359408 with New Pnumber : P359649
+Replace Old Pnumber : P359528 with New Pnumber : P359447
+Replace Old Pnumber : P359592 with New Pnumber : P359454
+Replace Old Pnumber : P359481 with New Pnumber : P359648
+Replace Old Pnumber : P359496 with New Pnumber : P359611
+Replace Old Pnumber : P359502 with New Pnumber : P359616
+Replace Old Pnumber : P359512 with New Pnumber : P359606
+Replace Old Pnumber : P359514 with New Pnumber : P359627
+Replace Old Pnumber : P359520 with New Pnumber : P359767
+Replace Old Pnumber : P359537 with New Pnumber : P359771
+Replace Old Pnumber : P359543 with New Pnumber : P359624
+Replace Old Pnumber : P359559 with New Pnumber : P359769
+Replace Old Pnumber : P359577 with New Pnumber : P359644
+Replace Old Pnumber : P359590 with New Pnumber : P359645
+Replace Old Pnumber : P359593 with New Pnumber : P359594
+Replace Old Pnumber : P359605 with New Pnumber : P361601
+Replace Old Pnumber : P359612 with New Pnumber : P359759
+Replace Old Pnumber : P359628 with New Pnumber : P359598
+Replace Old Pnumber : P359646 with New Pnumber : P359620
+Replace Old Pnumber : P359704 with New Pnumber : P359656
+Replace Old Pnumber : P359444 with New Pnumber : P359475
+Replace Old Pnumber : P357976 with New Pnumber : P283872
+Replace Old Pnumber : P361113 with New Pnumber : P358040
+Replace Old Pnumber : P361552 with New Pnumber : P368352
+Replace Old Pnumber : P357402 with New Pnumber : P358032
+Replace Old Pnumber : P357555 with New Pnumber : P492981
+Replace Old Pnumber : P357563 with New Pnumber : P493003
+Replace Old Pnumber : P357577 with New Pnumber : P361084
+Replace Old Pnumber : P357610 with New Pnumber : P493072
+Replace Old Pnumber : P357646 with New Pnumber : P493073
+Replace Old Pnumber : P357809 with New Pnumber : P493076
+Replace Old Pnumber : P358146 with New Pnumber : P390696

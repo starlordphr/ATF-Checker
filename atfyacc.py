@@ -23,21 +23,21 @@ class AtfParser(object):
         """lexical_comment : ATF USE LEXICAL newline"""
         self.write_to_file("Lexical Line : "+str(p[1])+" "+str(p[2])+" "+str(p[3])+" "+str(p[4]))'''
 
-    '''def p_link_comment(self, p):
+    def p_link_comment(self, p):
         """link_comment : LINK DEF string EQUALS QNUMBER EQUALS string newline
                         | LINK DEF string EQUALS QNUMBER newline"""
         if(len(p) == 9):
             self.write_to_file("Link Line : "+str(p[1])+" "+str(p[2])+" "+str(p[3])+" "+str(p[4])+" "+str(p[5])+" "+str(p[6])+" "+str(p[7]))
         elif(len(p) == 7):
-            self.write_to_file("Link Line : "+str(p[1])+" "+str(p[2])+" "+str(p[3])+" "+str(p[4])+" "+str(p[5]))'''
+            self.write_to_file("Link Line : "+str(p[1])+" "+str(p[2])+" "+str(p[3])+" "+str(p[4])+" "+str(p[5]))
 
     '''def p_CBS_comment(self, p):
         """CBS_comment : CBS string newline"""
         self.write_to_file("CBS Line : "+str(p[1])+" "+str(p[2]))'''
 
-    def p_version_comment(self, p):
+    '''def p_version_comment(self, p):
         """version_comment : VERSION VNUMBER newline"""
-        self.write_to_file("Version Line : "+str(p[1])+" "+str(p[2]))
+        self.write_to_file("Version Line : "+str(p[1])+" "+str(p[2]))'''
 
     def p_string(self, p):
         """string : STRING

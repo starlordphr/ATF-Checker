@@ -3,12 +3,14 @@ import re
 import sys
 
 from SupportFiles.Pnumber import Pnumber
+from SupportFiles.Qnumber import Qnumber
 
 class AtfLexer(object):
 
     def __init__(self, skipinvalid=False, debug=0):
         self.lexer = lex.lex(module=self, reflags=re.MULTILINE, debug=debug)
         self.pnumberObj = Pnumber()
+        self.qnumberObj = Qnumber()
 
     #List of token names
     base_tokens = ['EQUALS',
@@ -58,6 +60,8 @@ class AtfLexer(object):
     def t_QNUMBER(self, t):
         r'Q[0-9]{6}'
         print "Qnumber:"+t.value
+        if(not self.qnumberObj.CheckQnumber(t.value)):
+            self.write_to_file("Warning: Qnumber not recognised.")
         return t
 
     def t_VNUMBER(self, t):
