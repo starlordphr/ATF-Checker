@@ -1,14 +1,4567 @@
-&P332304 = A l'ombre de Babel, no. 46
+&P491222 = CDLI Literary 002701 (ludlul bēl nēmeqi) composite
+#atf: lang akk
+@object composite text
+@surface a
+@canto 1
+1. lud-lul _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: ludlul bēl nēmeqi ilu muštālu
+#tr.en: I would praise the lord of wisdom, the circumspect god,
+>>Q002701.01 001
+2. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 002
+3. {d}marduk _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: marduk bēl nēmeqi ilu muštālu
+#tr.en: Marduk, lord of wisdom, circumspect god,
+>>Q002701.01 003
+4. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 004
+5. sza2 ki-ma _u4_-mi me-he-e na-mu-u2 ug-gat-su
+#tr.ts: ša kīma ūmi meḫê namû uggassu
+#tr.en: who like a storm, a whilrwind, causes desolation his rage,
+>>Q002701.01 005
+6. u3 ki-i ma-nit sze-re-e-ti za-aq-szu2 t,a-a-bu
+#tr.ts: u kī mānit šērēti zāqšu ṭābu
+#tr.en: and (then) as a breeze of the morning, his breath sweet;
+>>Q002701.01 006
+7. uz-zu-usz-szu la ma-har a-bu-bu ru-ub-szu2
+#tr.ts: uzzuššu lā maḫār abūbu rūbšu
+#tr.en: in his anger unapproachable, a flood his fury;
+>>Q002701.01 007
+8. mu-us-sah-hir ka-ra-as-su ka-bat-ta-szu2 ta-a-a-rat
+#tr.ts: mussaḫḫir karassu kabattašu tayyārat
+#tr.en: attentive his mind, his liver is merciful;
+>>Q002701.01 008
+9. sza2 nag-be qa-ti-szu2 la i-na-asz2-szu-u2 sza2-ma-'u-u2
+#tr.ts: ša nagbe qātišu lā inaššû šamā’ū
+#tr.en: the n. of whose hand cannot bear the heavens,
+>>Q002701.01 009
+10. rit-tusz rab-bat u2-kasz-szu mi-i-ta
+#tr.ts: rittuš rabbat ukaššu mīta
+#tr.en: whose tender hand holds back the dead;
+>>Q002701.01 010
+11. {d}marduk sza2 nag-be qa-ti-szu2 la i-na-asz2-szu-u2 sza2-ma-'u-u2
+#tr.ts: marduk ﻿ša nagbe qāti﻿šu la ina﻿š﻿šû ﻿šamā’ū
+#tr.en: Marduk, the n. of whose hand cannot bear the heavens,
+>>Q002701.01 011
+12. rab-bat rit-ta-a-szu2 u2-kasz-szu mi-i-ta
+#tr.ts: rabbat ritta﻿šu uka﻿š﻿šu mīta
+#tr.en: whose tender hand holds back the dead;
+>>Q002701.01 012
+13. sza2 i-na lib-ba-ti-szu2 up-ta-at-ta-a qab-ra-a-tum
+#tr.ts: ša ina libbātišu uptattā qabrātu
+#tr.en: through whose rage are opened the graves,
+>>Q002701.01 013
+14. i-nu-szu2 ina ka-ra-sze-e u2-szat-be2 ma-aq-tu2
+#tr.ts: inūšu ina karašê ušatbe maqtu
+#tr.en: then from disaster he raised the fallen;
+>>Q002701.01 014
+15. ik-ke-lem-mu i-ne2-es-su-u2 {d}lamma2 u {d}alad3
+#tr.ts: ikkelemmu inessû lamassu u šēdu
+#tr.en: he frowns, do exit the guardian and protective spirit,
+>>Q002701.01 015
+16. ip-pal-la-as-ma a-na sza2 is-ki-pu-szu2 _dingir_-szu2 i-sah-har-szu2
+#tr.ts: ippallasma ana ﻿ša iskipu﻿šu il﻿šu isaḫḫaršu
+#tr.en: he looks on, and to the one whom he pushed away, his god turns;
+>>Q002701.01 016
+17. ak-s,a-at a-na sur-ri en-nit-ta-szu2 ka-bit-ti
+#tr.ts: akṣat ana surri ennitašu kabitti
+#tr.en: where momentarily his overbearing punishment is heavy,
+>>Q002701.01 017
+18. ik-kar-rit,-ma za-mar-ma i-tar a-lit-tusz
+#tr.ts: ikkariṭma zamar itâr alittuš
+#tr.en: yet he showed pity, and turns into his own mother,
+>>Q002701.01 018
+19. id-du-ud-ma ri-ma-szu u2-gan-na
+#tr.ts: iddudma rīmašu uganna
+#tr.en: He becomes pointed, and his inner wild bull butts,
+>>Q002701.01 019
+20. u3 ki-i a-ra-ah bu-u2-ri it-ta-na-as-ha-ra _egir_-szu2
+#tr.ts: u kī araḫ būri ittanasḫara arkīšu
+#tr.en: then like a cow to calf, he constantly turns round to his back;
+>>Q002701.01 020
+21. za-aq-ta ni-t,a-tu-szu2 u2-sah-ha-la zu-um-ra
+#tr.ts: zaqtā niṭâtušu usaḫḫalā zumra
+#tr.en: stinging are his beatings, piercing the body,
+>>Q002701.01 021
+22. pa-asz2-hu s,i-in-du-szu2 u2-bal-la-t,u nam-ta-ra
+#tr.ts: pašḫū ṣindūšu uballaṭu namtara
+#tr.en: cooling his bandages, reviving the deceased;
+>>Q002701.01 022
+23. i-qab-bi-ma gil2-la-ta usz-rasz-szi
+#tr.ts: iqabbima gillata ušrašši
+#tr.en: he speaks, and sin spreads,
+>>Q002701.01 023
+24. ina _u4_ i-szar-ti-szu2 up-ta-at,-t,a-ru e'-il-tum u an-nu
+#tr.ts: ina ūmi išartišu uptaṭṭarū e’iltum u annu
+#tr.en: yet on the day of his prosperity, excused are obligation and guilt;
+>>Q002701.01 024
+25. szu-u2-ma u2-tuk-ka ra-'i-i-ba u2-szar-szi
+#tr.ts: šūma utukka ra’ība ušarši
+#tr.en: he is it who utukku and tremors lets have,
+>>Q002701.01 025
+26. ina te-e-szu2 usz-dap-pa-ru szu-ru-up-pu-u2 u hur-ba-szu2
+#tr.ts: ina têšu ušdapparu šuruppû u hurbāšu
+#tr.en: yet his spell drives away frost and chills;
+>>Q002701.01 026
+27. musz-man-t,i ri-hi-is,-ti {d}iszkur mi-hi-is,-ti {d}er3-ra
+#tr.ts: mušmanṭi riḫiṣti adad miḫiṣti erra
+#tr.en: who multiplies the flooding of Adad, the blows of Erra,
+>>Q002701.01 027
+28. mu-sal-lim _dingir_ u {d}1(u)-5(disz) szab-ba-su-ti
+#tr.ts: musallim ili u ištari šabbasūti
+#tr.en: yet who placates the angry god and goddess;
+>>Q002701.01 028
+29. be-lu4 mim-ma lib3-bi _dingir-mesz_ i-bar-ri
+#tr.ts: bēlu mimma libbi ilī ibarri
+#tr.en: the lord the entire stomach of the gods inspects,
+>>Q002701.01 029
+30. ma-na-ma ina _dingir-mesz_ a-lak-ta-szu2 ul i-de
+#tr.ts: manāma ina ilī alaktašu ul īde
+#tr.en: and no one among the gods his path knows,
+>>Q002701.01 030
+31. {d}marduk mim-ma lib3-bi _dingir-mesz_ i-bar-ri
+#tr.ts: marduk mimma libbi ilī ibarri
+#tr.en: Marduk the entire stomach of the gods inspects,
+>>Q002701.01 031
+32. _dingir_ a-a-um-ma ul i-lam-mad t,e3-en-szu2
+#tr.ts: ilu ayyumma ul ilammad ṭēnšu
+#tr.en: but no god comes to understand his mind;
+>>Q002701.01 032
+33. a-na ki-i kab-ta-at _szu_-su lib3-ba-szu2 re-me-ni
+#tr.ts: ana kī kabtat qāssu libbašu rēmēnî
+#tr.en: as heavy his hand, so his stomach merciful,
+>>Q002701.01 033
+34. a-na ki-i gas,-s,u _{gesz}tukul-mesz_-szu2 ka-bat-ta-szu2 musz-nesz-szat
+#tr.ts: ana kī gaṣṣū kakkīšu kabattašu mušnēššat
+#tr.en: as cruel his weapons, so his liver revives;
+>>Q002701.01 034
+35. sza la lib3-bi-szu2 man-nu me-hi-is,-ta-szu2 li-szap-szi-ih
+#tr.ts: ša lā libbišu mannu meḫiṣtašu lišapšiḫ
+#tr.en: absent his stomach, who his blows would pacify?
+>>Q002701.01 035
+36. e-la kab-ta-ti-szu2 a-a-u2 li-sza2-lil _szu-min_-su
+#tr.ts: ela kabtatīšu ayyu lišālil qāssu
+#tr.en: Without his weightiness, who would causes to hang his hands?
+>>Q002701.01 036
+37. lu-sza2-pi ug-gat-su sza2 ki-ma nu-u2-ni a-ku-lu ru-szum-tu2
+#tr.ts: lušāpi uggassu kīma nūni ākulu rušumtu
+#tr.en: I would glorify his wrath, as one who like fish ate mud,
+>>Q002701.01 037
+38. i-nu-nam-ma za-mar ki-i u2-bal-li-t,u mi-tu-tu
+#tr.ts: inūnamma zamar kī uballiṭu mītūtu
+#tr.en: he penalized as quickly as he revives the dead;
+>>Q002701.01 038
+39. lu-szal-mid-ma _ug3-mesz_ qit-ru-ba gu-ma-al-szin
+#tr.ts: lušalmidma nišī qitruba
+#tr.en: how near is their salvation,
+>>Q002701.01 039
+40. hi-is-sa-as-su _saga_-tum an-na-szi-na lit-bal
+#tr.ts: ḫissāssu damiqtu annašina litbal
+#tr.en: that his good remembrance would their sins lift;
+>>Q002701.01 040
+41. isz-tu _u4_-mi {d}en i-ni-na-an-ni
+#tr.ts: ištu ūmi bēl īnenni
+#tr.en: on the day the lord punished me,
+>>Q002701.01 041
+42. u3 qar-ra-du {d}marduk is-bu-su _ki_-ia
+#tr.ts: u qarradu marduk isbusu ittiya
+#tr.en: the hero Marduk became angry with me,
+>>Q002701.01 042
+43. id-da-an-ni _dingir-mu_ sza2-da-a-szu2 i-li
+#tr.ts: iddânni ilī šadâšu īli
+#tr.en: rejects me my god, up his mountain went,
+>>Q002701.01 043
+44. ip-par-ku {d}isz-ta-ri i-be2-esz a-hi-tum
+#tr.ts: ipparku ištarī ibēš aḫītu
+#tr.en: ceased my goddess, went to the foriegn region,
+>>Q002701.01 044
+45. is-li-it {d}alad3 dum-qi2 sza2 i-di-ia
+#tr.ts: islit ﻿šēdu dumqi ﻿ša idīya
+#tr.en: split away the good šēdu-spirit of my side,
+>>Q002701.01 045
+46. ip-ru-ud la-mas-si-ma sza2-nam-ma i-sze-'e
+#tr.ts: iprud lamassīma šanâmma išē
+#tr.en: fearful was my lamassu-spirit, a second one sought out,
+>>Q002701.01 046
+47. in-ne2-t,ir ba-al-ti du-u2-ti u2-tam-mil
+#tr.ts: inneṭir baltī dūtī utammil
+#tr.en: taken away was my strength, my manliness darkened;
+>>Q002701.01 047
+48. si-im-ti ip-pa-ri-is-ma ta-ra-ni isz-hi-it,
+#tr.ts: simtī ipparisma tarānī išḫiṭ
+#tr.en: my essence flew off, onto the roof jumped,
+>>Q002701.01 048
+49. isz-szak-na-nim-ma i-da-at pi-rit-ti
+#tr.ts: iššaknānimma idāt piritti
+#tr.en: established for me were the signs of terror,
+>>Q002701.01 049
+50. usz-te-s,i ina _e2_-ia ka-ma-a-ti ar-pu-ud
+#tr.ts: uštēṣi ina bītiya kamâti arpud
+#tr.en: expelled from my house, outside I wandered;
+>>Q002701.01 050
+51. dal-ha te-re-tu-u2-a nu-up-pu-hu ud-da-kam2
+#tr.ts: dalḫā têrētu’a nuppuḫū uddakam
+#tr.en: confused were my omens, swollen all day,
+>>Q002701.01 051
+52. it-ti _{lu2}hal_ u sza2-'i-i-li a-lak-ti ul par-sat
+#tr.ts: itti bārî u šā’ili alaktī ul parṣat
+#tr.en: with diviner and dream interpreter, my path is not distinct;
+>>Q002701.01 052
+53. ina pi-i su-qi2 le-mun _i5-gar_-u2-a
+#tr.ts: ina pî suqi lemun egerrū’a
+#tr.en: in the entry of the street, ominous my oracular expressions,
+>>Q002701.01 053
+54. at-til-ma ina szat mu-szu szu-ut-ti par2-da-at
+#tr.ts: attīlma ina šāt mūšu šuttī pardat
+#tr.en: I lay down in the second watch, and my dream was frightening:
+>>Q002701.01 054
+55. _lugal uzu dingir-mesz_ {d}utu sza2 _ug3-mesz_-szu2
+#tr.ts: šarru šīr ilī šamaš ša nišīšu
+#tr.en: the king, flesh of the gods, sun of his people,
+>>Q002701.01 055
+56. lib3-bu-usz ik-ka-s,ir-ma pa-t,a-ri usz-lem-min3
+#tr.ts: libbuš ikkaṣirma paṭāri ušlemmin
+#tr.en: his stomach was knotted up, and he was making its loosening very difficult,
+>>Q002701.01 056
+57. na-an-za-zu tas-li-tu usz-ta-na-ad-da-nu _ugu-mu_
+#tr.ts: nanzāzū taslītu uštanaddanū eliya
+#tr.en: the administrators slander let constantly fly against me,
+>>Q002701.01 057
+58. pah-ru-ma ra-man-szu-nu u2-szah-ha-zu nu-ul-la-a-ti
+#tr.ts: paḫrūma ramānšunu ušaḫḫazū nullâti
+#tr.en: gathered themselves, and made stick maliciousness.
+>>Q002701.01 058
+59. szum-ma isz-ten-ma na-pisz-ta-szu u2-szat-bak-szu
+#tr.ts: šumma ištēnma napištašu ušatbakšu
+#tr.en: If the first one: ‟His life I'll make him pour out,”
+>>Q002701.01 059
+60. i-qab-bi sza2-nu-u2 u2-szat-be2 te-er-tu-szu2
+#tr.ts: iqabbi šanû ušatbe têrtuššu
+#tr.en: is saying the second, “I’ll raise (him) up from his post;”
+>>Q002701.01 060
+61. sza2 ki-ma szal-szi qip-ta-szu2 a-tam-ma-ah
+#tr.ts: ša kīma šalši qīptašu atammaḫ
+#tr.en: who like the third, “his appointment I will seize."
+>>Q002701.01 061
+62. er-ru-ub _e2_-usz-szu 4(disz)-u2 i-tam-mi
+#tr.ts: errub bītuššu rēbu itammi
+#tr.en: “I will enter in his house,” the fourth swears
+>>Q002701.01 062
+63. ha-asz2-szu pi-i ha-sze-e szu-bal-kut
+#tr.ts: ḫaššu pî ḫašê šubalkut
+#tr.en: the fifth: “the mouth of the lung was turned over,”
+>>Q002701.01 063
+64. szesz-szu u se-bu-u i-red-du-u sze-du-usz-szu2
+#tr.ts: šeššu u sebû ireddû šēduššu
+#tr.en: the sixth and seventh follow in his šēdu-spirit.
+>>Q002701.01 064
+65. ik-s,u-ru-nim-ma ri-kis se-bet i-lat-su-un
+#tr.ts: ikṣurūnimma rikis sebet ilassun
+#tr.en: They joined up against me, the band of seven, their gang;
+>>Q002701.01 065
+66. _u4_-mi-isz la pa-du-u2 u2-tuk-kisz masz-lu
+#tr.ts: ūmiš lā pâdu utukkīš mašlu
+#tr.en: like a storm without mercy, evil demons matching,
+>>Q002701.01 066
+67. u3 isz-ten2 sze-er-szu-nu-ma pa-a i-te-ed-di
+#tr.ts: u išten šēršunuma pâ iteddi
+#tr.en: and one was their flesh, and each by (word of) mouth making known,
+>>Q002701.01 067
+68. in-na-ad-ru-nim-ma na-an-hu-zu i-sza2-tisz2
+#tr.ts: innadrūnimma nanḫuzū išātiš
+#tr.en: raging against me, burning like a fire,
+>>Q002701.01 068
+69. tusz-szu u nap-ra-ku u2-szam-ga-ru _ugu-mu_
+#tr.ts: tuššu u napruku ušamgarū eliya
+#tr.en: malicious talk and obstruction they cause to join forces against me,
+>>Q002701.01 069
+70. mut-tal2-lu pi-ia a-pa-tisz2 i-tesz2-'u-u2
+#tr.ts: muttallu pīya appātiš īteš'ū
+#tr.en: my noble mouth as with a bridle they bound,
+>>Q002701.01 070
+71. szap-ta-a-a sza2 it-ta-as,-ba-ra ha-szik-kisz e-me
+#tr.ts: šaptāya ša ittāṣbarā ḫašikkiš ēme
+#tr.en: my lips that were in constant motion became as to a deaf man;
+>>Q002701.01 071
+72. sza2-pu-tu4 sza2-gi-ma-ti sza2-qum-mesz ip-par2-szid
+#tr.ts: šapūtu šagimmātī šaqmmeš ipparšid
+#tr.en: my loud roar escaped into silence;
+>>Q002701.01 072
+73. sza2-qa-a-tu4 re-sza2-a-a ik-nu-szu qaq-qar-szun
+#tr.ts: šaqātu rēšāya iknušu qaqqaršun
+#tr.en: my high head bowed to the ground;
+>>Q002701.01 073
+74. lib3-bi kab-ba-ra-a pi-rit-ti u2-tan-ni-isz
+#tr.ts: libbī kabbarā piritti utanniš
+#tr.en: my fulsome stomach the horror weakened;
+>>Q002701.01 074
+75. ra-pa-asz2-tu2 i-ra-ti a-ga-asz2-gu-u2 it-te-'e-e
+#tr.ts: rapaštu iratī agašgû itte’e
+#tr.en: my broad chest, into (that of) a small man changed;
+>>Q002701.01 075
+76. szad-di-ha a-ha-a-a ku-ta-at-tu-ma i-tah-za
+#tr.ts: ﻿šaddiḫa aḫâya kutettuma itaḫzā
+#tr.en: my far-reaching arms were bound together;
+>>Q002701.01 076
+77. sza2 e-tel-lisz at-tal-la-ku ha-la-la al-mad
+#tr.ts: ﻿ša etelli﻿š attallaku ḫalāla almad
+#tr.en: I who as a lord was walking, to crawl I learned;
+>>Q002701.01 077
+78. szar-ra-ha-ku-ma a-tur a-na re-e-szi
+#tr.ts: ﻿šarraḫākuma atūr ana rēši
+#tr.en: I was such a one as was prideful, but I turned into a slave;
+>>Q002701.01 078
+79. a-na rap-szi ki-ma-ti e-te-me e-da-nisz
+#tr.ts: ana rapši kimāti eteme edaniš
+#tr.en: (born) to an extended family, I became a loner;
+>>Q002701.01 079
+80. su-u2-qa a-ba-'a-ma tur-ru-s,a u2-ba-na-a-ti
+#tr.ts: sūqa aba’’ama turruṣā ubanāti
+#tr.en: the street I am traversing, and stretched out are fingers;
+>>Q002701.01 080
+81. er-ru-ub _e2-gal_-lisz-ma i-s,a-ab-bu-ra i-na-a-ti
+#tr.ts: errub ekallišma iṣabburā ināti
+#tr.en: I enter to the palace, and in fast movement are the eyes;
+>>Q002701.01 081
+82. _iri-mu_ ki-i a-a-bi ne2-kel-man-ni
+#tr.ts: ālī kī ayyābi nekelmânni
+#tr.en: my city, like an enemy, is looking at me with an evil eye.
+>>Q002701.01 082
+83. tu-sza2-ma nak-ra-ti na-an-dur-ti ma-a-ti
+#tr.ts: tušāma nakrati nandurti matī
+#tr.en: It was as a furious enemy, my land;
+>>Q002701.01 083
+84. a-na a-hi-i a-hi i-tu-ra
+#tr.ts: ana aḫî aḫī itūra
+#tr.en: into a stranger my brother turned;
+>>Q002701.01 084
+85. a-na lem-ni u gal-le-e i-tu-ra ib-ri
+#tr.ts: ana lemni u gallê itūra ibrī
+#tr.en: into an evil one and a gallê-demon has turned my friend;
+>>Q002701.01 085
+86. na-al-bu-bu tap-pu-u2 u2-nam-gar-an-ni
+#tr.ts: nalbubu tappû unamgaranni
+#tr.en: an enraged companion denounces me;
+>>Q002701.01 086
+87. ki-na-a-ti kak-da3-a u2-mar-ra-asz2 _{gesz}tukul_
+#tr.ts: kinātī kakdâ umarraš kakki
+#tr.en: my colleague always dirties the weapon;
+>>Q002701.01 087
+88. ru-'u3-a t,a-a-bi u2-kar-ra-s,a na-pisz-ti
+#tr.ts: rū’a ṭābi ukarraṣa napištī
+#tr.en: my sweet friend cuts off my life;
+>>Q002701.01 088
+89. szu-pisz ina _ukken_ i-ru-ra-ni ar-di
+#tr.ts: šūpîš ina puḫri īruranni ardī
+#tr.en: openly in an assembly cursed me my male slave;
+>>Q002701.01 089
+90. _geme2_ ina pa-an um-ma-ni t,a-pil-ti iq-bi
+#tr.ts: amtī ina pān ummāni ṭapiltī iqbi
+#tr.en: my female slave before gatherings slander against me spoke;
+>>Q002701.01 090
+91. i-mu-ra-ni-ma mu-du-u sza2-ha-ti i-mid
+#tr.ts: īmuranima mūdû šaḫāti īmid
+#tr.en: an acquaintance saw me, and he leaned in to the the corner;
+>>Q002701.01 091
+92. a-na la _uzu-mesz_-szu2 isz-ku-na-an-ni kim-ti
+#tr.ts: ana lā šīrīšu iškunanni kimtī
+#tr.en: as one not of its flesh established me my family;
+>>Q002701.01 092
+93. a-na qa-ab _munus-saga_-ia pi-ta-at-su hasz-ti
+#tr.ts: ana qāb damiqtiya pitassu ḫašti
+#tr.en: for who spoke of my goodness, opened up for him a tomb;
+>>Q002701.01 093
+94. mu-ta-mu-u2 t,a-pil-ti-ia sza2-kin a-na re-e-szi
+#tr.ts: mūtammû ṭapiltiya šakin ana rēši
+#tr.en: who swore to my slander was moved to the head;
+>>Q002701.01 094
+95. da-bi-ib nu-ul-la-ti-ia _dingir_ re-s,u-szu2
+#tr.ts: dābib nullâtiya ilu rēṣušu
+#tr.en: who pronounced my defamation, a god was his aid;
+>>Q002701.01 095
+96. a-na sza2 iq-bu-u2 a-hu-lap ha-mut,-su mu-u2-tu
+#tr.ts: ana ša iqbû aḫulap ḫamussu mūtu
+#tr.en: to the one who said “Mercy!,” quickly to him came death;
+>>Q002701.01 096
+97. sza2 la ka-szim-ma i-te-me ba-la-t,u sze-du-usz
+#tr.ts: ša lā kâšimma itteme balāṭu šēduš
+#tr.en: who was not hesitant, swore health his šēdu (spirit);
+>>Q002701.01 097
+98. ul ar-szi a-lik i-di ga-mi3-la ul a-mur
+#tr.ts: ūl arši ālik idī gāmila ūl āmur
+#tr.en: I had no-one at my side, mercy I did not experience;
+>>Q002701.01 098
+99. a-na s,i-in-di u bir-ti u2-za-'i-zu mim-ma-a-a
+#tr.ts: ana ṣindi u birti uza’’izū mimmāya
+#tr.en: to the bands and thugs they distributed all that I own;
+>>Q002701.01 099
+100. pi-i _i7_-ia u2-man-di-du sa-ki-ka
+#tr.ts: pî nāriya umandidū sakīka
+#tr.en: the mouth of my river they measured out with silt;
+>>Q002701.01 100
+101. ina qer-be2-ti-ia u2-szes-su-u2 {d}a-la-la
+#tr.ts: ina qerbētiya ušessū alāla
+#tr.en: from my farmlands they sent out the work song;
+>>Q002701.01 101
+102. ki-ma _iri_ na-ki-ri usz-qa-mi-im-mu _iri-mu_
+#tr.ts: kima āl nakiri ušqammimu ālī
+#tr.en: like the city of an enemy, they let grow silent my city;
+>>Q002701.01 102
+103. par-s,i-ia u2-szal-qu-u sza2-nam-ma
+#tr.ts: parṣīya ušalqû ﻿šanâmma
+#tr.en: my offices they let take another;
+>>Q002701.01 103
+104. u3 ina pel-lu-de-e-a a-ha-a usz-ziz-zu
+#tr.ts: u ina pelludīya aḫâ u﻿šzizzū
+#tr.en: and to my cultic duties a stranger they stationed.
+>>Q002701.01 104
+105. _u4_-mu szu-ta-nu-hu mu-szu ger-ra-nu
+#tr.ts: ūmu šutānuḫu mūšu gerrānu
+#tr.en: A day of weariness, a night of wailing;
+>>Q002701.01 105
+106. _iti_ qi2-ta-a-a-u2-lu i-dir-tu2 _mu-an-na_
+#tr.ts: arḫu qitayyulu idirtu ﻿šattu
+#tr.en: a month of anxious silence, misery the year;
+>>Q002701.01 106
+107. ki-ma su-um-mi a-dam-mu-ma gi-mir _u4-mesz_-ia
+#tr.ts: kima summi adammuma gimir ūmīya
+#tr.en: like a dove I mourn all my days,
+>>Q002701.01 107
+108. za-am-ma-ru qu-bi-ia u2-sza2-as,-rap
+#tr.ts: zammārū qubbīya ušaṣrap
+#tr.en: singers my lamentation make loud;
+>>Q002701.01 108
+109. i-na bi-tak-ki-i szub-ra-a i-na-a-a
+#tr.ts: ina bitakki šubrā ināya
+#tr.en: in constant weaping were caused to see my eyes;
+>>Q002701.01 109
+110. hasz-szisz i-na di-ma-tu4 s,ur-ru-pa u2-suk-ka-a-a
+#tr.ts: ḫa﻿š﻿ši﻿š ina dimāti ṣurrupā usukkāya
+#tr.en: fifty times over, in tears burned my cheeks;
+>>Q002701.01 110
+111. us,-s,al-lim pa-ni-ia2 a-di-rat lib3-bi-ia
+#tr.ts: uṣṣallim pānīya adirat libbiya
+#tr.en: blackened my face the darkness of my stomach;
+>>Q002701.01 111
+112. masz-ki-ia u2-tar-ri-qu pi-rit-tu4 u hat-tu4
+#tr.ts: maškīya utarriqū pirittu u ḫattu
+#tr.en: my skin turned yellow did terror and panic,
+>>Q002701.01 112
+113. i-na-a-ti lib3-bi-ia ina gi-tal-lu-ti ir-tu-ba
+#tr.ts: ināti libbiya ina gitalluti irtūbā
+#tr.en: the ‘sources’ of my stomach in constant panic trembled,
+>>Q002701.01 113
+114. dan-na ki-ma s,a-rap i-sza2-ti
+#tr.ts: danna kīma ṣarap išāti
+#tr.en: it burned like a thousand suns,
+>>Q002701.01 114
+115. ki-ma nab-li musz-tah-mi-t,i e-mat tes2-li-ti
+#tr.ts: kīma nabli muštaḫmiṭī emat teslītī
+#tr.en: like a flame blazing turned my supplication;
+>>Q002701.01 115
+116. ki-ma s,al-tu4 pu-uh2-pu-uh2-hu-u2 su-pu-u2-a
+#tr.ts: kīma ṣāltu puḫpuḫḫû supū’a
+#tr.en: like strife and brawl was my prayer,
+>>Q002701.01 116
+117. usz-t,ib szap-ti-ia ki-i da-'i-i-mu asz2-t,a
+#tr.ts: ušṭīb šaptīya kī da’īmu ašṭā
+#tr.en: I sweetened my lips, like a lance stiff,
+>>Q002701.01 117
+118. t,ab3-tisz a-ta-mu-u2 nap-ra-ku na-pa-lu-u2-a
+#tr.ts: ṭabtiš atamû napraku napalū’a
+#tr.en: like salt I swore, a bolt is my interpreter;
+>>Q002701.01 118
+119. tu-sza2-ma ina ur-ri isz-szi-ra da-me-eq-tu4
+#tr.ts: luš’ad ina urri iššira dameqtu
+#tr.en: I hope, at daybreak comes a good thing to me;
+>>Q002701.01 119
+120. ar-hu in-nam-ma-ru i-nam-me-ra {d}utu-szi
+#tr.ts: arḫu innammaru inammera šamšī
+#tr.en: the moon becomes visible, shines my sun.
+>>Q002701.01 120
+@canto 2
+1. _kur_-ud-ma ana ba-lat, a-dan-na i-te-eq
+#tr.ts: akšudma ana balāṭ adanna ītiq
+#tr.en: I survived to the next year; the appointed time passed.
+>>Q002701.02 001
+2. a-sah-hur-ma le-mun le-mun-ma
+#tr.ts: asaḫḫurma lemun lemunma
+#tr.en: As I turn round, it is terrible, it is so terrible;
+>>Q002701.02 002
+3. za-pur-ti u2-ta-s,a-pa i-szar-ti ul ut-tu
+#tr.ts: zapurtī ūtaṣṣapa išartī ul uttu
+#tr.en: My ill luck has increased, and I do not find the right.
+>>Q002701.02 003
+4. _dingir_ al-si-ma ul id-di-na pa-ni-szu2
+#tr.ts: ila alsīm ul iddina pānīšu
+#tr.en: I called to my god, but he did not show his face,
+>>Q002701.02 004
+5. u2-sal-li {d}isz-tar-ri ul u2-sza2-qa-a re-szi-sza2
+#tr.ts: usalli ištarī ul ušaqqâ rēšīša
+#tr.en: I prayed to my goddess, but she did not raise her head.
+>>Q002701.02 005
+6. _{lu2}hal_ ina bi-ir ar2-kat3 ul ip-ru-us
+#tr.ts: bārû ina bīr arkat ul iprus
+#tr.en: The diviner with his inspection has not got to the root of the matter,
+>>Q002701.02 006
+7. ina ma-asz2-szak-ki _{lu2}ensi_ ul u2-sza2-pi di-i-ni
+#tr.ts: ina maššakki šā’ilu ul ušāpi dīnī
+#tr.en: nor with a libation has the dream interpreter elucidated my case.
+>>Q002701.02 007
+8. za-qi2-qu a-bal-ma ul u2-pat-ti uz-ni
+#tr.ts: zaqīqu abālma ul upatti uznī
+#tr.en: I sought the favor of the zaqzīqu-spirit, but he did not enlighten me;
+>>Q002701.02 008
+9. _{lu2}masz-masz_ ina ki-kit,-t,e-e ki-mil-ti ul ip-t,ur
+#tr.ts: mašmaššu ina kikiṭṭê kimiltī ul ipṭur
+#tr.en: And the incantation priest with his ritual did not appease the divine wrath against me.
+>>Q002701.02 009
+10. a-a-i-te ep-sze-e-ti sza2-na-a-ti ma-ti-tan
+#tr.ts: ayyīte epšēti šanāti mātitān
+#tr.en: What strange conditions everywhere!
+>>Q002701.02 010
+11. a-mur-ma ar2-kat3 ri-da-ti ip-pi-ru
+#tr.ts: āmurma arkat ridâti ippīru
+#tr.en: When I look behind, there is persecution, trouble.
+>>Q002701.02 011
+12. ki-i sza2 tam-qi2-tum a-na _dingir_ la uk-tin-nu
+#tr.ts: kī ša tamqītum ana ili lā uktinnu
+#tr.en: Like one who has not made libations to his god,
+>>Q002701.02 012
+13. u3 ina ma-ka-le-e {d}isz-tar-ri la zak-ru
+#tr.ts: u ina mākalê ištari lā zakru
+#tr.en: Nor invoked his goddess at table,
+>>Q002701.02 013
+14. ap-pi la e-nu-u2 szu-kin-ni la am-ru
+#tr.ts: appi lā enû šukînni lā amru
+#tr.en: Does not engage in prostration, nor takes cognizance of bowing down;
+>>Q002701.02 014
+15. ina pi-i-szu2 ip-par-ku-u2 su-up-pe-e tes2-li-ti
+#tr.ts: ina pîšu ipparkû suppû teslītu
+#tr.en: From whose mouth supplication and prayer is lacking,
+>>Q002701.02 015
+16. ib-t,i-lu _u4_-mu _dingir_ i-sze-t,u2 esz-sze-szi
+#tr.ts: ibṭilu ūmu ili išēṭu eššēšī
+#tr.en: Who has done nothing on holy days, and despised sabbaths,
+>>Q002701.02 016
+17. id-du-u2 ah-szu2-ma me-e-szu-nu i-me-szu
+#tr.ts: iddû aḫšuma mēšunu imēšu
+#tr.en: Who in his negligence has despised the gods’ rites,
+>>Q002701.02 017
+18. pa-la-hu u3 it-'u-du la u2-szal-me-du _ug3-mesz_-szu2
+#tr.ts: palāḫu u it’udu lā ušalmidu nišīšu
+#tr.en: Has not taught his people reverence and worship,
+>>Q002701.02 018
+19. _dingir_-szu2 la iz-ku-ru i-ku-lu a-kal-szu2
+#tr.ts: ilšu lā izkur īkul akalšu
+#tr.en: But has eaten his food without invoking his god,
+>>Q002701.02 019
+20. i-zib {d}isz-tar-ta-szu2 mas,-ha-tu la ub-la
+#tr.ts: īzib ištartašu masḫatu lā ubla
+#tr.en: And abandoned his goddess by not bringing a flour offering,
+>>Q002701.02 020
+21. a-na sza2 im-hu-u2 be-la-szu2 im-szu-u2
+#tr.ts: ana ša imḫû bēlšu imšû
+#tr.en: Like one who has grown torpid and forgotten his lord,
+>>Q002701.02 021
+22. nisz _dingir_-szu2 kab-ti qal-lisz iz-ku-ru a-na-ku am-szal
+#tr.ts: nīš ilīšu kabti qalliš izkur anāku amšal
+#tr.en: Has frivolously sworn a solemn oath by his god, (like such an one) do I appear.
+>>Q002701.02 022
+23. ah-su-us-ma ra-ma-ni su-up-pe-e u tes2-li-ti
+#tr.ts: aḫsusma raman suppû teslīti
+#tr.en: For myself, I gave attention to supplication and prayer:
+>>Q002701.02 023
+24. tes2-li-tum ta-szi-mat ni-qu-u sak-ku-u2-a
+#tr.ts: teslītī tašīmat niqû sakkû’a
+#tr.en: To me prayer was discretion, sacrifice my rule.
+>>Q002701.02 024
+25. _u4_-mu pa-la-ah _dingir-mesz_ t,u-ub _sza3_-bi-ia
+#tr.ts: ūmu palāḫ ilī ṭūb libbīya
+#tr.en: The day for reverencing the god was a joy to my heart;
+>>Q002701.02 025
+26. _u4_-mu ri-du-ti {d}isz-tar ne2-me-li ta-at-tur-ru
+#tr.ts: ūmu ridûti ištar nēmeli tatturu
+#tr.en: The day of the goddess’s procession was profit and gain to me.
+>>Q002701.02 026
+27. ik-ri-bi _lugal_ szi-i hi-du-ti
+#tr.ts: ikribi šarri šī ḫidûtī
+#tr.en: The king’s prayer-that was my joy,
+>>Q002701.02 027
+28. u3 ni-gu-ta-szu2 a-na da-me-eq-ti szum-ma
+#tr.ts: u nēgûtašu ana damiqti šumma
+#tr.en: And the accompanying music became a delight for me.
+>>Q002701.02 028
+29. u2-sza2-ri a-na _kur_-ia me-e _dingir_ na-s,a-ri
+#tr.ts: uššar ana māti mê ili naṣāri
+#tr.en: I instructed my land to keep the god’s rites,
+>>Q002701.02 029
+30. szu-mi {d}isz-ta-ri szu-qu-ru _ug3-mesz_-ia usz-ta-hi-iz
+#tr.ts: šumi ištar šūqur nišīya uštāḫiz
+#tr.en: And provoked my people to value the goddess’s name.
+>>Q002701.02 030
+31. ta-na-da-a-ti _lugal_ i-lisz u2-masz-szil
+#tr.ts: tanādāti šarri iliš umaššil
+#tr.en: I made praise for the king like a god’s,
+>>Q002701.02 031
+32. u3 pu-luh-ti _e2-gal_ um-man u2-szal-mid
+#tr.ts: u puluḫti ekalli ummān ušalmid
+#tr.en: And taught the populace reverence for the palace.
+>>Q002701.02 032
+33. lu-u i-de ki-i it-ti _dingir_ i-ta-am-gur an-na-a-ti
+#tr.ts: lū idi kī itti ili itamgur annâti
+#tr.en: I wish I knew that these things were pleasing to one’s god!
+>>Q002701.02 033
+34. sza dam-qat ra-ma-nu-usz a-na _dingir_ gul-lul-tum
+#tr.ts: ša damqat ramānuš ana ili&#160;gullultum
+#tr.en: What is proper to oneself is an offence to one’s god,
+>>Q002701.02 034
+35. sza ina _sza3_-bi-szu2 mu-us-su-kat3 _ugu dingir_-szu2 dam-qat
+#tr.ts: ša ina libbīšu mussukat eli ilīš damqat
+#tr.en: What in one’s own heart seems despicable is proper to one’s god,
+>>Q002701.02 035
+36. a-a-u2 t,e3-em _dingir-mesz_ qe2-reb _an_-e i-lam-mad
+#tr.ts: ayyu ṭēm ilī qereb šamê ilammad
+#tr.en: Who knows the will of the gods in heaven?
+>>Q002701.02 036
+37. mi-lik sza2 an-za-nun-ze-e i-ha-ak-kim man-nu
+#tr.ts: milik ša zanunzê iḫakkim mannu
+#tr.en: Who understands the plans of the underworld gods?
+>>Q002701.02 037
+38. e-ka-a-ma il-ma-da a-lak-ti _dingir-mesz_ a-pa-a-ti
+#tr.ts: ēkamma ilmadā alakti ilī apâti
+#tr.en: Where have mortals learnt the way of a god?
+>>Q002701.02 038
+39. sza2 ina am-mat ib-lu-t,u i-mut ud-de-esz
+#tr.ts: ša ina amšat ibluṭu imūt uddiš
+#tr.en: He who was alive yesterday is dead today.
+>>Q002701.02 039
+40. sur-risz usz-ta-dir za-mar uh-ta-bar
+#tr.ts: surriš uštādir zamar uḫtabbar
+#tr.en: For a minute he was dejected, suddenly he is exuberant,
+>>Q002701.02 040
+41. ina s,i-bit ap-pi i-za-am-mur e-le-la
+#tr.ts: ina ṣibit appi izammur elīla
+#tr.en: One moment people are singing in exaltation,
+>>Q002701.02 041
+42. ina pi-it pu-ri-di u2-s,ar-rap lal-la-re-esz
+#tr.ts: ina pīt purīdi uṣarrap lallāriš
+#tr.en: Another they groan like professional mourners.
+>>Q002701.02 042
+43. ki-i pe-te-e u3 ka-ta-mi t,e3-em-szi-na szit-ni
+#tr.ts: kī pitê u katāmi ṭēnšina šitni
+#tr.en: Their condition changes like opening and shutting (the legs).
+>>Q002701.02 043
+44. im-mu-s,a-ma im-ma-a sza2-lam-tisz2
+#tr.ts: immuṣāma immâ šalamtiš
+#tr.en: When starving they become like corpses,
+>>Q002701.02 044
+45. i-szib-ba-a-ma i-sza2-an-na-na _dingir_-szin
+#tr.ts: išebbâma išannâ ilšin
+#tr.en: When replete they vie with their gods.
+>>Q002701.02 045
+46. ina t,a-a-bi i-ta-ma-a i-li sza2-ma-'i
+#tr.ts: ina ṭâbi itammâ ili šamā’ī
+#tr.en: In prosperity they speak of scaling heaven,
+>>Q002701.02 046
+47. u2-tasz-sza2-sza2-ma i-dab-bu-ba a-rad ir-kal-la
+#tr.ts: ūtaššašāma idabbubā arād irkalla
+#tr.en: Under adversity they complain of going down to hell.
+>>Q002701.02 047
+48. ana an-na-ti usz-ta-ad-di qe2-reb-szi-na la al-tan-da
+#tr.ts: ana annāti uštaddi qerebšina la altanda
+#tr.en: I am appalled at these things; I do not understand their significance.
+>>Q002701.02 048
+49. ana ia-a-ti szu-nu-hu i-red-di me-hu-u
+#tr.ts: u yâti šūnuḫu ireddi meḫû
+#tr.en: As for me, the exhausted one, a tempest is driving me!
+>>Q002701.02 049
+50. _gig_ mun-ni-szu2 e-li-ia in-nesz-ra
+#tr.ts: murṣu munnišu elīya innešra
+#tr.en: Debilitating Disease is let loose upon me:
+>>Q002701.02 050
+51. im-hul-lu isz-tu i-szid _an_-e i-zi-qa
+#tr.ts: imḫullu ištu išid šamê izīqa
+#tr.en: An Evil Wind has blown from the horizon,
+>>Q002701.02 051
+52. isz-tu i-rat _ki_-tim i-szi-ha di-i'-u2
+#tr.ts: ultu irat erṣētim išīḫa ṭī’i
+#tr.en: Headache has sprung up from the surface of the underworld,
+>>Q002701.02 052
+53. szu-u2-lu lem-nu it-ta-s,a-a ap-su-usz-szu2
+#tr.ts: šūlu lemnu ittaṣâ apsuššu
+#tr.en: An Evil Cough has left its Apsu,
+>>Q002701.02 053
+54. u2-tuk-ku la ne2-'i u2-s,a-a ul-tu _e2-kur_
+#tr.ts: utukku lā nê’i uṣâ ulti bīt māti
+#tr.en: The irresistible Ghost left Ekur,
+>>Q002701.02 054
+55. la-masz-tum ur-da ul-tu qe2-reb _kur_-i
+#tr.ts: lamaštu urda ultu qereb šadî
+#tr.en: The Lamastu-demon came down from the Mountain,
+>>Q002701.02 055
+56. it-ti _e4-la6_ szu-ru-up-pu-u i-nu-szu
+#tr.ts: itti ela šuruppû īnušū
+#tr.en: Cramp set out from ... the flood,
+>>Q002701.02 056
+57. it-ti ur-qit _ki_-tim i-pe-s,i lu-u'-tu2
+#tr.ts: itti urqit erṣetim ipeṣṣi lu’tu
+#tr.en: Impotence cleaves the ground along with the grass.
+>>Q002701.02 057
+58. in-nin?-du?-ma pu-hur-szu2-nu 1(disz)-nisz it,-hu-ni
+#tr.ts: inninduma puḫuršunu ištēniš iṭḫuni
+#tr.en: ... their host, fogether they came on me.
+>>Q002701.02 058
+59. i-ni-tu qaq-qa-du i-te-'u-u2 muh-hi
+#tr.ts: initu qaqqadu ite’u muḫḫi
+#tr.en: ... head, they enveloped my skull;
+>>Q002701.02 059
+60. bu-na-ia i-ki-lu i-na-i-lu _igi-min_-ia
+#tr.ts: būnēya ikkilū ina’’ilū īnāya
+#tr.en: My face is gloomy, my eyes are in flood.
+>>Q002701.02 060
+61. la-ba-ni i-te-qu u2-ram-mu-u2 ki-sza2-du
+#tr.ts: labānī ētiqū urammû kišādu
+#tr.en: They have wrenched my neck muscles and taken the strength from my neck.
+>>Q002701.02 061
+62. ir-tum im-ha-s,u tu-le-e it,-t,e4-ru
+#tr.ts: irtī imḫaṣū tūlê iṭṭirû
+#tr.en: They struck my chest, drubbing my breast.
+>>Q002701.02 062
+63. s,e-e-ri il-pu-tu2 ra-'i-ba id-du-u2
+#tr.ts: šīrī ilputū ra’ība iddû
+#tr.en: They affected my flesh and caused convulsions,
+>>Q002701.02 063
+64. ina re-esz _sza3_-bi-ia ip-pu-hu i-sza2-tu
+#tr.ts: ina rēš libbīya ippuḫū išātu
+#tr.en: In my epigastrium they kindled a fire.
+>>Q002701.02 064
+65. qer-bi-ia id-lu-hu u2-na-ti-ia2 ut-ti-ku
+#tr.ts: qerbīya idluḫū u&lt;bā&gt;nātīya uttikū
+#tr.en: They upset my bowels ... .
+>>Q002701.02 065
+66. szu-u2-lu ha-ah-hu u2-la-'i-bu ha-sze-e-a
+#tr.ts: šūlu u ḫaḫḫu ula’’ibū ḫašêya
+#tr.en: Causing the discharge of phlegm, they brought on a fever in my lungs.
+>>Q002701.02 066
+67. mesz-re-ti-ia u2-la-'i-bu u2-nisz-szu pi-it-ri
+#tr.ts: mešrêtīya ula’’ibā uniššū pitrī
+#tr.en: They caused fever in my limbs and made my fat quake.
+>>Q002701.02 067
+68. la-a-ni zaq-ra i-bu-tu2 i-ga-ri-isz
+#tr.ts: lāna zaqru ībutū igāriš
+#tr.en: My lofty stature they destroyed like a wall,
+>>Q002701.02 068
+69. gat-ti rap-sza2-ta u2-ru-ba-isz usz-ni-i-lu4
+#tr.ts: gattī rapšat urubā’iš ušnīla
+#tr.en: My robust figure they laid down like a bulrush,
+>>Q002701.02 069
+70. ki-i u2-lil-te an-na-bi-ik bu-pa-nisz an-na-di
+#tr.ts: kī ulilte annābik buppāniš annadi
+#tr.en: I am thrown down like a bog plant and cast on my face.
+>>Q002701.02 070
+71. a-lu-u2 zu-um-ri i-te-di-iq s,u-ba-ti
+#tr.ts: alû zumrī ītediq ṣubātī
+#tr.en: The alu-demon has clothed himself in my body as with a garment;
+>>Q002701.02 071
+72. ki-ma szu-usz-kal-li u2-kat3-ti-man-ni szit-tu2
+#tr.ts: kīma šuškalli ukattimanni šittu
+#tr.en: Sleep covers me like a net.
+>>Q002701.02 072
+73. pal-s,a-a-ma ul i-na-at,-t,al i-na-a-a
+#tr.ts: palṣāma ul inaṭṭal īnāya
+#tr.en: My eyes stare, but do not see,
+>>Q002701.02 073
+74. pe-ta-a-ma ul i-szem-ma-a uz-na-a-a
+#tr.ts: petâ ul išemmâ uznāya
+#tr.en: My ears are open, but do not hear.
+>>Q002701.02 074
+75. kal pag-ri-ia i-ta-haz ri-mu-tu2
+#tr.ts: kal pagrīya ītaḫaz remûtu
+#tr.en: Feebleness has seized my whole body,
+>>Q002701.02 075
+76. mi-szit-tu im-ta-qut _ugu uzu-mesz_-ia
+#tr.ts: mišittu imtaqut eli šīrīya
+#tr.en: Concussion has fallen upon my flesh.
+>>Q002701.02 076
+77. man-gu is,-s,a-bat i-di-ia
+#tr.ts: mangu iṣbat idīya
+#tr.en: Paralysis has grasped my arms,
+>>Q002701.02 077
+78. lu-u'-tu2 im-ta-qut _ugu_ bir-ki-ia
+#tr.ts: lu’tu imtaqut eli birkīya
+#tr.en: Impotence has fallen on my knees,
+>>Q002701.02 078
+79. ma-sza2-ma na-mu-szi-sza2 sze-pa-a-a
+#tr.ts: mašâma nammuššīša šēpāya
+#tr.en: My feet forget their motion.
+>>Q002701.02 079
+80. mi-ih-s,u szuk-szu-du u2-nap-paq ma-aq-tisz2
+#tr.ts: miḫṣu šukšudu unappaq maqtiš
+#tr.en: A stroke has got me; I choke like someone prostrate.
+>>Q002701.02 080
+81. szu-du-ut mu-tu i-te-rim pa-ni-ia
+#tr.ts: šuddut mūtu itērim pānīya
+#tr.en: ... death, it has covered my face.
+>>Q002701.02 081
+82. i-ha-sa-sa-ni-ma sza2-'i-li ul ap-pal
+#tr.ts: iḫassasānimma šā’ili ul appal
+#tr.en: The dream priest mentions me, but I do not respond.
+>>Q002701.02 082
+83. u8-a i-bak-ku-u ra-ma-nu ul i-szi
+#tr.ts: ua ibakku ramānu ul iši
+#tr.en: ... weep, but I have no control of my faculties.
+>>Q002701.02 083
+84. ina pi-ia na-ah-ba-lu na-di-ma
+#tr.ts: ina pîya naḫbal nadīma
+#tr.en: A snare is . laid on my mouth,
+>>Q002701.02 084
+85. u3 nap-ra-ku se-ki-ir szap-ti-ia
+#tr.ts: u napraku sekir šaptīya
+#tr.en: And a bolt bars my lips.
+>>Q002701.02 085
+86. ba-bi e-di-il pi-hi masz-qu-u-a
+#tr.ts: bābī edil peḫi mašqû’a
+#tr.en: My ’gate’ is barred, my ’drinking place’ blocked,
+>>Q002701.02 086
+87. ar2-kat bu-bu-te ka-tim ur-u2-di
+#tr.ts: arkat bubūtī katim ur’udī
+#tr.en: My hunger is prolonged, my throat stopped up.
+>>Q002701.02 087
+88. asz2-na-an szum-ma da-ad-da-risz a-la-'u-ut
+#tr.ts: ašnan šumma daddāriš ala’’ut
+#tr.en: When grain is served, I eat it like stinkweed,
+>>Q002701.02 088
+89. {d}szim nab-lat, _ug3-mesz ugu-mu_ im-tar-s,u
+#tr.ts: siriš napšat nišī elīya imtarṣu
+#tr.en: Beer, the life of mankind, is distasteful to me.
+>>Q002701.02 089
+90. ap-pu-na-ma i-te-ri-ik si-le-e-tum
+#tr.ts: appūnāma ēterik silītu
+#tr.en: My malady is indeed protracted.
+>>Q002701.02 090
+91. ina la ma-ka-le-e zi-mu-u2-a it-tak-ru
+#tr.ts: ina lā mākalê zīmū’a ittakrū
+#tr.en: Through lack of food my countenance is changed,
+>>Q002701.02 091
+92. _uzu_ isz-tah-ha da-mi iz-zu-ba
+#tr.ts: šīrī ištaḫḫa dāmī izzūba
+#tr.en: My flesh is flaccid, and my blood has ebbed away.
+>>Q002701.02 092
+93. e-s,e-et-tum us-su-qat6 a-ri-ma-at masz-ki
+#tr.ts: eṣettum ussuqat arimat maškī
+#tr.en: My bones have corne apart, and are covered (only) with my skin.
+>>Q002701.02 093
+94. szi-ir-a-nu-u2-a nu-up-pu-hu u2-ri-iq-tum mah-ru
+#tr.ts: šer’ānū’a nuppuḫū uriqtum maḫrū
+#tr.en: My tissues are inflamed, and have caught the ...-disease.
+>>Q002701.02 094
+95. a-hu-uz _{gesz}na2_ me-si-ru mu-s,e-e ta-ni-hu
+#tr.ts: āḫuz erši mēsiri mūṣê tānīḫu
+#tr.en: I take to a bed of bondage; going out is a pain;
+>>Q002701.02 095
+96. a-na ki-szuk-ki-ia i-tu-ra bi-i-tu
+#tr.ts: ana kisukkīya itūra bītum
+#tr.en: My house has become my prison.
+>>Q002701.02 096
+97. il-lu-ur-tu2 szi-ri-ia na-da-a i-da-a-a
+#tr.ts: illurtu šīrīya nadâ idāya
+#tr.en: My arms are stricken-which shackles my flesh;
+>>Q002701.02 097
+98. masz-kan ram-ni-ia muq-qu-ta sze-pa-a-a
+#tr.ts: maškan ramnīya muqqutā šēpāya
+#tr.en: My feet are limp-which fetters my person.
+>>Q002701.02 098
+99. ni-t,a-tu-u2-a szum-ru-s,a mi-hi-is,-tu dan-na-at
+#tr.ts: niṭâtū’a šumruṣā miḫiṣtu dannat
+#tr.en: My afflictions are grievous, my wound is severe.
+>>Q002701.02 099
+100. qin-na-zu it,-t,a-an-ni ma-lat s,il-la-a-tum
+#tr.ts: qinnazu iṭṭânni malâti ṣillātum
+#tr.en: A scourge has thrown me down, the stroke is intense.
+>>Q002701.02 100
+101. pa-ru-usz-szu2 u2-sah-hi-la-an-ni zi-qa-ta lab-szat
+#tr.ts: paruššu usaḫḫilanni ziqata labšat
+#tr.en: The crop pierces me and the spur is severe.
+>>Q002701.02 101
+102. kal _u4_-mu re-du-u2 i-ri-id-dan-ni
+#tr.ts: kāl ūmu ridû ireddânni
+#tr.en: All day long the tormentor torments me,
+>>Q002701.02 102
+103. ina szat mu-szi ul u2-nap-pa-sza2-an-ni sur-risz
+#tr.ts: ina šāt mūši ul unappašanni surriš
+#tr.en: Nor at night does he let me relax for a minute.
+>>Q002701.02 103
+104. ina i-tab-lak-ku-ti pu-ut,-t,u-ru rik-su-u2-a
+#tr.ts: ina ittablakkuti puṭṭurū riksū’a
+#tr.en: Through twisting my sinews are parted,
+>>Q002701.02 104
+105. mesz-re-tu-u-a su-up-pu-ha i-ta-ad-da-a a-hi-tum
+#tr.ts: mešrētū’a suppuḫā ittaddâ aḫītum
+#tr.en: My limbs are splayed and knocked apart.
+>>Q002701.02 105
+106. ina ru-ub-s,i-ia a-bit ki-i al-pi
+#tr.ts: ina rubṣīya abīt kī alpi
+#tr.en: I spend the night in my dung like an ox,
+>>Q002701.02 106
+107. ub-tal-lil ki-i _udu-nita2_ ina ta-ba-asz2-ta-ni-ia
+#tr.ts: ubtallil kī immeri ina tabaštāniya
+#tr.en: And wallow in my excrement like a sheep.
+>>Q002701.02 107
+108. _sa-gig_-ki-ia isz-hu-t,u _{lu2}masz-masz_
+#tr.ts: sakīkīya išḫuṭū mašmaššu
+#tr.en: My complaints have exposed the incantation priest,
+>>Q002701.02 108
+109. u3 te-re-ti-ia _{lu2}hal_ u2-tesz2-szi
+#tr.ts: u têrētīya bārû ūtešši
+#tr.en: And my omens have confounded the diviner.
+>>Q002701.02 109
+110. ul u2-sza2-pi a-szi-pu szi-kin mur-s,i-ia
+#tr.ts: ul ušāpi āšipu šikin murṣiya
+#tr.en: The exorcist has not diagnosed the nature of my complaint,
+>>Q002701.02 110
+111. u3 a-dan-na si-li-i'-ti-ia _{lu2}hal_ ul id-din
+#tr.ts: u adanna sili’tīya bārû ul iddin
+#tr.en: Nor has the diviner put a time limit on my illness.
+>>Q002701.02 111
+112. ul i-ru-s,a _dingir_ qa-ti ul is,-bat
+#tr.ts: ul irūṣa ilī qātī ul iṣbat
+#tr.en: My god has not come to the rescue in taking me by the hand,
+>>Q002701.02 112
+113. ul i-re-man-ni {d}isz-ta-ri i-da-a-a ul il-lik
+#tr.ts: ul irēmanni ištarī idāya ul illik
+#tr.en: Nor has my goddess shown pity on me by going at my side.
+>>Q002701.02 113
+114. pe-ti _ki-mah_ er-su-u2 szu-ka-nu-u-a
+#tr.ts: piti kimaḫḫu ersû šukānū’a
+#tr.en: My grave was waiting, and my funerary paraphernalia ready,
+>>Q002701.02 114
+115. a-di la mi-tu-ti-i-ma bi-ki-ti gam-rat
+#tr.ts: adi lā mītūtīya bikītī gamrat
+#tr.en: Before I had died lamentation for me was finished.
+>>Q002701.02 115
+116. kal ma-ti-ia ki-i ha-bil2 iq-bu-ni
+#tr.ts: kāl mātīya kī ḫabil iqbûni
+#tr.en: All my country said, “How he is crushed!”
+>>Q002701.02 116
+117. isz-me-e-ma ha-du-u2-a im-me-ru pa-nu-szu2
+#tr.ts: išmēma ḫādû’a immerū pānūšu
+#tr.en: The face of him who gloats lit up when he heard,
+>>Q002701.02 117
+118. ha-di-ti u2-ba-as-si-ru ka-bat-ta-sza2 ip-pir-du
+#tr.ts: ḫādītī ubassirū kabattašu ipperdu
+#tr.en: The tidings reached her who gloats, and her heart rejoiced.
+>>Q002701.02 118
+119. i-t,i _u4_-mu sza2 gi-mir kim-ti-ia
+#tr.ts: īdi ūmu ša gimir kimtīya
+#tr.en: But I know the day for my whole family,
+>>Q002701.02 119
+120. sza2 qe2-reb mu-de-e {d}utu-su-un i-kil
+#tr.ts: ša qereb mūdê šamassun irêm
+#tr.en: When, among my friends, their Sun will have mercy.
+>>Q002701.02 120
+@canto 3
+1. kab-ta-at _szu_-su ul a-le-'i-i na-sza2-sza2
+>>Q002701.03 001
+2. ad-rat pu-luh-ta-szu u2-[...]
+>>Q002701.03 002
+3. en-nis-su ez-zi-ta a-bu-ba-ma [...]
+>>Q002701.03 003
+4. dan-na-at _ki-gub_-ta-szu2 i-x-x-[...]
+>>Q002701.03 004
+5. dan-nu _gig_ kab-ta ra-ma-ni la i-[...]
+>>Q002701.03 005
+6. e-ru-ti ma-sza2-ku u2-szar-pa-du-ni-in-ni [...]
+>>Q002701.03 006
+7. ur-ra u mu-szu2 isz-te-nisz a-na-as-su-us
+>>Q002701.03 007
+8. _masz2 ge6_ mu-na-at-tu2 mal-ma-lisz szu-um-ru-s,a-ku
+>>Q002701.03 008
+9. isz-ta-nu et,-lu a-tir szi-kit-ti
+>>Q002701.03 009
+10. mi-na-ta szur-ru-uh lu-bu-usz-ta ud-du-usz
+>>Q002701.03 010
+11. asz2-szu2 ina mu-na-at-ti szid-du-szu gat-ta su2-uq-qu
+>>Q002701.03 011
+12. me-lam-me ha-lip2 la-bisz pu-ul-ha-ti
+>>Q002701.03 012
+13. i-ru-ba-am-ma it-ta-zi-iz _ugu_-ia
+>>Q002701.03 013
+14. a-mur-szu-ma ih-ha-mu-u _uzu_-u-a
+>>Q002701.03 014
+15. iq-bi-ma be-el-ka isz-pur-an-ni
+>>Q002701.03 015
+16. [...]-x-mi iz-ziz szum-ru-s,u x-qa-a-[...]
+>>Q002701.03 016
+17. puh-ram-ma a-tam-ma-a t,e-mu-szu2-nu
+>>Q002701.03 017
+18. sza2 _lugal_-ma isz-pu-ru a-me-lu-tu?
+>>Q002701.03 018
+19. i-qu-lu-ma ul i-pu-la-an-ni ma-am-ma
+>>Q002701.03 019
+20. szu-ut isz-mu-nin-ni a-na-t,al-ma
+>>Q002701.03 020
+21. asz2-ni-ma szu-na-ta a-na-at,-t,al
+>>Q002701.03 021
+22. ina _masz2 ge6_ at,-t,u-lu mu-szi-ti-ia
+>>Q002701.03 022
+23. isz-ta-nu ram-ku na-asz2 _{dug}a-gub2-ba_
+>>Q002701.03 023
+24. {gesz}bi-nu mu-ul-li-lu ta-mi-ih rit-tusz-szu
+>>Q002701.03 024
+25. lal3-ur2-alim-ma a-szip nibru{ki}
+>>Q002701.03 025
+26. a-na ub-bu-bi-ka isz-pu-ra-an-ni
+>>Q002701.03 026
+27. _a-mesz_ na-szu-u2 _ugu_-ia it-bu-uk
+>>Q002701.03 027
+28. szi-pat ba-la-t,i id-da-a u2-masz-szi-i' zu-um-ri
+>>Q002701.03 028
+29. asz2-lu-usz-ma szu-ut-tu a-na-at,-t,al
+>>Q002701.03 029
+30. ina _masz2 ge6_ at,-t,u-lu mu-szi-ti-ia
+>>Q002701.03 030
+31. isz-te-et _ki-sikil_ ba-nu-u2 zi-mu-sza2
+>>Q002701.03 031
+32. ni-szi-isz la-ab-sza-ti i-lisz masz-lat
+>>Q002701.03 032
+33. szar-ra-at _ug3-mesz_ [...] x x x x ma-a x x
+>>Q002701.03 033
+34. i-ru-ba-am-ma i-tasz-ziz _ugu_-ia
+>>Q002701.03 034
+35. iq-ba-a a-hu-la-pi2 ma-gal szu-nu-uh-ma
+>>Q002701.03 035
+36. la ta-pal-lah iq-ba-a u2-sza2-ar-hi-s,a-an-ni lib3-bu
+>>Q002701.03 036
+37. me-mu-u _masz2 ge6_ i-t,ul [...]
+>>Q002701.03 037
+38. iq-bi-ma a-hu-la-pi2 ma-gal szu-nu-uh-ma
+>>Q002701.03 038
+39. a-a-um-ma sza2 ina szat mu-szi ib-ru-u bi-ra
+>>Q002701.03 039
+40. ina _masz2 ge6_ {disz}ur-{d}nin-tin-ug5-ga x x [...]
+>>Q002701.03 040
+41. et,-lu t,ar-ru a-pir a-ga-szu2
+>>Q002701.03 041
+42. _masz-masz_-ma na-szi le-'u-um
+>>Q002701.03 042
+43. {d}marduk-ma isz-pu-ra-an-ni
+>>Q002701.03 043
+44. ana {disz}szub-szi-mesz-re-e-{d}szakkan2 u2-bil-la s,i-im-da
+>>Q002701.03 044
+45. ina _szu-min_-szu2 _ku3-mesz_ u2-bil-la s,i-im-da
+>>Q002701.03 045
+46. a-na mut-tab-bi-li-ia2 qa-tusz-szu2 ip-qi2-id
+>>Q002701.03 046
+47. ina mu-na-at-ti isz-pu-ra szi-pir-ta
+>>Q002701.03 047
+48. it-tusz dam-qa-tu _ug3-mesz_-ia2 uk-tal-lim
+>>Q002701.03 048
+49. ina si-li-tu e-re-ku _musz_ it-tasz-lal
+>>Q002701.03 049
+50. mur-s,i ar2-hi-isz ig-ga-mir ih-he-pi x [...]
+>>Q002701.03 050
+51. ul-tu2 sza2 be-li2-ia2 _sza3_-ba-szu2 i-nu-hu
+>>Q002701.03 051
+52. sza2 {d}marduk rim-ni-i ka-bat-ta-szu2 ip-pa-asz2-ru
+>>Q002701.03 052
+53. il-qu-u2 un-nin-ni-ia x x x [...]
+>>Q002701.03 053
+54. na-as-hur-szu t,a-a-bu [...]
+>>Q002701.03 054
+55. iq-bi a-hu-la-pi2 ma-gal szu-nu-uh-ma
+>>Q002701.03 055
+56. [...] a-na szu-pe2-e [...] x
+>>Q002701.03 056
+57. [...] a-na du-lul u3 [...]
+>>Q002701.03 057
+58. [...] x ar-ni [...] x
+>>Q002701.03 058
+59. [...] x in-nit-ta [...]
+>>Q002701.03 059
+60. [...] szer3-ti x [...]
+>>Q002701.03 060
+61. e-ga-ti-ia u2-sza2-bil IM
+>>Q002701.03 061
+62. x mi id [...]
+>>Q002701.03 062
+63. [...]
+>>Q002701.03 063
+64. [...]
+>>Q002701.03 064
+65. [...]
+>>Q002701.03 065
+66. [...]
+>>Q002701.03 066
+67. [...] ki-ma te x [...] x [...]
+>>Q002701.03 067
+68. ut,-t,e3-eh-ha-am-ma ta-a-szu2 sza2 u2?-sze-su-u lum-nu
+>>Q002701.03 068
+69. ud-dap-pir im-hul-la a-na i-szid _an_-e
+>>Q002701.03 069
+70. a-na i-rat _ki_-tim u2-kasz-szid di-i
+>>Q002701.03 070
+71. usz-te-rid ap-su-usz-szu2 szu-u2-lu lem-nu
+>>Q002701.03 071
+72. u2-tuk-ku la ne2-'i u2-tir e2-kur-risz
+>>Q002701.03 072
+73. is-kip la-masz-tu sza2-da-a usz-te-li
+>>Q002701.03 073
+74. a-gu-u2 ta-ma-tu szu-ru-up-pa-a u2-szam-hir
+>>Q002701.03 074
+75. i-szid lu-u2-tu it-ta-sah ki-ma szam-mi
+>>Q002701.03 075
+76. szit-ti la t,a-ab-tu re-ha-a s,a-la-la
+>>Q002701.03 076
+77. ki-ma qut-ru im-ma-lu-u2 _an_-e usz-ta-riq
+>>Q002701.03 077
+78. 'u3-u2-a a-a ne2-'u-u ni-szi-isz
+>>Q002701.03 078
+79. u2-szat-bi im-ba-risz _ki_-tim usz-x x
+>>Q002701.03 079
+80. la-az-zu _gig sag-du_ sza2 su-u2-isz kab-tu
+>>Q002701.03 080
+81. is-suh ki-ma na-al-szi mu-szi _ugu_-ia usz-te-es-si
+>>Q002701.03 081
+82. te-e'-a-ti _igi-min_-a-a sza2 usz-tesz2-bi-ih szi-bi-ih mu-u2-ti
+>>Q002701.03 082
+83. u2-szat-bi _im danna_ u2-nam-mir nit,-li
+>>Q002701.03 083
+84. _gesztu-min_-a-a sza2 ut,-t,a-am-mi-ma us-sak-ki-ka ha-szik-kisz
+>>Q002701.03 084
+85. it-bal a-mir-szin ip-te-te nesz-ma-a-a
+>>Q002701.03 085
+86. ap-pi sza2 ina ri-di um-mi u2-nap-pi-qu ni-pi-is-su
+>>Q002701.03 086
+87. u2-pa-asz2-szi-ih mi-hi-is,-ta-szu-ma a-nap-pu-usz [...]
+>>Q002701.03 087
+88. szap-ta-a-a sza2 il-lab-ba il-qa-a KAL-x-x
+>>Q002701.03 088
+89. ik-pur pul-hat-si-na-ma ki-s,ir-szi-na ip-t,ur
+>>Q002701.03 089
+90. pi-ia2 sza2 uk-ta-at-ti-mu s,a-ba-risz asz2-t,u
+>>Q002701.03 090
+91. im-szu-usz ki-ma qe2-e ru-sza2-szu2 usz-x x
+>>Q002701.03 091
+92. szin-na-a-a sza2 it-ta-as,-ba-ta 1(disz)-nisz in-ni-ib-t,a
+>>Q002701.03 092
+93. ip-ti bi-rit-si-na-ma ir-da-szin usz-tam-x x
+>>Q002701.03 093
+94. li-sza2-nu sza2 in-ni-ib-t,a szu-ta-bu-lu la i-le-'u
+>>Q002701.03 094
+95. im-szu-usz t,u-pu-usz-ta-sza2-ma ih-da-ad2 at-mu-u-a
+>>Q002701.03 095
+96. ur-u2-du sza2 in-ni-is-ru u2-nap-pi-qu la-gab-bisz
+>>Q002701.03 096
+97. usz-t,ib-ma i-ra-tu-sza2 ma-li-lisz uh-tal-lil-sza2
+>>Q002701.03 097
+98. lu-'i-i sza2 u2-tap-pi-qu la i-mah-ha-ru ak-la
+>>Q002701.03 098
+99. la-ga-sza2 i-szi-ir-ma i-dil-tasz ip-ti
+>>Q002701.03 099
+100. [...]-e-a sza2 szu x un-ni-szu2 u2-x [...] x [...]
+>>Q002701.03 100
+101. [...] x kit har tu e-lisz u2-szab-[...] x x [...]
+>>Q002701.03 101
+102. [...] sza2 u2-tam-mi-lu x x-'i-isz x [...] ta szi x x
+>>Q002701.03 102
+$ n lines broken
+103'. szam-ma-hu sza2 ina un-s,i i-tar-ru-u2 ki-ma pi-sa-an-ni ir-rak-su
+>>Q002701.03 103'
+104'. i-mah-har ip-te-en-ni ub-ba-la masz-qi2-ta
+>>Q002701.03 104'
+105'. ki-sza2-di sza2 ir-mu-u2 er-na-ma ik-kap-pu
+>>Q002701.03 105'
+106'. u2-pat-tin kin-ne2-e a-ma-lisz iz-qu-up
+>>Q002701.03 106'
+107'. a-na ga-mir a-ba-ri u2-ma-szi u2-masz-szil
+>>Q002701.03 107'
+108'. GIM na-kim-tum szu-s,i-i u2-s,ap-pi-ra s,u-pur-a-a
+>>Q002701.03 108'
+109'. it-bu-uk ma-na-ah-ta-szin x-x-sza2-szin usz-t,ib
+>>Q002701.03 109'
+110'. bir-ka-a-a sza2 uk-tas-sa-a bu-s,i-isz ub-bu-t,a
+>>Q002701.03 110'
+111'. szuk-lul-tum pag-ri-ia isz-ta-at-x [...] x
+>>Q002701.03 111'
+112'. im-szu-usz ma-am-me2-e ru-szu-usz u2-zak-ki
+>>Q002701.03 112'
+113'. du-u2-tum um-mul-tum it-ta-pir-di
+>>Q002701.03 113'
+114'. i-na i-te-e _{d}i7_ a-szar de-en _ug3-mesz_ ib-bir-ru
+>>Q002701.03 114'
+115'. mut-tu-tu am-ma-szid ab-bu-ut-tum ap-pa-szir
+>>Q002701.03 115'
+116'. [...]
+>>Q002701.03 116'
+117'. ku-nu-usz-kad3-ru i-na pi-szer3-ti a-ba-'a
+>>Q002701.03 117'
+118'. sza2 a-na _e2-sag-il2_ e-gu-u ina _szu_-ia li-mur
+>>Q002701.03 118'
+@canto 4
+$ broken
+# Oshima Sufferers: ca. 49 lines preserved based on commentary and three witness texts
+@canto 5
+$ (following Oshima; previous editions = canto 4)
+1. be-li2 u2-pa-asz2-szi-ha-an-ni
+>>Q002701.05 001
+2. be-li2 u2-s,a-am-mi-da-an-ni
+>>Q002701.05 002
+3. be-li2 u2-pa-t,i-ra-an-ni
+>>Q002701.05 003
+4. be-li2 u2-bal-lit,-an-ni
+>>Q002701.05 004
+5. ina hasz-ti e-kim-an-ni
+>>Q002701.05 005
+6. [...] i-si-pa-an-ni
+>>Q002701.05 006
+7. ina ka-ra-sze-e id-ka-an-ni
+>>Q002701.05 007
+8. [...] ina hu-bur isz-du-da-an-ni
+>>Q002701.05 008
+9. [...]-ti qa-ti is,-bat
+>>Q002701.05 009
+10. sza2 im-ha-s,a-an-ni
+>>Q002701.05 010
+11. {d}marduk u2-sza2-qi re-e-szi
+>>Q002701.05 011
+12. im-ha-as, rit-ti ma-hi-s,i-ia
+>>Q002701.05 012
+13. u2-szad-di _{gesz}tukul_-szu {d}marduk
+>>Q002701.05 013
+14. i-na pi-i gir-ri a-kil-ia
+>>Q002701.05 014
+15. id-di nap-sa-ma {d}marduk
+>>Q002701.05 015
+16. {d}marduk sza2 mu-kasz-szi-di-ia
+>>Q002701.05 016
+17. i-kim as-pa-szu2 as-suk-ka-szu2 u2-sah-hir2
+>>Q002701.05 017
+$ (3 lines of uncertain position)
+17.a. id-di [...] bir
+>>Q002701.05 017.a
+17.b. [...] x i-na-an-na
+>>Q002701.05 017.b
+17.c. [...] x tum x ru
+>>Q002701.05 017.c
+18. [...] x i-kim?
+>>Q002701.05 018
+19. [...]-di s,ur-ri
+>>Q002701.05 019
+20. [...] x u2-szak-lu
+>>Q002701.05 020
+21. [...] u2-ma-al-li
+>>Q002701.05 021
+22. [...] x li x x
+>>Q002701.05 022
+$ (possible break of uncertain length)
+23. [...] _e2 iri_ x i-le-qa-an-ni
+>>Q002701.05 023
+24. [...]-mah-ri u-sze-ri-ba-an-ni
+>>Q002701.05 024
+25. [...] isz a a x x x-szu2 {d}marduk
+>>Q002701.05 025
+26. usz x x di ti x u2-kasz-szu2 {d}s,ar-pa-ni-tum
+>>Q002701.05 026
+27. lu man-nu be-lum u2-masz-szi-ra-an-ni
+>>Q002701.05 027
+28. na-pisz-tu2 ar-hisz lik-te-li-ma-an-ni
+>>Q002701.05 028
+29. a-na ir-kal-la la ur5-ra-ad-an-ni
+>>Q002701.05 029
+30. e-t,e4-mu-tu at-ta-lak-an-ni
+>>Q002701.05 030
+31. lu man-nu {d}marduk i-zib-ba-an-ni
+>>Q002701.05 031
+32. a-na _uzu_ a-sak-ki am-ma-an-nisz-szu2
+>>Q002701.05 032
+33. szal-lam-ta _nim-ma_ at-ta-lak ma-har?-szu2?
+>>Q002701.05 033
+34. i-na me-es-se-e ma-le-e u2-x [...]
+>>Q002701.05 034
+35. ri-im-ki te-disz-tum u3 i-tab-x [...]
+>>Q002701.05 035
+36. szi-ip-ra-ma sza2 ina tes2-li-ti isz-mu-u2 [...]
+>>Q002701.05 036
+37. a-na la-ban ap-pi u ut-nen-ni a-na _e2-sag-il2_ [...]
+>>Q002701.05 037
+38. sza2 a-ri-du qab-ri a-tu-ra ana ka2-{d}utu-e3 e-te-ru-ub
+>>Q002701.05 038
+39. ina ka2-he2-gal2 he2-gal2-la in-ni-[...]
+>>Q002701.05 039
+40. ina ka2-{d}lamma2-ra-bi la-mas-si it,-t,e-ha-an-ni
+>>Q002701.05 040
+41. ina ka2-silim-ma szul-ma-na ap-pa-lis
+>>Q002701.05 041
+42. ina ka2-nam-ti-la ba-la-t,u am-ma-hi-ir
+>>Q002701.05 042
+43. ina ka2-{d}utu-e3-a it-ti bal-t,u-ti am-ma-ni
+>>Q002701.05 043
+44. ina ka2-u6-de-babbar-ra id-da-tu-u2-a im-me-ra
+>>Q002701.05 044
+45. ina ka2-nam-tag-ga-duh-a e'-il-ti ip-pa-t,ir
+>>Q002701.05 045
+46. ina ka2-ka-tar-ra isz-ta-la pi-ia
+>>Q002701.05 046
+47. ina ka2-a-sze-er-duh-u3-da up-ta-t,a-ra ta-ni-hi
+>>Q002701.05 047
+48. ina ka2-a-sikil-la me-e te-lil-te as-sa-li-ih
+>>Q002701.05 048
+49. ina ka2-silim-ma it-ti {d}marduk an-na-mir
+>>Q002701.05 049
+50. ina ka2-hi-li-su3 sze-ep {d}s,ar-pa-ni-tum an-na-sziq
+>>Q002701.05 050
+51. ina su-pe-e u3 te-me-qi2 ma-har-szu2-nu u2-tan-nin
+>>Q002701.05 051
+52. qut-rin-na t,a-bu-u2-ti ma-har-szu-nu u2-sza2-as,-li
+>>Q002701.05 052
+53. u2-szam-hir ir-ba t,a-a'-ti _igi-sa2_ e-ta-an-du-te
+>>Q002701.05 053
+54. u2-pal-liq le-e ma-re-e ut,-t,ab-bi-ih szap-t,i
+>>Q002701.05 054
+55. at-ta-naq-qi ku-ru-un-nu du-usz-szu-pa2 _gesztin_ el2-lu
+>>Q002701.05 055
+56. {d}alad3 {d}lamma2 _an-gub-ba-mesz_ li-bit _e2-sag-il2_
+>>Q002701.05 056
+57. ina tam-qi-ti ka-bat-ta-szu2-un usz-par-di
+>>Q002701.05 057
+58. ina ma-ka-le-e de-esz-szu-ti lib-ba-szu2-un u2-sza2-li-is,
+>>Q002701.05 058
+59. sip-pu szi-gar-ri me-di-il _{gesz}ig-mesz_
+>>Q002701.05 059
+60. as-luh el-la hi-ma-tu2 t,uh-di asz2-na-an
+>>Q002701.05 060
+61. a-na _e2_-zi-da me2-e _garza e2_
+>>Q002701.05 061
+$ (1 line of uncertain position)
+61.a. [...] x
+>>Q002701.05 061.a
+62. [...]
+>>Q002701.05 062
+63. [...]
+>>Q002701.05 063
+64. [...] x ti [...]
+>>Q002701.05 064
+65. x x asz2-na-an ru-usz-sza2-a [...]
+>>Q002701.05 065
+66. ul-tap-pit ha-szur-ri _du10-ga ugu_-szu2 x [...]
+>>Q002701.05 066
+67. qe2-re-e-ti _dumu_ babila{ki} mu-x [...]
+>>Q002701.05 067
+68. _e2_ qe2-be2-ri-szu e-pu-szu ina qe2-re-e-ti x x
+>>Q002701.05 068
+69. i-mu-ru-ma _dumu_ babila{ki} ki-i u2-bal-la-t,u {d}marduk
+>>Q002701.05 069
+70. pa-a-tu _du3_-szi-na u2-sza2-pa-a nar-be2-e-szu2
+>>Q002701.05 070
+71. man-nu-um-ma iq-bi a-mar {d}utu-szi-szu2
+>>Q002701.05 071
+72. ina _sza3_-bi man-ni ib-ba-szi e-te-eq _sila_-szu2
+>>Q002701.05 072
+73. sza2 la {d}marduk man-nu mi-tu-ta-szu2 u2-bal-lit,
+>>Q002701.05 073
+74. e-la {d}e4-ru6 {d}isz-tar-tum a-a-i-tum i-qi2-sza2 nap-szat-su
+>>Q002701.05 074
+75. {d}marduk ina qab-ri bul-lu-t,a i-le-'i
+>>Q002701.05 075
+76. {d}s,ar-pa-ni-tum ina ka-ra-sze-e e-t,e-ra am-rat
+>>Q002701.05 076
+77. e-ma szak-na-at _ki_-tim rit-pa-szu _an_-e
+>>Q002701.05 077
+78. {d}utu-szu2 usz-tap-pa-a {d}gibil6 in-nap-hu
+>>Q002701.05 078
+79. mu-u2 il-la-ku i-zi-qu sza2-a-ru
+>>Q002701.05 079
+80. szu-ut da-ru-ru ik-ru-s,u ki-ri-is-si-in
+>>Q002701.05 080
+81. sza2-ki-it-tu nap-sza2-tu pe-ta-a pu-ri-du
+>>Q002701.05 081
+82. a-pa-a-tum ma-la ba-sza2-a {d}marduk dul-la
+>>Q002701.05 082
+83. asz2-szu2 a-ta-pul _du3_-szi-na szu-ut pa-a kun-na
+>>Q002701.05 083
+84. [...] x [...] kal _ug3-mesz_ li-bel-ma
+>>Q002701.05 084
+85. [...] re-'i kal da-ad2-me
+>>Q002701.05 085
+86. [...] x _e4-la6-mesz_ ina nag-be
+>>Q002701.05 086
+87. [...] pa-rak _dingir-mesz_ x x x x
+>>Q002701.05 087
+88. [...] si-hi-ip _an_-e u3 _ki_-tim
+>>Q002701.05 088
+89. [...] x ri-is,-s,a x x x
+>>Q002701.05 089
+90. [...] szi zu nu szu2 szu2 szu2
+>>Q002701.05 090
+91. [...]
+>>Q002701.05 091
+92. [...]
+>>Q002701.05 092
+93. [...]
+>>Q002701.05 093
+94. [...]
+>>Q002701.05 094
+95. [...]
+>>Q002701.05 095
+96. [...]
+>>Q002701.05 096
+97. [...]
+>>Q002701.05 097
+98. [...]
+>>Q002701.05 098
+99. [...]
+>>Q002701.05 099
+100. [...]
+>>Q002701.05 100
+101. [...] _u4?_-szu2
+>>Q002701.05 101
+102. [...]-tum i-tu?-ru _iri_-szu2
+>>Q002701.05 102
+103. [... _x]-mesz_ s,al-mat qa3-qa-du x x x x x
+>>Q002701.05 103
+104. [...]-li s,ar-pa-ni?-tum re-e-mu sza2 {d}marduk
+>>Q002701.05 104
+105. {disz}na-zi-muru-tasz u _e-ki_ x x x x
+>>Q002701.05 105
+106. [...]-usz li-li-is3 _saga_-tim?
+>>Q002701.05 106
+107. [...] ki-ma le-e _kur_ lisz-pu
+>>Q002701.05 107
+108. [...]-si-tu2 _an_-e li-tur-szu2?
+>>Q002701.05 108
+109. [...] x x ni-iz-mat-su
+>>Q002701.05 109
+110. [...] _ugu_ ba-'u-u2-la-ti-szu2
+>>Q002701.05 110
+111. [...] {disz}szub-szi-mesz-ra-giri3-an
+>>Q002701.05 111
+112. [...] szu-me-ri u _uri{ki}_ mu-ma-'i-ir ma-a-tum
+>>Q002701.05 112
+113. sza2 ma-ru-usz-tu2 i-mu-ru li-pa-t,ir a-ra-an-szu2
+>>Q002701.05 113
+114. [...] ma-na-ah-ta-szu2 lisz-tap-szih
+>>Q002701.05 114
+115. [...] {d}1(u)-5(disz)-szu2 li-kab-bit-su
+>>Q002701.05 115
+116. [...]-im szul-ma-nisz
+>>Q002701.05 116
+117. [...] _dingir_-szu2 li-kab-bit-su
+>>Q002701.05 117
+118. [...] li-ba-a' _u4_-mi-szam
+>>Q002701.05 118
+119. [...] sza2 {disz}szub-szi-mesz-ra-a-{d}szakkan2
+>>Q002701.05 119
+120. [...] ta-nit-ta-ka t,a-bat
+>>Q002701.05 120
+
+&P491222 = CDLI Literary 002701 (ludlul bēl nēmeqi) composite
+#atf: lang akk
+@object composite text
+@surface a
+@canto 1
+1. lud-lul _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: ludlul bēl nēmeqi ilu muštālu
+#tr.en: I would praise the lord of wisdom, the circumspect god,
+>>Q002701.01 001
+2. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 002
+3. {d}marduk _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: marduk bēl nēmeqi ilu muštālu
+#tr.en: Marduk, lord of wisdom, circumspect god,
+>>Q002701.01 003
+4. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 004
+5. sza2 ki-ma _u4_-mi me-he-e na-mu-u2 ug-gat-su
+#tr.ts: ša kīma ūmi meḫê namû uggassu
+#tr.en: who like a storm, a whilrwind, causes desolation his rage,
+>>Q002701.01 005
+6. u3 ki-i ma-nit sze-re-e-ti za-aq-szu2 t,a-a-bu
+#tr.ts: u kī mānit šērēti zāqšu ṭābu
+#tr.en: and (then) as a breeze of the morning, his breath sweet;
+>>Q002701.01 006
+7. uz-zu-usz-szu la ma-har a-bu-bu ru-ub-szu2
+#tr.ts: uzzuššu lā maḫār abūbu rūbšu
+#tr.en: in his anger unapproachable, a flood his fury;
+>>Q002701.01 007
+@surface b
+1. lud-lul _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: ludlul bēl nēmeqi ilu muštālu
+#tr.en: I would praise the lord of wisdom, the circumspect god,
+>>Q002701.01 001
+2. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 002
+3. {d}marduk _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: marduk bēl nēmeqi ilu muštālu
+#tr.en: Marduk, lord of wisdom, circumspect god,
+>>Q002701.01 003
+4. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 004
+
+
+&P491222 = CDLI Literary 002701 (ludlul bēl nēmeqi) composite
+#atf: lang akk
+@object composite text
+@surface a
+@column 1
+1. lud-lul _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: ludlul bēl nēmeqi ilu muštālu
+#tr.en: I would praise the lord of wisdom, the circumspect god,
+>>Q002701.01 001
+2. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 002
+3. {d}marduk _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: marduk bēl nēmeqi ilu muštālu
+#tr.en: Marduk, lord of wisdom, circumspect god,
+>>Q002701.01 003
+4. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 004
+5. sza2 ki-ma _u4_-mi me-he-e na-mu-u2 ug-gat-su
+#tr.ts: ša kīma ūmi meḫê namû uggassu
+#tr.en: who like a storm, a whilrwind, causes desolation his rage,
+>>Q002701.01 005
+6. u3 ki-i ma-nit sze-re-e-ti za-aq-szu2 t,a-a-bu
+#tr.ts: u kī mānit šērēti zāqšu ṭābu
+#tr.en: and (then) as a breeze of the morning, his breath sweet;
+>>Q002701.01 006
+7. uz-zu-usz-szu la ma-har a-bu-bu ru-ub-szu2
+#tr.ts: uzzuššu lā maḫār abūbu rūbšu
+#tr.en: in his anger unapproachable, a flood his fury;
+>>Q002701.01 007
+@column 2
+1. lud-lul _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: ludlul bēl nēmeqi ilu muštālu
+#tr.en: I would praise the lord of wisdom, the circumspect god,
+>>Q002701.01 001
+2. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 002
+3. {d}marduk _en_ ne2-me-qi2 _dingir_ musz-ta-lu4
+#tr.ts: marduk bēl nēmeqi ilu muštālu
+#tr.en: Marduk, lord of wisdom, circumspect god,
+>>Q002701.01 003
+4. e-ziz mu-szi mu-up-pa-szir3 ur-ri
+#tr.ts: ēziz mūši muppaššir urri
+#tr.en: who rages at night, reconciling by day;
+>>Q002701.01 004
+
+&P480685 = CDLI Literary 000421 (Amar-Suen A) composite
+#atf: lang sux
+@object composite text
+@surface a
+@m=segment A
+# sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
+1. {d}alad x [...]
+2. {d}amar-{d}suen [...] sza3 mu-un-x [...]
+3. lu2 {urud}ha-zi-in-na e2-e KU x [...]
+4. {d}amar-{d}suen-na esz3-e abzu-a [...]
+5. ku3-si22 du3-a {na4}za-gin3 szu tag x [...]
+6. e2-e du3-u3-de3 szu-ni mu-un-gar
+7. {d}amar-{d}suen-na lugal-e e2-e du3-u3-de3 szu-ni mu-un-gar
+8. lugal-e? ug3-e ba-da-an-bala kur-ra x [...]
+9. e2-e mu 1(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+10. {d}amar-suen-na me nam-lugal-la-na x [...]
+11. mu 2(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+12. {d}amar-{d}suen-na lu-bu-usz-tum nam-lugal-la-ka-ni tug2-mu-dur7-ra ba-an-x
+13. mu 3(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+14. {d}amar-{d}suen-na gesz-kin2-kin2-na geszkim-bi nu-bur2?-ru
+15. mu 4(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+16. abgal-e du11-ga u3-na-du11 gesz-hur e2-e pa e3 nu-mu-un-ak-e
+17. mu 5(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+18. esz3-e abzu-am3 kal-ga-sze3 szu mu-ra-ra-e-ne
+19. mu 6(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+20. gesz-hur e2-e mu-un-kig2-kig2-e nu-mu-ni-in-pa3-de3
+21. mu 7(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+22. {d}en-ki-ke4 e2-bi-sze3 e2 nu-me-a ba-an-na-du11
+23. mu 8(disz)-kam-ma e2 du3-u3-de3 szu-ni mu-un-gar
+24. mu 9(disz)-kam-ma-ta {d}amar-{d}suen lugal-e
+25. e2-udun-na en? gal-an-zu HAR-ra-gin7 ba-du3
+26. u4-ba en-e e2 ni2-te-na-ka
+27. en gal {d}en-ki ki-bi ba-da-an-hul?
+28. x-a-ni mu-un-|DU.DU| [...]
+29. kusz2?-a ki-a |DU.DU| gaba x [...] x x [...]
+30. a-a {d}en-ki eridu{ki?} [...] mu-un-dim2? [...]
+31. sukkal-a-ni [...] GI?-GI? gal? mu-[...] nu-kusz2? [...] x IL2 [...]
+32. [...] x [...]
+$ rest broken
+@surface b
+@m=segment A
+# sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
+1. {d}alad x [...]
+2. {d}amar-{d}suen [...] sza3 mu-un-x [...]
+3. lu2 {urud}ha-zi-in-na e2-e KU x [...]
+4. {d}amar-{d}suen-na esz3-e abzu-a [...]
+5. ku3-si22 du3-a {na4}za-gin3 szu tag x [...]
+6. e2-e du3-u3-de3 szu-ni mu-un-gar
+7. {d}amar-{d}suen-na lugal-e e2-e du3-u3-de3 szu-ni mu-un-gar
+8. lugal-e? ug3-e ba-da-an-bala kur-ra x [...]
+9. e2-e mu 1(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+10. {d}amar-suen-na me nam-lugal-la-na x [...]
+11. mu 2(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+12. {d}amar-{d}suen-na lu-bu-usz-tum nam-lugal-la-ka-ni tug2-mu-dur7-ra ba-an-x
+13. mu 3(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+14. {d}amar-{d}suen-na gesz-kin2-kin2-na geszkim-bi nu-bur2?-ru
+15. mu 4(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+16. abgal-e du11-ga u3-na-du11 gesz-hur e2-e pa e3 nu-mu-un-ak-e
+17. mu 5(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+18. esz3-e abzu-am3 kal-ga-sze3 szu mu-ra-ra-e-ne
+19. mu 6(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+20. gesz-hur e2-e mu-un-kig2-kig2-e nu-mu-ni-in-pa3-de3
+21. mu 7(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+22. {d}en-ki-ke4 e2-bi-sze3 e2 nu-me-a ba-an-na-du11
+23. mu 8(disz)-kam-ma e2 du3-u3-de3 szu-ni mu-un-gar
+24. mu 9(disz)-kam-ma-ta {d}amar-{d}suen lugal-e
+25. e2-udun-na en? gal-an-zu HAR-ra-gin7 ba-du3
+26. u4-ba en-e e2 ni2-te-na-ka
+27. en gal {d}en-ki ki-bi ba-da-an-hul?
+28. x-a-ni mu-un-|DU.DU| [...]
+29. kusz2?-a ki-a |DU.DU| gaba x [...] x x [...]
+30. a-a {d}en-ki eridu{ki?} [...] mu-un-dim2? [...]
+31. sukkal-a-ni [...] GI?-GI? gal? mu-[...] nu-kusz2? [...] x IL2 [...]
+32. [...] x [...]
+$ rest broken
+
+
+&P480685 = CDLI Literary 000421 (Amar-Suen A) composite
+#atf: lang sux
+@object composite text
+@surface a
+@column 1
+# sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
+1. {d}alad x [...]
+2. {d}amar-{d}suen [...] sza3 mu-un-x [...]
+3. lu2 {urud}ha-zi-in-na e2-e KU x [...]
+4. {d}amar-{d}suen-na esz3-e abzu-a [...]
+5. ku3-si22 du3-a {na4}za-gin3 szu tag x [...]
+6. e2-e du3-u3-de3 szu-ni mu-un-gar
+7. {d}amar-{d}suen-na lugal-e e2-e du3-u3-de3 szu-ni mu-un-gar
+8. lugal-e? ug3-e ba-da-an-bala kur-ra x [...]
+9. e2-e mu 1(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+10. {d}amar-suen-na me nam-lugal-la-na x [...]
+11. mu 2(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+12. {d}amar-{d}suen-na lu-bu-usz-tum nam-lugal-la-ka-ni tug2-mu-dur7-ra ba-an-x
+13. mu 3(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+14. {d}amar-{d}suen-na gesz-kin2-kin2-na geszkim-bi nu-bur2?-ru
+15. mu 4(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+16. abgal-e du11-ga u3-na-du11 gesz-hur e2-e pa e3 nu-mu-un-ak-e
+17. mu 5(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+18. esz3-e abzu-am3 kal-ga-sze3 szu mu-ra-ra-e-ne
+19. mu 6(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+20. gesz-hur e2-e mu-un-kig2-kig2-e nu-mu-ni-in-pa3-de3
+21. mu 7(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+22. {d}en-ki-ke4 e2-bi-sze3 e2 nu-me-a ba-an-na-du11
+23. mu 8(disz)-kam-ma e2 du3-u3-de3 szu-ni mu-un-gar
+24. mu 9(disz)-kam-ma-ta {d}amar-{d}suen lugal-e
+25. e2-udun-na en? gal-an-zu HAR-ra-gin7 ba-du3
+26. u4-ba en-e e2 ni2-te-na-ka
+27. en gal {d}en-ki ki-bi ba-da-an-hul?
+28. x-a-ni mu-un-|DU.DU| [...]
+29. kusz2?-a ki-a |DU.DU| gaba x [...] x x [...]
+30. a-a {d}en-ki eridu{ki?} [...] mu-un-dim2? [...]
+31. sukkal-a-ni [...] GI?-GI? gal? mu-[...] nu-kusz2? [...] x IL2 [...]
+32. [...] x [...]
+$ rest broken
+@column 2
+# sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
+1. {d}alad x [...]
+2. {d}amar-{d}suen [...] sza3 mu-un-x [...]
+3. lu2 {urud}ha-zi-in-na e2-e KU x [...]
+4. {d}amar-{d}suen-na esz3-e abzu-a [...]
+5. ku3-si22 du3-a {na4}za-gin3 szu tag x [...]
+6. e2-e du3-u3-de3 szu-ni mu-un-gar
+7. {d}amar-{d}suen-na lugal-e e2-e du3-u3-de3 szu-ni mu-un-gar
+8. lugal-e? ug3-e ba-da-an-bala kur-ra x [...]
+9. e2-e mu 1(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+10. {d}amar-suen-na me nam-lugal-la-na x [...]
+11. mu 2(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+12. {d}amar-{d}suen-na lu-bu-usz-tum nam-lugal-la-ka-ni tug2-mu-dur7-ra ba-an-x
+13. mu 3(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+14. {d}amar-{d}suen-na gesz-kin2-kin2-na geszkim-bi nu-bur2?-ru
+15. mu 4(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+16. abgal-e du11-ga u3-na-du11 gesz-hur e2-e pa e3 nu-mu-un-ak-e
+17. mu 5(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+18. esz3-e abzu-am3 kal-ga-sze3 szu mu-ra-ra-e-ne
+19. mu 6(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+20. gesz-hur e2-e mu-un-kig2-kig2-e nu-mu-ni-in-pa3-de3
+21. mu 7(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+22. {d}en-ki-ke4 e2-bi-sze3 e2 nu-me-a ba-an-na-du11
+23. mu 8(disz)-kam-ma e2 du3-u3-de3 szu-ni mu-un-gar
+24. mu 9(disz)-kam-ma-ta {d}amar-{d}suen lugal-e
+25. e2-udun-na en? gal-an-zu HAR-ra-gin7 ba-du3
+26. u4-ba en-e e2 ni2-te-na-ka
+27. en gal {d}en-ki ki-bi ba-da-an-hul?
+28. x-a-ni mu-un-|DU.DU| [...]
+29. kusz2?-a ki-a |DU.DU| gaba x [...] x x [...]
+30. a-a {d}en-ki eridu{ki?} [...] mu-un-dim2? [...]
+31. sukkal-a-ni [...] GI?-GI? gal? mu-[...] nu-kusz2? [...] x IL2 [...]
+32. [...] x [...]
+$ rest broken
+
+&P480685 = CDLI Literary 000421 (Amar-Suen A) composite
+#atf: lang sux
+@object composite text
+@surface a
+@m=segment A
+# sequence of Segment A (UET 8 33 + U 5307) and Segments B-E (UET 8 32, UET 6/3 487) far from certain; they may well belong to separate compositions. However, C follows B and E follows D.)
+1. {d}alad x [...]
+2. {d}amar-{d}suen [...] sza3 mu-un-x [...]
+3. lu2 {urud}ha-zi-in-na e2-e KU x [...]
+4. {d}amar-{d}suen-na esz3-e abzu-a [...]
+5. ku3-si22 du3-a {na4}za-gin3 szu tag x [...]
+6. e2-e du3-u3-de3 szu-ni mu-un-gar
+7. {d}amar-{d}suen-na lugal-e e2-e du3-u3-de3 szu-ni mu-un-gar
+8. lugal-e? ug3-e ba-da-an-bala kur-ra x [...]
+9. e2-e mu 1(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+10. {d}amar-suen-na me nam-lugal-la-na x [...]
+11. mu 2(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+12. {d}amar-{d}suen-na lu-bu-usz-tum nam-lugal-la-ka-ni tug2-mu-dur7-ra ba-an-x
+13. mu 3(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+14. {d}amar-{d}suen-na gesz-kin2-kin2-na geszkim-bi nu-bur2?-ru
+15. mu 4(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+16. abgal-e du11-ga u3-na-du11 gesz-hur e2-e pa e3 nu-mu-un-ak-e
+17. mu 5(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+18. esz3-e abzu-am3 kal-ga-sze3 szu mu-ra-ra-e-ne
+19. mu 6(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+20. gesz-hur e2-e mu-un-kig2-kig2-e nu-mu-ni-in-pa3-de3
+21. mu 7(disz)-kam-ma ba-an-szub ki-bi-sze3 nu-mu-un-gi4
+22. {d}en-ki-ke4 e2-bi-sze3 e2 nu-me-a ba-an-na-du11
+23. mu 8(disz)-kam-ma e2 du3-u3-de3 szu-ni mu-un-gar
+24. mu 9(disz)-kam-ma-ta {d}amar-{d}suen lugal-e
+25. e2-udun-na en? gal-an-zu HAR-ra-gin7 ba-du3
+26. u4-ba en-e e2 ni2-te-na-ka
+27. en gal {d}en-ki ki-bi ba-da-an-hul?
+28. x-a-ni mu-un-|DU.DU| [...]
+29. kusz2?-a ki-a |DU.DU| gaba x [...] x x [...]
+30. a-a {d}en-ki eridu{ki?} [...] mu-un-dim2? [...]
+31. sukkal-a-ni [...] GI?-GI? gal? mu-[...] nu-kusz2? [...] x IL2 [...]
+32. [...] x [...]
+$ rest broken
+@m=segment B
+# (= UET 8 32 obverse)
+1'. x GIR3 su3-su3-u4 x [...]
+2'. sag kesze2 ki dagal-la [...]
+3'. {d}en-ki-ke4 igi il2-la-a-ni [...]
+4'. e2-bi um-ta-e3-a abzu?-a [...]
+5'. u4-ba nam-lu2-ulu3 szu nu-sa6-ga DI nam [...]
+6'. gizzal su3-a inim gesztu2 nu-du11? [...]
+7'. ba-DUN-DUN umbin ru-gu2-ni nu-du8-e
+8'. sza3 hul dim2-dim2 nig2-erim2 ak-ak sa6-ga
+9'. {d}amar-{d}suen-na e2 {d}en-lil2-la2-sze3 du3-u3-de3
+$ rest broken
+@m=segment C
+# (= UET 8 32 reverse)
+1. en [...] x x [...]
+2. e2 {d}en-ki-ka3-sze3 du3-u3-de3 masz2-e szu mu-un-gid2-da-a
+3. masz2-bi-ta e2 du3-a nu-mu-na-ab-be2 szu-ni la?-ba-szi-in-gar
+4. lugal-e mu-ni u4 su3-ra2-sze3 ga2-ga2-de3 [...]
+5. {d}amar-{d}suen mu-ni u4 su3-ra2-sze3 ga2-ga2-de3 mu-[...]
+6. x mu e2 {d}en-ki-ke4 [...]
+$ rest broken
+@m=segment D
+# (UET 6/3 487 obverse; this fragment might belong to the same tablet as UET 8 32, in which case it would preserve the beginning and the end of the tablet)
+1. en nun gal-an-zu x [...] BI? x [...]
+2. x [...]
+$ rest broken
+@m=segment E
+# (UET 6/3 487 reverse)
+1. lu2? URUD HA RI? x IN? [...] sza3 [...] BA x x [...]
+2. {d}amar-{d}suen lugal nam-tar-ra?-ni sza3-bi [...] nu-mu-un-ba-ba
+
+&P430108 = CDLI Seals 000007 (composite)
+#atf: lang sux
+@object seal
+@surface a
+1. a-bu-um-dingir-ma
+2. dub-sar
+
+&P430107 = CDLI Seals 000006 (composite)
+#atf: lang sux
+@object seal
+@surface a
+1. a-bi2-a
+2. dub-sar
+3. dumu i3-li2-en-nam
+@reverse
+1. nameszda
+>>Q000003 001
+
+
+&P429955 = CDLI Seals 000003 (composite)
+#atf: lang sux
+@object seal
+@surface a
+1. ab-ba-kal-la
+#tr.en: Abba-kala,
+2. dub-sar
+#tr.en: scribe,
+3. dumu lu2-{d}nin-gir2-su
+#tr.en: son of Lu-Ningirsu.
+@surface a
+@column 1
+1. {d}szu-{d}suen
+#tr.en: Šū-Suen
+
+&P429954 = CDLI Seals 000002 (composite)
+#atf: lang sux
+@object seal
+@surface a
+@column 1
+1. {d}szu-{d}suen
+#tr.en: Šū-Suen,
+2. lugal kal-ga
+#tr.en: strong king,
+3. lugal uri5{ki}-ma
+#tr.en: king of Ur:
+@column 2
+1. a-ba-{d}en-lil2-gin7
+#tr.en: Aba-Enlil-gin,
+2. dumu lu2-{d}inanna kuruszda
+#tr.en: son of Lu-Inanna, fattener,
+3. ARAD2-zu
+#tr.en: is your servant.
+@seal 1
+1. ba#-mu?
+2. za-gin3-ni-tum#
+
+&P429953 = CDLI Seals 000001 (composite)
+#atf: lang sux
+@object seal
+@surface a
+1. a-al-la-mu
+#tr.en: Ayallamu,
+2. dumu la-na
+#tr.en: son of Lana,
+3. kuruszda
+#tr.en: fattener.
+
+&P212582 = BA 60/2, p. 81, h3
+#atf: lang akk
+@object sealing
+@surface a
+$ blank space
+# seal impression
+@seal 1
+1. ba#-mu?
+2. za-gin3-ni-tum#
+
+&P212581 = BA 60/2, p. 81, h2
+#atf: lang akk
+@object sealing
+@surface a
+$ blank space
+# seal impression
+@seal 1
+1. za-gin3-ni-tum
+2. eme2-x
+3. tup-za-me-na
+# mirrored in two lines ?
+@surface b
+$ blank space
+# seal impression
+
+&P212580 = BA 60/2, p. 81, h1
+#atf: lang akk
+@object sealing
+@surface a
+$ blank space
+# seal impression
+
+
+&P247665 = RIME 1.09.03.15, ex. 01
+#atf: lang sux
+@object sealing
+@surface a
+1. e2-an-na-tum2
+>>Q003645 001
+2. x-ensi2
+>>Q003645 002
+
+&P217562 = RIME 2.01.04.2011, ex. 01
+#atf: lang akk
+@object sealing
+@surface a
+$ blank space
+# seal impression
+@seal 1
+@column 1
+1. [na-ra-am-{d}]suen#
+2. _lugal#_
+3. [ki-ib-ra]-tim#
+@column 2
+1. ar-ba-im
+2. ur-mes
+3. _dub-sar_
+4. _ARAD2_-su2#
+
+
+&P222569 = RIME 1.09.05.03, ex. 20
+#atf: lang sux
+@object cone
+@surface a
+@column 1
+1. {d}inanna-ra
+>>Q001092 001
+2. {d}lugal-e2-musz3-ra
+>>Q001092 002
+3. en-mete-na
+>>Q001092 003
+4. ensi2
+>>Q001092 004
+5. lagasz{ki}-ke4
+>>Q001092 005
+6. e2-musz3 e2 ki-ag2-ga2-ne-ne
+>>Q001092 006
+7. mu-na-du3
+>>Q001092 007
+8. KIB mu-na-du11
+>>Q001092 008
+9. en-mete-na
+>>Q001092 009
+@column 2
+1. lu2 e2-musz3 du3-a
+>>Q001092 010
+2. dingir-ra-ni
+>>Q001092 011
+3. {d}szul-|MUSZxPA|-am6
+>>Q001092 012
+4. en-mete-na
+>>Q001092 013
+5. ensi2
+>>Q001092 014
+6. lagasz{ki}
+>>Q001092 015
+7. lugal-ki-ne2-esz2-du7-du7
+>>Q001092 016
+8. ensi2
+>>Q001092 017
+9. unu{ki}-bi
+>>Q001092 018
+10. nam-szesz e-ak
+>>Q001092 019
+@surface b
+@column 1
+1. {d}inanna-ra
+>>Q001092 001
+2. {d}lugal-e2-musz3-ra
+>>Q001092 002
+3. en-mete-na
+>>Q001092 003
+4. ensi2
+>>Q001092 004
+5. lagasz{ki}-ke4
+>>Q001092 005
+6. e2-musz3 e2 ki-ag2-ga2-ne-ne
+>>Q001092 006
+7. mu-na-du3
+>>Q001092 007
+8. KIB mu-na-du11
+>>Q001092 008
+9. en-mete-na
+>>Q001092 009
+@column 2
+1. lu2 e2-musz3 du3-a
+>>Q001092 010
+2. dingir-ra-ni
+>>Q001092 011
+3. {d}szul-|MUSZxPA|-am6
+>>Q001092 012
+4. en-mete-na
+>>Q001092 013
+5. ensi2
+>>Q001092 014
+6. lagasz{ki}
+>>Q001092 015
+7. lugal-ki-ne2-esz2-du7-du7
+>>Q001092 016
+8. ensi2
+>>Q001092 017
+9. unu{ki}-bi
+>>Q001092 018
+10. nam-szesz e-ak
+>>Q001092 019
+@surface c
+@column 1
+1. {d}inanna-ra
+>>Q001092 001
+2. {d}lugal-e2-musz3-ra
+>>Q001092 002
+3. en-mete-na
+>>Q001092 003
+4. ensi2
+>>Q001092 004
+5. lagasz{ki}-ke4
+>>Q001092 005
+6. e2-musz3 e2 ki-ag2-ga2-ne-ne
+>>Q001092 006
+7. mu-na-du3
+>>Q001092 007
+8. KIB mu-na-du11
+>>Q001092 008
+9. en-mete-na
+>>Q001092 009
+@column 2
+1. lu2 e2-musz3 du3-a
+>>Q001092 010
+2. dingir-ra-ni
+>>Q001092 011
+3. {d}szul-|MUSZxPA|-am6
+>>Q001092 012
+4. en-mete-na
+>>Q001092 013
+5. ensi2
+>>Q001092 014
+6. lagasz{ki}
+>>Q001092 015
+7. lugal-ki-ne2-esz2-du7-du7
+>>Q001092 016
+8. ensi2
+>>Q001092 017
+9. unu{ki}-bi
+>>Q001092 018
+10. nam-szesz e-ak
+>>Q001092 019
+
+
+&P222570 = RIME 1.09.05.03, ex. 21
+#atf: lang sux
+@object cone
+@surface a
+@column 1
+1. {d}inanna-ra
+>>Q001092 001
+2. {d}lugal-e2-musz3-ra
+>>Q001092 002
+3. en-mete-na
+>>Q001092 003
+4. ensi2
+>>Q001092 004
+5. lagasz{ki}-ke4
+>>Q001092 005
+6. e2-musz3 e2 ki-ag2-ne-ne
+>>Q001092 006
+7. mu-ne-du3
+>>Q001092 007
+8. KIB mu-na-du11
+>>Q001092 008
+9. en-mete-na
+>>Q001092 009
+@column 2
+1. lu2 e2-musz3 du3-a
+>>Q001092 010
+2. dingir-ra-ni
+>>Q001092 011
+3. {d}szul-|MUSZxPA|-am6
+>>Q001092 012
+4. u4-ba en-mete-na
+>>Q001092 013
+5. ensi2
+>>Q001092 014
+6. lagasz{ki}
+>>Q001092 015
+7. lugal-ki-ne2-esz2-du7-du7
+>>Q001092 016
+8. ensi2
+>>Q001092 017
+9. unu{ki}-bi
+>>Q001092 018
+10. nam-szesz e-ak
+>>Q001092 019
+
+
+&P222669 = FAOS 05/1, AnLag 10
+#version: 0.4
+#atf: lang sux
+@object cone fragment
+@obverse
+1. GAN2 gu2-edin-na
+#tr.en: The field of the Gu'edena
+2. mu-na-uru4
+#tr.en: he plowed for him,
+3. [x]-bi [n] guru7
+#tr.en: and its ... grain-heap
+$rest of obverse missing
+
+
+&P222568 = RIME 1.09.05.03, ex. 19
+#atf: lang sux
+@object cone
+@surface a
+@column 1
+1. {d}inanna-ra
+>>Q001092 001
+2. {d}lugal-e2-musz3-ra
+>>Q001092 002
+3. en-mete-na
+>>Q001092 003
+4. ensi2
+>>Q001092 004
+5. lagasz{ki}-ke4
+>>Q001092 005
+6. e2-musz3 e2 ki-ag2-ga2-ne-ne
+>>Q001092 006
+7. mu-na-du3
+>>Q001092 007
+8. KIB mu-na-du11
+>>Q001092 008
+9. en-mete-na
+>>Q001092 009
+@column 2
+1. lu2 e2-musz3 du3-a
+>>Q001092 010
+2. dingir-ra-ni
+>>Q001092 011
+3. {d}szul-|MUSZxPA|
+>>Q001092 012
+4. u4-ba en-mete-na
+>>Q001092 013
+5. ensi2
+>>Q001092 014
+6. lagasz{ki}
+>>Q001092 015
+7. lugal-ki-ne2-esz2-du7-du7
+>>Q001092 016
+8. ensi2
+>>Q001092 017
+9. unu{ki}-bi
+>>Q001092 018
+10. nam-szesz e-ak
+>>Q001092 019
+
+
+
+&P428557 = RIME 4.02.08.05, ex. 02
+#atf: lang sux
+@object brick
+@surface a
+1. nu-ur2-{d}iszkur
+2. nita kal-ga
+3. engar zi uri5{ki}-ma
+4. lugal larsa{ki}-ma
+5. me esz3 e2-babbar-ra
+6. ku3-ku3-ge
+7. eridu{ki} u4 ul-li2-a-ta
+8. szu mu-un-hul-a-ba
+9. bala nig2-si-sa2-mu-usz#
+10. du3#-de3 al bi2-du11
+11. {d}en-ki-ke4
+12. ki-tusz ku3 ki-ag2-ga2-ni
+13. mu-na-du3
+14. gesz-hur ul-li2-a-ka-ni#
+15. ki#-be2# mu-na-gi4#
+
+&P498477 = AR RIM 09, 11-12
+#atf: lang akk
+@object brick
+@surface a
+1. {disz}{d}pa-na-'i-id _lugal_ babilax(|DIN.TIR|){ki} za-nin e2-sag-il2
+#tr.en: Nabonidus, king of Babylon, provider of Esagila
+2. u e2-zi-da _dumu_ {disz}{d}pa-ku-din-su-iq-bi _nun_ git2-ma-lu4
+#tr.en: and Ezida, son of Nusku-balassu-iqbi, the perfect prince (am I);
+3. e2-hul2-hul2 _e2_ {d}3(u) sza2 qe2-reb _iri_ har-ra-na a-na {d}3(u)
+#tr.en: Eḫulḫul, the house of Sîn, inside the city of Ḫarran, for Sîn,
+4. {d}nin-gal {d}pa-ku u {d}sa-dar3-nun-na _en-mesz_-a lu _du3_-usz
+#tr.en: Ningal, Nusku, and Sadarnunna, my lords, I verily built.
+
+
+&P222183 = ASJ 16, 043-046, Barton Cylinder
+#atf: lang sux
+@object cylinder
+@face a
+@column 1
+1. u4-ri2-a u4-ri-sze3
+2. na-nam
+3. ge6-ri-a ge6-ri-sze3
+4. na-nam
+5. mu-ri2-a mu-ri2-sze3
+6. na-nam
+7. u4 na-du7-du7
+8. nin na-gir2-gir2
+9. esz3 nibru{ki}
+10. u4 na-du7-du7
+11. nin na-gir2-gir2
+12. an-ne2 ki-da
+13. inim an-dab6-e
+14. ki an-da inim an-dab6-e
+$ rest broken
+@column 2
+1. igi-zi-gal-an-na
+2. nin-gal {d}en-lil2
+3. {d}nin-hur-sag
+4. igi-zi-gal-an-na
+5. nin-gal {d}en-lil2
+6. {d}nin-hur-sag-ra
+7. gesz3 mu-ni-du11
+8. ne mu-ni-sub5
+9. a masz imin
+10. sza3# mu-na#?-ni#?-ru
+11. ki musz-gir2-da
+12. bala-bala an-da-za
+13. {d}i7-mah
+14. nig2-tur-zu a mu-da-du
+15. x-ra dingir i7-da-ke4
+16. [x x] mu# [x x]
+$ rest broken
+@column 3
+1. [...] an# x x
+2. KA e2? an-ne2 ba-us2
+3. gesztu {gesz}asal an-gur4-gur4
+4. igi-gesztin-a sza3-ba mu-gar-gar
+5. igi-babbar2 nu11-gal-x
+6. an-da-dub-e
+7. gudu4-ge zi# an-|SZU2+SA|-la2
+8. nu-zuh-mah ku3-lal3-zu
+9. an-da-ra-ta-bar-e
+10. KA-li? GAB nunuz lul sze-a
+11. gu2-HAR pu2-ke4
+12. gudu4 lu2-arattax(|LAM.KUR.RI|)-gin7
+13. si an-sa2-sa2-e
+14. za3 za3 PIRIG an-DU-DU
+15. szu-si gesz?-BAD an-x
+16. x x [...]
+$ rest broken
+@column 4
+1. [...]
+2. [...]
+3. UM x {d}en-lil2
+4. nibru{ki}-sze3
+5. gig-sze3 mu-gar-gar
+6. {d}inanna-ra ki zabala2-sze3
+7. gig-sze3 mu-gar-gar
+8. {d}en-ki-ra abzu-sze3
+9. gig-sze3 mu-gar#-[gar]
+10. UM [x]-bi# {d}en-lil2
+11. nibru{ki} u2 nu-sze3-gu7-e
+12. a nu-sze3-na8-na8
+13. edin-ninda kum2-na
+14. ninda kum2 nu-mu-gal2
+15. edin ninda te-na
+16. ninda# te# [nu-mu-gal2]
+$ rest broken
+@column 5
+1. x [...]
+2. {d#}en-lil2# x-sze3 mu-szi-[x]
+3. a-mun4# a-ne ba-sa2#-sag#
+4. a-mun4 a-ne ba-la2-la2
+5. {d}en-lil2 a-ne ba-sa2#-sag#
+6. a-mun4 a-ne ba-la2-la2
+7. edin-ninda kum2-za
+8. ninda kum2 nu-mu-gal2
+9. edin# ninda te-za
+10. ninda te nu-mu-gal2
+11. gir2-mah GA2? gu4 gu7-gu7 zu?
+12. esz3 nibru{ki}
+13. |NI+IGI|-bi a-ne ba-nu2
+14. zabar mah-zu mu#-URU#?
+15. GA2#? nu-mu-gi-ne2#?
+$ rest broken
+@face b
+@column 1
+1. [...]
+2. gig#-sze# mu#-gar#-gar#
+3. {d#}en#-ki#-ra# abzu-sze3
+4. gig-sze3 mu-gar-gar
+5. nam-ta#-e3#
+6. nam-ta#-e3#
+7. u4 ge6-ta# e3#-a
+8. {d}nin-urta
+9. nam-ta-e3
+10. u4 ge6-ta e3-a
+11. kusz pirig# bar nam-mi-mu4
+12. kusz# pirig-pirig
+13. za3 mu-ni-kesz2
+14. si-si ma-ta-za
+15. la2-la2 ma-[ta]-za#
+$ rest broken
+@column 2
+1. [...]
+2. [...]
+3. x x um#-gig
+4. x x na za
+5. gurusz DU#? ag2
+6. gurusz x ma hi-a
+7. dug kurun2#? dug SZID-ra
+8. umum mu#-na-ni-za#?-x
+9. ama-mu nu# x me-a
+10. gurusz-zu x na-dab6-sze3?
+11. ama-mu nu# x me-a
+12. um-gig a-ne ba-e?
+13. tur3 tu nu-me-a-ra#
+14. a-gig a-ne RU#?
+15. um x [x] x [x]
+$ rest broken
+@column 3
+1. [...] x
+2. [...]
+3. na x [...]
+4. igi mu#? x
+5. [...]
+6. im nam# [mu]-ni#?-tar
+7. ki? x mah
+8. x na x
+9. za3# [...]
+10. dumu x [x]
+11. tum mu-dab6#-be2
+12. ki ku4-ra-bi
+13. a# AB{ki}-a x ib2#?-be6#?
+14. ki#? ub#? KID2 x a [x]
+15. x [...]
+$ rest broken
+@column 4
+1. dumu [...]
+2. ki mu-x-x-bad
+3. [x] bi# x GA2#?
+4. sza3-bi# gu4 x bar?
+5. nig2# HI x DU#-DU
+6. x x [...]
+7. [{d}]nin-[hur]-sag
+8. dumu#-ne-ne
+9. nam mu-ne-tar
+10. im-si-sa2-ra
+11. nam mu-ni-tar
+12. gen-na a-zu5-lugal
+13. zi-zu he2-mi-|NINDA2xHI|#
+14. sipa x ti HU#?
+$ rest broken
+@column 5
+1. x x [...]
+2. lu2 [x] lu2-[ra?] ti [x]
+3. x [...]
+4. si [...]
+5. lu2 x ru-a-zu
+6. lu2 x ki# [...]
+7. x x [...]
+8. x zu5#? GA#? he2#
+9. im-RU?-LAGAB MUSZ3#?
+10. nam mu-ni-tar
+11. gen-na {d}en-ki-du
+12. ku-li-zu he2-am6
+13. ki-su7 {d}en-lil2-DU-[x]
+14. lu2 lu2-ra
+15. edin [x x] x
+@face c
+@column 1
+$ broken
+@column 2
+1. [...]
+2. [...]
+3. [x] x e3 [x] da
+4. kesz2-ta ba-ta-e3
+5. [x] ninda gu7 [{d}]en-lil2
+6. [x x] da [x] ti#
+7. {d}irhan
+8. lu2# sa6#-ga
+9. [x x] x [x x] ti
+$ rest broken
+@column 3
+1. [...]
+2. [...] an#-sze3 [x]
+3. idigna# ku3# buranun# [ku3]-ge
+4. gidri-ku3# {d}en-lil2
+5. hur-sag#? mu-DU
+6. ur2-bi he2-x
+7. pa-bi uri3# [x]
+8. bar-ba [x x] zur [x]
+9. nunuz ki [he2?]-tag#
+10. [x] lu2# [x] za
+11. [x x] x [x x] GA#?
+12. [x x x] e2
+13. [...] x [...] x
+$ rest broken
+@column 4
+1. [...]
+2. [...]
+3. kur-ra#? al-lu2#
+4. am ge6 al-lu2
+5. am babbar al-lu2
+6. am si4 al-lu2
+7. am dara4 al-lu2
+8. ansze pirig su il2
+9. an-ga-lu2
+10. ansze zi-zi hur-sag
+11. an-sze3 al-e11
+12. ama-lu5 al-dab5
+13. siki-siki al-il2
+14. dar3 gi za [{d}]nin-hur-sag
+15. [al-lu2]
+$ rest broken
+@column 5
+1. [...]
+2. [...]
+3. [...] gi#
+4. ul#?-sze3# mu#-gi4-gi4
+5. KA lul NE KA lul NE
+6. URU da-ba-la
+7. e2-e MUD
+8. muszen a-ba-szub-be2
+9. {kusz}ga2-la2-a-ke4 zi3 a-ba-ta-si-ge
+10. {kusz}ummux(|EDIN.LAL.A|)-ke4 a a-ba-ta-de2
+11. da-ba-la-e gal i3-ga-mu-zu
+12. e2-mu# MUD
+13. muszen a-ba-szub-be2
+14. {kusz}ga2-la2-a-ke4 zi3# a-ba-ta-si-ge
+15. {kusz#}ummux(|EDIN.LAL.A|)-ke4 a a-ba-ta-de2
+$ rest broken
+@face d
+@column 1
+1. [x x] x
+2. [x] {d#}nin-hur-sag-ke4 ab#? da-me
+3. ku3-me szu-na# mu-dab5#
+4. an ba? da ga2#-e mu-na-ni#-gi4-gi4
+5. pisan ku3-ga-me pisan SZEN-ga-me
+6. lu2 duh ku3 nigin-me
+7. nu-zuh gidri# ku3-ge
+8. NE sub6-me
+9. szu-ni nam-ma-dab5-[dab5]
+10. dug 2(asz@c) [x] mu-na-de2#
+11. 2(asz@c) PI [x] PI mu-na#-de2#
+12. sza3 ki#-ag2 DU-a-bi
+13. DUG mu-da-ni-ru
+14. {d}irhan
+$ rest broken
+@column 2
+1. [x] sur3#? BUR? sur3?
+2. idigna ku3 buranun ku3-ge
+3. gidri-ku3 szesz-mu
+4. {d}en-lil2
+5. lu2 nam-DU an# [x]
+6. dumu-mu# [...]
+7. [x x] MI# [x x]
+8. {d#}nin#-hur-sag-ke4
+9. szembi-zi |SZU2+SZE3| igi-du8 i3-li?
+10. igi-na ba-ni-gar
+11. za3-e3 kesz3 nam-mi-DU
+12. sig-sze3 ba-ni-il2
+13. sig-sze3 lu2 nu [x]
+14. gidri# [...]
+$ rest broken
+@column 3
+1. [...]
+2. x [...]
+3. e2 mu-na-kusz3
+4. u4-bi a-DU zal-la
+5. ge6#-bi [a]-DU szu2-am6
+6. {d}irhan
+7. x KU [x] x
+8. e2 [...]
+9. dumu-mu GA2 x
+10. a-na# [x] a mu#-[x]
+11. lul# [x] na#? [x]
+$ rest broken
+@column 4
+1. [...]
+2. [x] PESZ2# {d}esz-pesz
+3. gal i3-ga-mu-zu
+4. abul si-gar ba-gar
+5. ig-x szu-a mu-ni#-kesz2#
+6. esz3#-ta e x i3-ma-szu2-szu2
+7. {d}irhan#
+8. [...]
+9. [...]
+10. [x x] mu ta x
+11. igi an-sze3 i3-il2-da
+12. szah2 gesz-gi-gin7
+13. [x x] na# mu# [x x]
+$ rest broken
+@column 5
+1. [...]
+2. [x] nam-sa6#-ga
+3. [ba]-ra-ni me#-nam
+4. [x] GA2 dab5 x ma-da
+5. mah#-bi sa6-ga
+6. ba-ra-ni me#-nam
+7. x DIN-gin7
+8. |SZU2+SA| gi he2-dub-e
+9. ki nam-nita-ni
+10. MUSZ dam te esz2 mu gin7
+11. da dar3 gesz ma NUN
+12. ki NIG2 ti# NE# KA#
+13. [x] na [x x] DU#
+$ rest broken
+
+&P230258 = A 07896
+#atf: use lexical
+@object cylinder
+@column 1?
+1'. [kusz]-a-ru#-[...]
+2'. kusz-KA-KA# [...]
+3'. kusz-hu-lu-[lum]
+4'. kusz-ma-ri-nu-um
+5'. kusz-ta-ri-zum
+6'. kusz-si-hu-um
+7'. kusz-da
+8'. kusz-suhub(|SZU2.(3xAN)|)
+9'. kusz-suhub-munus
+10'. kusz-suhub-nita
+11'. kusz-suhub-e2-dingir-ra
+12'. kusz-suhub-duh-szi-a
+# SZI has no horizontal
+13'. kusz-suhub-a-ra2
+14'. kusz-suhub-a-ra2-sud-a
+15'. kusz-suhub-mah?
+16'. kusz-suhub-e2!(ga2)-ba-na
+17'. kusz-suhub-babbar
+18'. kusz-suhub-gi6
+19'. kusz-suhub-sig7-sig7
+20'. kusz-suhub-su13-a
+21'. kusz-suhub-gun3-a
+22'. kusz-suhub-ur-gi6-ra
+23'. kusz-suhub-mar-tu
+24'. kusz-suhub-pa5
+25'. kusz-ga2-la2
+26'. kusz-|A.EDIN.NA|
+27'. kusz-|A.EDIN.NA|-si-[da]
+28'. kusz#-nig2-SAG#?
+29'. kusz#-nig2-ad?-[...]
+30'. [kusz]-nig2-[...]
+@column 2
+1'. kusz#-[...]
+2'. kusz-[...]
+3'. kusz-ur#-[...]
+4'. kusz-ur#-[...]
+5'. kusz-ur-[x]-[...]
+6'. kusz-ur-[...]
+7'. kusz-ur#-[...]
+8'. kusz-[x]-[...]
+9'. kusz-[...]
+10'. kusz-[...]
+11'. kusz-[...]
+12'. kusz-[...]
+13'. kusz-[...]
+14'. kusz-[...]
+15'. kusz-[...]
+16'. kusz-[...]
+17'. kusz-[...]
+18'. kusz-[...]
+19'. kusz-[...]
+20'. kusz-[...]
+21'. kusz-[...]
+22'. kusz-[...]
+23'. kusz-[...]
+@column 7'
+$ 1 line traces
+2'. [...]-ru?
+3'. [...]-lal3
+4'. [...]-ga
+5'. [...]-ra
+$ rest of column missing
+@column 8'
+1. [szim?]-nu-du10-du10-ga
+2. szim-im-ru-um
+3. szim-im-ru-um-gam-ma
+4. [nig2]-szim-luh-ha
+5. [x-x-x]-il
+6. [...]-KAK?
+7. [...]-[x]-um
+8. [...]-MI
+9. [...]-tur
+10. [...]-gesz-li
+11. [...]-ur
+$ lines 12-13 traces
+14. [...]-A
+15. [...]-[A]
+$ about 23 lines missing
+39'. [...]-[SAR]
+# traces
+40'. ukusz2-SAR
+41'. ukusz2-{gesz}kiri6
+42'. KID-isz-KID-SAR
+# See RT 56 r v33
+43'. [...]-[x]-la-IGI-SAR
+44'. [...]-SAR
+45'. [...]-SAR
+46'. [...]-SAR
+47'. [...]-SAR
+48'. [...]-SAR
+49'. [...]-SAR
+50'. [...]-SAR
+@column 9
+1. hi-is-[x]-[...]
+2. ku-ur2-ku-du-um-SAR
+3. KU-ba-a2-SAR
+4. a2-la-SAR
+5. GAN2-na-szi-SAR
+# see gan2-sze-SAR in Nippur
+6. ri2-gi-na-SAR
+7. za3-ah-li-SAR
+# Akkadianism for for za3-hi-li!
+8. nig2-gilim-SAR
+9. pa3-SAR
+10. BAD-{gesz}kiri6-SAR
+11. babbar2(|UD.UD|)-hi-SAR
+12. [UD-x-GAR?]-SAR
+13. [am?]-mul-SAR
+14. ku3-mul-SAR
+15. gesz-BAD-SAR
+16. sze-lu2-SAR
+17. sze-lu2-gissu-SAR
+18. an-da-gar3-SAR
+19. sza#-ki-ra-SAR
+20. [sza3]-gi-SAR
+21. [sza3]-gi-SAR
+22. [x]-szir3-re
+23. [am]-ha-ri-SAR
+24. [x]-zi-am-ha-ri-SAR
+25. [...]-[AK]-SAR
+26. [...] {d}iszkur-ra-SAR
+27. [(x)]-ba-ap-pa?-tum-SAR#
+# PA has extra vertical. GUR?
+28. [x]-[ta?]-SAR
+29. [x]-ISZ-SAR
+30. [x]-ISZ-kur-ra-SAR
+31. [x]-nu-ha-[(x)]-SAR
+32. [x]-[i?]-ra#?-SAR
+33. [...]-suhusz#-SAR
+34. [...]-SAR
+35. [...]-SAR
+36. [...]-SAR
+37. [...]-tum-SAR
+38. [...]-SAR
+39. [...]-ESZ2-SAR
+40. ba-[x]-[...]-SAR
+41. a-mu-[x]-ra-SAR
+42. za3-na-SAR
+43. e-{u2}tal2-tal2-SAR
+# =asz-tal2-tal2?
+44. u2
+45. u2-sar
+46. u2-bur2
+# =u2-buru14
+47. u2-sze-bur2
+48. u2-musz
+49. u2-musz-gal
+50. u2-sag-du
+51. u2-TE?-[x-x]
+52. [u2]-[...]
+$rest of column missing
+@column 10'
+1. [u2]-[...]
+2. u2-szu#?
+3. u2-szu-mu-ISZ-[x]
+4. am
+5. amar-am
+6. sun2
+7. am-si
+8. am-si-kaskal-an-na
+9. si-gid2-da
+10. alim
+11. szeg8
+12. [dara3]
+13. dara3#?-[masz]
+$ 2 lines missing
+16. sza3-[...]
+17. sza3-bar-sig7-[...]
+18. dam-[x]
+# x does not look like szah
+19. a-ga-ab-ur2-[x]
+20. ab2-za-za#
+21. sun2#
+# collated by E. Robson
+22. [pirig]
+# one sign only
+23. pirig-[hur]-sag#
+24. [ka5]-a
+25. sa#-a
+26. sa#-a-RI
+27. ur-idim
+28. ur-mah
+29. ur-bar-ra
+30. ur-gi7-ra
+31. SAL-ur-ra
+# sic!
+32. ur-ab2-ba
+33. masz-da3
+34. amar-masz-da3
+35. kir4
+36. udu-edin-na
+37. lu2-edin-na
+38. bala!-gim-gim
+39. ba-an-hu-na
+# = BAR-HU?(ban2-muszen)
+40. pesz2
+41. pesz2-tur
+42. pesz2-gesz-gi
+43. pesz-a-sza3-ga
+44. pesz2#-gesz-ur3-ra
+45. pesz-[...]
+46. {d}nin-[kilim]
+47. {d}nin-kilim-[...]
+48. {d}nin-kilim-masz-masz-[...]
+49. {d}nin-kilim-al#-[...]
+50. [udu]
+51. udu-[...]
+52. udu-u2?-[...]
+53. udu-a-[lum]
+54. udu-a-[lum]-[...]
+@column 11'
+$ about 19 lines missing
+$ traces
+1'. [udu]-sza3-ba
+2'. [udu]-i3-sza3-ba
+3'. udu#-he2-sza3-ba
+4'. udu ur-mah i3-gu7!(KA)-e!(RA)
+5'. udu ur-bar-ra i3-gu7!(KA)-e
+6'. udu dingir-ra i3-gu7!(KA)-e
+7'. udu-szir3-ra
+8'. udu-tu-ra
+9'. udu-mar-tu
+10'. udu-a-BUR2
+11'. udu-nig2-nim-nim
+12'. udu-KA-nig2-nim-nim
+13'. udu-nita
+14'. udu-igi-szu
+15'. udu-masz2-szu-gid2-gid2
+16'. udu-sila4-ne
+17'. udu-zu?-ra
+18'. udu-EZEN-zu-ra
+19'. |LU.SAL|?
+20'. [x]-si-sa2
+21'. [x]-UN
+22'. ud5
+23'. ud5#-si-sa2
+24'. [x]-ud5-|SI?+(SAL.TUG2)|
+25'. masz2
+26'. [masz2]-gal
+$ 1 line traces
+$ n lines broken
+1''. [...]-[x]
+2''. [...]-bar-ra
+3''. [...]-sa6
+4''. [...]-ri-ri-ga
+5''. [...]-[na]-ri-ga
+6''. [ansze]-gigir
+7''. [ansze]-X
+8''. [{munus}]asz2#-gar3
+9''. [...]-mah
+10''. [...]-[si]-sa2
+@column 12'
+1'. [...]-[x]
+2'. [...]-NI?
+3'. [...]-tab-ba?
+4'. [...]-szuszana
+5'. [...]-sa9
+6'. siki# [...]-szanabi
+7'. suluhu(|SIK2.SUD#|)#
+8'. suluhu#-sag10
+9'. suluhu#-ba
+10'. suluhu-ba-sag10
+11'. suluhu-[x]-ne
+12'. suluhu-mi#?-za
+13'. suluhu-mi#?-sza?
+14'. suluhu-USZ
+15'. suluhu-sud
+16'. suluhu-gir3
+17'. siki babbar
+18'. siki gi6
+19'. siki sig7-sig7#
+20'. siki su13-[a]
+21'. siki a2-gu2#-[hu-um?]
+22'. siki a2-ur4-[...]
+23'. siki sza3-[sig?]
+24'. siki [x]
+25'. siki GIR2-[x]
+# x begins with two horizontals
+26'. siki GIR2-[x]
+# x begins with winkelhaken and horizontal
+27'. siki egir-a
+28'. siki nu-egir-a
+29'. siki [x]-a
+30'. siki [x]-[...]
+# [x] probably same as in 29'; very little preserved.
+$ n lines broken
+1''. siki#-[...]
+2''. siki za-ri2#-[in]
+3''. siki za-ri2-[in]
+4''. siki za-ri2-in#
+5''. siki BAR-[x]
+6''. siki am-[...]
+7''. siki ga-rig2-[ak]
+8''. siki gun3-[a]
+# item was omitted in colour section!
+
+
+&P230257 = MSL 11, A 07895
+#atf: use lexical
+@object cylinder
+@column 1
+$ 4 lines broken
+5. dug
+6. am
+7. uzu
+8. muszen
+9. ku6
+10. kasz-sag10-ka-lugal
+11. kasz-sag10-{im!}imgaga2(|ZIZ2.AN.NA|)
+12. kasz-sag10-szagina(|GIR3.ARAD|)#
+# see section kasz-dida
+13. |BI+SZU2|?-[...]
+14. kasz#-[...]
+$ about 13 lines traces
+28'. [kasz]-x-ra
+29'. [kasz]-bala
+30'. kasz#-ga
+31'. kasz#-babbar
+32'. [...]-gi6
+33'. [...]-sig7-sig7
+34'. [...]-su13-a
+35'. [...]-ri2#-nu-um
+36'. [...]-ga
+37'. [...] x
+$ rest broken
+@column 2
+1. [nig2-ar3]-ra-sag
+# prob. to be read nig2-har-ra
+2. [nig2]-ar3#-ra-gen
+3. [nig2-ar3]-ra-gu4
+4. [nig2-ar3-ra]-szu!(KI)-ur3#-ra
+5. szim
+6. szim#-[...]-sze?-in?#
+7. szim#-[...]
+8. |GA2xAN|# [...]-x
+# x not compatible with SZIM. (AMA.SZIM = agarin4). Traces may belong to next line.
+9. BI# [...]
+# maybe SZIM# or BAPPIR#
+$ about 15 lines missing
+$ traces
+2'. titab-us2
+3'. titab-sag
+4'. titab-gen
+5'. munu4(|PAP.PAP|)
+6'. munu4-sag10
+7'. munu4-kin-a
+8'. munu4-si-a
+9'. munu4-al-ga2-a
+10'. munu4-al-e3-a
+11'. munu4-us2
+12'. munu4-sag
+13'. munu4-gen
+14'. IN#?-ZIZ2-munu4
+15'. [kasz]-dida(|U2.SA|)
+16'. [kasz]-dida-sag10
+17'. [kasz]-dida#-sag10#-KA-lugal
+18'. [kasz-dida-sag10]-{im}imgaga2(|ZIZ2.AN.NA|)#
+19'. [kasz-dida-sag10]-szagina(|GIR3.ARAD|)#
+$ rest broken
+@column 3
+1. bappir#-[...]
+2. zi3-[...]
+# ZI3 at the beginning of the line!
+3. zi3-[...]
+4. zi3-dabin(|ESZ2.SZE|)#
+5. zi3-ZI3-KAK-KAK-x
+# read munu4? Very different from munu4 in col ii
+6. zi3-x
+7. zi3-[...]
+8. zi3-[...]
+9. [zi3]-[...]
+# middle part of line preserved (empty)
+10. [zi3]-ISZ-babbar2-[...]
+11. zi3-A-[...]
+12. ar-za-nu-[um]
+# Akk. arsanu
+13. [x]-NI-zi3-[...]
+14. [x]-zi3-[...]
+15. [x]-zi3-[...]
+16. [x]-zi3-[...]
+17. [x]-zi3-[...]
+$ about 5 lines missing
+# Lines 11-17 are partly or fully found in the fragment A 7896 o
+1'. ninda-[...]
+2'. ninda-zi3#-[...]
+3'. ninda-zi3#-[...]
+4'. ninda-sag-[...]
+5'. ninda-hal-za3-[...]
+6'. ninda-pa-an-du#-[nu-um]
+7'. ninda-pa-na-ni-[kum]
+8'. ninda-|UD.ZE2|-ga2 [...]
+9'. ninda-szi-ba?-[...]
+10'. ninda-ze2-ir-kum#
+11'. ninda-gur4-[ra]
+12'. ninda-tab-[ba]
+13'. ninda-KA-[...]
+14'. ninda-kar2-[...]
+15'. ninda-[...]
+16'. ninda-[...]
+17'. ninda-[...]
+18'. ninda-[...]
+19'. ninda-[...]
+20'. ninda-[...]
+@column 4
+1. [ninda-x]
+2. [ninda-sza3-ge]-kar2
+3. [ninda-x]-DU-a
+4. [ninda]-ur3#-ur3-ra
+5. ninda-gaba#-ri-a
+6. ninda-|U.ENxGAN2@t|(|U.ENxGAN2@t|)
+7. ninda-sze-mu2
+8. ninda-sze-gesz-i3
+9. ninda-sze-gu-bu-la
+10. [ninda]-i3
+11. [ninda]-ga
+$ traces
+$ rest broken
+@column 5
+1. sze-x-x
+2. sze-|KI.UD|
+3. sze-dim-gu-us2-sa
+4. sze-nig2-szu-na
+5. sze-nir-ra
+6. sze-PI
+7. sze-egir
+8. sze-nim-ma
+9. sze-tir
+10. sze-sig
+11. sze-bulug#
+12. sze-babbar
+13. sze#-gi6
+14. [sze]-sig7#-sig7
+15. [sze]-su13#-a
+@column 6
+1. gesztin
+2. gesztin-dur5
+3. gesztin-e3-a
+4. GAN2@t-gesztin
+5. a-gesztin
+6. gesztin-szu-ur3-ra
+7. gesztin-ka5-a
+8. szennur
+9. szennur-dur5
+10. szennur-e3-a
+11. haszhur
+12. haszhur-dur5
+13. haszhur-e3-a
+14. haszhur-ar-wa-nu-um
+15. haszhur-al-dar-ra
+16. haszhur-a-gal2#
+# gal2 correct; collated by E. Robson
+17. haszhur#-ag2-[(x)]-e#
+18. haszhur#-[...]
+19. pesz3
+20. [pesz3]-dur5
+21. [pesz3]-e3#-a
+22. [pesz3]-sze-ir-kum
+23. [pesz3]-sze-ir-kum
+24. [pesz3]-tab-ba
+25. gi6-par3
+26. gi6-par3-dur5
+27. gi6-par3-e3-a
+28. lam
+29. lam#-tur
+30. lam#-gal
+31. sza3#-lam-gal
+32. hal-hal-la
+33. im-babbar2
+34. [im]-gi6
+35. [im]-sig7-sig7
+36. [im]-su13#-a
+37. [im]-gun3#-a
+$ n lines broken
+# fragment A 7895n
+$ traces
+2'. im-udun#-muhaldim?#
+3'. im-LAGAB
+4'. im-szu-rin-na
+5'. im#-ka-tab-ba
+6'. [x]-x-szu-rin-na
+7'. naga(|SZE.SUM.KAK|)
+$ (bottom of cylinder)
+@column 7
+$ traces
+2. naga#-[...]
+3. naga-al-[x]
+4. sig4-[naga]
+5. mun#
+6. mun-al-gu2#-[ga2]
+# MUN is written DIM
+7. mun-al-e3#
+8. sig4-mun
+9. gazi
+10. gazi-al-gu2-ga2
+11. gazi-al-e3
+12. gazi-|KAK.IGI.BI|
+13. ga-ar3#
+14. ga-ar3-ar-za#-[na]
+15. ga-ar3-nig2-gal-gal-sig7
+16. ga-ar3-gu2-nig2-ar3-ra
+# The text differentiates between first ar3 (HIxASZ) and second (a true HUR).
+# Prob. read nig2-har-ra
+17. ga-ar3-nig2-ar3-ra
+18. ga-ar3-a-gazi
+19. ga-ar3-ukusz2
+20. ga-ar3-lu-BA!-sar
+# BA for ub2
+21. ga-ar3-a2-la2-SAR
+22. ga-ar3-GAN2-na-SAR#
+23. ga-ar3-x
+# x is beginning of horizontal
+24. ga-ar3-GABA-[...]
+25. ga-ar3-li?#-[...]
+26. ga-ar3-x-[...]
+# x like beginning of UD
+27. ga-ar3-x-[...]
+28. ga-ar3-[...]
+29. ga-ar3#-[...]
+30. ga-[ar3-x]
+$ traces
+# fragment A 7895n col. iii
+1'. ga-ar3-[...]
+2'. ga-ar3-[...]
+3'. [duh]
+4'. duh-[...]
+5'. duh-UD?-[...]
+# bottom of cylinder
+@column 8
+1'. [...]-gu#?
+2'. [...]-PI
+3'. [...]-IGI
+4'. duh#-UD-ur2
+# probably = UMBIN
+5'. duh#-lum
+# or -sig4
+6'. duh#-ti
+7'. [...]-gag-ti
+8'. [a]-sza3
+9'. [a]-sza3-mah
+10'. [a-sza3]-sze
+11'. [a-sza3]-szu-rin-na
+12'. [...]-sig
+13'. [a]-sza3#-gi6
+14'. [...]-|HIxASZ2|
+15'. [a]-sza3#-kar-ru
+16'. [...]-tuku
+17'. [...]-ab#-tuku
+18'. [...]-ezem?#
+@column 9
+1. i7-idigna#
+2. i7-ir-ni-na#
+3. i7-sa-ah-si-nu
+4. i7-me-{d}|KAL.KAL|
+5. i7-na-ra-am-{d}suen(|EN.ZU|)
+6. i7-i-di-isz-tum
+7. i7-e-ri-isz-lu-ub-la-tum
+# collated E. Robson; error for id2-e-ri-isz-tum-lu-ub-la
+8. i7-na-ar-si-na
+9. i7-ba-an-du8-du8
+10. i7-{d}nergal
+11. i7-ba-an-du8-du8-ir3-ra
+12. i7-szir3-ku3
+13. pa5
+14. pa5-|ISZ.PA|-li
+15. pa5#-{d}nanna
+16. [pa5]-ur-sag
+17. [pa5]-e2#-nu-esz3-ki
+18. [pa5]-{d}szul-gi
+19. [pa5-x]-an-ba-al
+20. [...]-tur3?
+21. [...]-ta
+22. [...]-tur
+23. [...]-me-ri-tum
+24. [...]-{gesz}kiri6
+25. [...]-sza3
+26. [...]-gar3
+27. [...]-x-ga2
+28. [...]-gal2#-la
+29. [...] A
+30. [...] pesz10
+31. [...]-pesz10#?
+32. [...]-la2?#
+# followed by DAG; which belongs to next col.
+@column 10
+1. musz
+2. musz-gesztin
+3. musz-uszumgal
+4. musz-hul-la2
+5. musz-szu-ur3-ra
+6. musz-sahar
+7. musz-a
+8. musz-sig
+9. musz-ze2-na
+# ZE2 has only one vertical
+10. musz-gisz/LAGAB
+11. musz-sze-gu-bu-la
+12. musz-babbar
+13. musz-gi6
+14. musz-sig7-sig7
+15. musz-su13-a
+16. musz-gun3-a
+17. musz-masz-da3
+18. musz-si-KAK
+19. musz-men-na
+20. musz-SA-|KI.KAL|
+# SA is to be read U2! or gloss for sas(KI.KAL)
+21. musz-ki-in-dar
+22. musz-ki-usz2
+23. musz-kaskal
+24. musz-diri-ga
+25. za-az
+26. za-az-za
+27. KA-SZID
+28. musz-DU-DU@g
+29. nim#
+30. nim-DAR-[...]
+31. nim-[...]
+32. nim-PI-[...]
+33. sag-[...]
+34. kiszi8#-[...]
+35. |DAG.KISIM5|#
+# The DAG has been squeezed in and seems to stand in the preceding column.
+@column 11
+2. dusu2
+3. ansze-sag-ku5
+4. ansze-nu-sag-ku5
+5. ansze-lu2-hun-ga2
+6. ansze-HAL
+7. ansze-gu-za
+8. ansze-diri-ga
+9. ansze-edin-na
+10. gu4
+11. gu4-niga
+12. gu4-gesz-i3
+13. gu4-ab2-ba
+14. gu4-an-na
+15. gu4-diri-ga
+16. gu4-mu-limmu
+17. gu4-mu-|ASZ.ASZ.ASZ|
+18. gu4-mu-|ASZ.ASZ|
+19. gu4-mu-dil
+20. gu4-bi-x-[...]
+21. gu4-mu-x-[...]
+22. gu4-nig2#-[...]
+23. gu4-[...]
+24. gu4-szu?#-[...]
+25. gu4-[babbar]
+26. gu-[gi6]
+27. gu4-sig7#-sig7#
+28. gu4-su13-a
+29. gu4-gun3-a
+30. gu4-[...]-ra
+31. gu4-x-ra
+32. gu4-mar-tu#
+33. gu4-x-mah?-[...]
+@fragment o
+@column 1'
+1'. [...]-gu2?#
+2'. [...]-gu2#-gal
+3'. [...]-gu2#-tur#
+@column 2'
+1'. a-lu-x-[...]
+2'. a-lu-x-[...]
+3'. a-lu#-[...]
+@fragment p
+@column 1'
+1'. [...]-al#-kum
+2'. [...]-na?
+@column 2'
+1'. duh-[...]
+2'. duh-[...]
+3'. duh-[...]
+@fragment s
+# probably col. iv
+1'. ninda#-[...]
+2'. ninda#-KAK-[...]
+3'. ninda#-i3-KA-[...]
+4'. ninda#-i3-KA-[...]
+5'. [...]-KA-[...]
+@fragment t
+# May not belong to A 7895
+1'. [...]-hub2-ba
+2'. [...]-siskur2-re
+3'. [...]-x-kur-ri-a
+4'. [...]-ri-a#
+# second col. udu
+@fragment u
+1'. [...]-gesz-|GA2xX|#-[...]
+2'. [...]-gesz-|GA2xX|#-[...]
+3'. [...]-ki-[...]
+4'. [...]-sza3-ba-[...]
+5'. [...]-kar-[...]
+6'. [...]-si-x-[...]
+
+&P259136 = CBS 01816
+#atf: lang sux
+@object barrel
+@surface a
+@column 1
+1. szunigin 2(gesz2@c) 4(u@c) 6(asz@c) masz2 sza3-du10
+2. szunigin 1(u@c) 4(asz@c) masz2 sza3-du10 sag ud5-sze3
+3. szunigin 3(gesz2@c) masz2 sza3-du10 sag {munus}asz2-gar3-sze3
+4. szunigin 2(u@c) 2(asz@c) masz2 sza3#-du10
+5. szunigin 3(gesz2@c) 5(u@c) 5(asz@c) ud5
+6. szunigin 1(gesz2@c) 2(u@c) la2 2(asz@c) x 1(u@c) dilim2?
+7. szunigin 4(u@c) 4(asz@c) masz2-gal
+8. szunigin 1(u@c) masz2-nita2
+9. szunigin 3(gesz2@c) 2(u@c) 6(asz@c) masz2 sza3-du10
+10. gub-ba-am3
+11. szunigin 2(u) la2 1(disz) masz2-nita2!
+12. gaba-ga-am3
+13. szunigin 3(u) la2 1(disz) ud5
+14. szunigin 2(u) {munus}asz2-gar3
+15. szunigin 4(u) 3(disz)! masz2-nita2
+16. szunigin 7(disz) masz2 sza3-du10
+17. NI-am3
+$ blank space
+@column 2
+1. szunigin 3(gesz2@c) 3(u@c)! 4(asz@c) ud5
+2. szunigin 1(gesz2@c) 2(u@c) 8(asz@c) {munus}asz2-gar3
+3. szunigin 1(gesz2@c) ud5 sag {munus}asz2-gar3-sze3?
+4. szunigin 4(u@c) 4(asz) masz2-gal
+5. szunigin 1(gesz2@c) 5(asz@c) masz2-nita2
+6. szunigin 5(gesz2@c) masz2-nita2? sag ud5-sze3?
+$ blank space
+7. sag masz2-nita2-sze3
+8. gub-ba-am3
+9. szunigin 7(disz) masz2-nita2
+10. giri3 gidlam2?
+11. szunigin 7(disz) masz2-nita2
+12. giri3 {d}ba-ba6-tum gu-u gu4
+13. szunigin 5(disz) masz2-nita2
+14. giri3 lu2-{d}ba-ba6 dumu a-tu
+15. zi-ga-am3
+16. szunigin 1(gesz2) 3(u) la2 1(disz) ud5
+17. szunigin 2(u) {munus}asz2-gar3
+18. szunigin 4(u) 3(disz) masz-nita2
+19. szunigin 7(disz) masz2 sza3-du10
+20. NI-am3
+$ blank space
+
+
+&P259137 = CBS 01817
+#atf: lang sux
+@object barrel
+@surface a
+@column 1
+1. 1(gesz2) 4(disz) u8
+2. 3(gesz2)# 3(u) 2(disz) udu-nita2
+3. 2(u) 4(disz) kir11
+4. 2(u) 5(disz) sila4-nita2
+5. 5(disz) masz2-sag
+6. szunigin# 6(gesz2)? 7(disz) udu-hi-a!(ZA)
+7. gub-ba-am3
+8. ur-{d}ba-ba6! na-gada
+9. 4(gesz2)? 6(disz) sila4
+10. 1(u) 2(disz) kir11
+11. 1(u) 1(disz) sila4-nita2
+12. szunigin 2(u) 2(disz) udu-hi-a
+13. da?-ti-dingir na-gada
+14. 2(gesz2) 5(u) u8
+15. 5(gesz2) 2(u) kir11
+16. 4(u) 3(disz) sila4-nita2
+17. 5(disz) masz2-sag
+18. szunigin 9(gesz2) 5(u) udu-hi-a
+19. {d}iszkur-an-dul3! na-gada
+20. 2(gesz2) 2(u) 3(disz) u8
+21. 3(gesz2) 3(disz) udu-nita2
+22. 3(u) 6(disz) kir11
+23. 3(u) 2(disz) sila4-nita2
+24. 3(disz) masz2 sag
+$ blank space
+@column 2
+1. szunigin 7(gesz2) 1(u) udu#-hi#-a a2-bi2-li2 na-gada
+2. dumu lu2-GUR8-IGI
+3. 2(gesz2) 4(u) la2 1(disz) u8
+4. 3(gesz2) 6(disz) udu-nita2
+5. 4(u)! kir11
+6. 4(u)! sila4-nita2
+7. 5(disz) masz sag
+8. szunigin 9(gesz2) 1(u) udu-hi-a
+9. a-sze-ba-a?-ra na-gada
+10. 1(gesz2) 2(u) 8(disz) u8
+11. 3(gesz2) 1(u) 5(disz) udu!-nita
+12. 2(u) 3(disz) kir11
+13. 2(u) 2(disz) <sila4>-nita2
+14. szunigin# n 3(gesz2) 3(u) udu-hi-a
+15. a2-bi2#-li2-a na-gada
+16. dumu a-sze szusz3
+$ blank space
+@reverse
+1. nameszda
+>>Q000003 001
+
+
+&P481014 = CDLI Lexical 000003, ex. 026
+#atf: lang sux
+@object prism
+@surface a
+1. nameszda
+>>Q000003 001
+2. nam2-tuku
+>>Q000003 002
+3. nam2-di#
+>>Q000003 003
+4. nam2-umusz
+>>Q000003 004
+5. nam2-iri
+>>Q000003 005
+6. nam2-szesz2
+>>Q000003 006
+7. ukur2#
+>>Q000003 007
+8. nam2-engar
+>>Q000003 008
+9. szuszx(|SZE.NAM2|)
+>>Q000003 009
+10. pa#-nam2#-mar#
+>>Q000003 010
+11. esz3# [...]
+>>Q000003 011
+$ rest broken
+@surface b
+1. gal ga#
+>>Q000003 020
+2. nam2 gara2#
+>>Q000003 021
+3. szandana
+>>Q000003 022
+4. gal kisal
+>>Q000003 023
+5. gal sila4
+>>Q000003 024
+6. gal szab#
+>>Q000003 025
+7. gid2 szab#
+>>Q000003 026
+8. gal [...]
+>>Q000003 027
+9. gal [...]
+>>Q000003 028
+10. gal [...]
+>>Q000003 029
+11. sanga# [...]
+>>Q000003 031
+$ rest broken
+@surface c
+1. gal u18
+>>Q000003 039
+2. sanga# |GA2xDI|-me
+>>Q000003 040
+3. sanga# |GA2xGAR|#-me
+>>Q000003 041
+4. sanga# |GA2xUD|-me
+>>Q000003 043
+5. sanga# |GA2xSAL|-me
+>>Q000003 042
+6. gal# ISZ
+>>Q000003 044
+7. [...] tag#
+>>Q000003 045
+8. [...] sanga#
+>>Q000003 046
+9. [...] sanga
+>>Q000003 047
+$ rest broken
+@surface d
+1. gal# SI-KAK-BI#
+>>Q000003 058
+2. gal sanga2
+>>Q000003 059
+3. engiz
+>>Q000003 060
+4. endib
+>>Q000003 061
+5. gal nimgir
+>>Q000003 062
+6. SIG7 nimgir#
+>>Q000003 063
+7. enkum#
+>>Q000003 064
+8. ninkum#
+>>Q000003 065
+9. gal# suhur#
+>>Q000003 067
+$ rest broken
+@surface e
+1. gal nar#
+>>Q000003 077
+2. gal balag
+>>Q000003 078
+3. gal bu3
+>>Q000003 079
+4. gal enkux(ZAG)
+>>Q000003 080
+5. nesag enkux(ZAG)
+>>Q000003 081
+6. e2#?-pa enkux(ZAG)
+>>Q000003 082
+7. [{d}]sugx(|SUD.PA.EL|)# enkux(ZAG)
+>>Q000003 084
+8. sugx(|SUD.PA.EL|)# enkux(ZAG)
+>>Q000003 085
+9. dilmun# enkux(ZAG)
+>>Q000003 083
+10. idigna# enkux(ZAG)
+>>Q000003 086
+11. [...] labx(DU6)#
+>>Q000003 087
+$ rest broken
+@surface f
+1. gal kuruszda#
+>>Q000003 096
+2. sanga kuruszda
+>>Q000003 097
+3. uszumgal
+>>Q000003 098
+4. sanga ab2-udu
+>>Q000003 099
+5. lagar ab2-udu
+>>Q000003 100
+6. gal pa ab2-udu du6
+>>Q000003 101
+7. gal nagar
+>>Q000003 102
+8. gal du5
+>>Q000003 103
+9. gal aszgab
+>>Q000003 104
+10. gal zadim
+>>Q000003 105
+11. gal# simug
+>>Q000003 106
+12. [...] pa#-dim
+>>Q000003 107
+13. [...] e2#?
+>>Q000003 108
+$ rest broken
+@surface g
+1. gal# sanga-GAN2
+>>Q000003 115
+2. gal hursagx(|PA.DUN3|)
+>>Q000003 116
+3. gal# ti
+>>Q000003 117
+4. gal tidimx(|PA.SZA6|)
+>>Q000003 118
+5. gal luhszu#
+>>Q000003 119
+6. gal hub2
+>>Q000003 120
+7. gal |MUSZ&HI&MUSZ|
+>>Q000003 121
+8. gal tak4-alam
+>>Q000003 122
+9. gal pa-uruda
+>>Q000003 123
+10. gal hal#?-dur
+>>Q000003 124
+11. gal bahar2#
+>>Q000003 125
+12. [...] mes#?-[...]
+>>Q000003 126
+$ rest broken
+@surface h
+1. {d}nisaba#
+#tr.en: Nisaba
+>>Q000003 colophon
+2. munus zi munus saga
+#tr.en: true woman, beautiful woman,
+>>Q000003 colophon
+3. munus mul-mul-e
+#tr.en: starry woman,
+>>Q000003 colophon
+4. ki-ag2 an-na
+#tr.en: beloved by An,
+>>Q000003 colophon
+5. hi-li e2 kur-kur-ra
+#tr.en: luxuriant one of the temple of all the lands,
+>>Q000003 colophon
+6. gesztu2 imin
+#tr.en: with seven ears
+>>Q000003 colophon
+7. x imin
+#tr.en: and seven ...
+>>Q000003 colophon
+8. gesztu2# ki# ku3#
+#tr.en: ear of the silver-place
+>>Q000003 colophon
+9. x x x x
+#tr.en: ...
+>>Q000003 colophon
+10. x x x x
+#tr.en: ...
+>>Q000003 colophon
+11. [...] x x [...]
+#tr.en: ...
+>>Q000003 colophon
+
+&P218302 = CDLI Lexical 000003, ex. 005
+#atf: lang sux
+@object prism
+@surface a
+@column 1
+1. nameszda
+>>Q000003 001
+2. nam2-tuku
+>>Q000003 002
+3. nam2-di
+>>Q000003 003
+4. nam2-umusz
+>>Q000003 004
+5. nam2-iri
+>>Q000003 005
+6. nam2-szesz2
+>>Q000003 006
+7. ukur2
+>>Q000003 007
+8. nam2-engar
+>>Q000003 008
+9. szuszx(|SZE.NAM2|)
+>>Q000003 009
+10. pa-nam2-szita3
+>>Q000003 010
+11. esz3 iszib
+>>Q000003 011
+12. gal lagar-bad
+>>Q000003 012
+13. en IB
+>>Q000003 013
+14. gal szita
+>>Q000003 014
+15. abgal
+>>Q000003 015
+16. kingal
+>>Q000003 016
+17. tiru
+>>Q000003 017
+18. gal sukkal
+>>Q000003 018
+19. gada sukkal
+>>Q000003 019
+@column 2
+1. gal ga#?
+>>Q000003 020
+2. tug2 ga?
+>>Q000003 021
+3. szandana
+>>Q000003 022
+4. gal kisal
+>>Q000003 023
+5. gal sila4#
+>>Q000003 024
+6. gal szab
+>>Q000003 025
+7. gid2-szab
+>>Q000003 026
+8. gal nesag
+>>Q000003 027
+9. gal |NUN.LAGAR|
+>>Q000003 028
+10. gal simug2
+>>Q000003 029
+11. adkin simug2
+>>Q000003 030
+12. sanga simug2
+>>Q000003 031
+13. esz3 ku3-simug2
+>>Q000003 032
+14. gal ku3-simug2
+>>Q000003 033
+15. gal ak
+>>Q000003 034
+16. gal im#
+>>Q000003 035
+17. tur im#
+>>Q000003 036
+18. gal [...]
+>>Q000003 037
+19. gal [...]
+>>Q000003 038
+@column 3
+1. [...]
+>>Q000003 039
+2. gal |GA2xX|#-[...]
+>>Q000003 040
+3. gal |GA2xGAR|-me#
+>>Q000003 041
+4. gal |GA2xSAL|-me#
+>>Q000003 042
+5. gal |GA2xERIN2|-me#
+>>Q000003 043
+6. gal szusz3#
+>>Q000003 044
+7. gal tag
+>>Q000003 045
+8. gal sanga#
+>>Q000003 046
+9. mes sanga#
+>>Q000003 047
+10. sa12-du5#
+>>Q000003 048
+11. |SAGxX|#
+>>Q000003 049
+$ rest broken
+# traces
+@column 4
+1. [...]
+>>Q000003 058
+1. [...]
+>>Q000003 059
+3. engiz#
+>>Q000003 060
+4. endib#
+>>Q000003 061
+5. gal# nimgir
+>>Q000003 062
+6. SIG7# nimgir
+>>Q000003 063
+7. enkum#
+>>Q000003 064
+8. ninkum#
+>>Q000003 065
+@column 5
+1. [...] nar
+>>Q000003 077
+2. [...] balag
+>>Q000003 078
+3. gal szu12
+>>Q000003 079
+4. gal enkux(ZAG)
+>>Q000003 080
+5. nesag enkux(ZAG)
+>>Q000003 081
+6. e2?-pa enkux(ZAG)
+>>Q000003 082
+7. dilmun enkux(ZAG)
+>>Q000003 083
+8. {d}sugx(|SUD.PA.EL|) enkux(ZAG)
+>>Q000003 084
+9. sugx(|SUD.PA.EL|)# enkux(ZAG)#
+>>Q000003 085
+@column 6
+1. gal kuruszda#
+>>Q000003 096
+2. sanga kuruszda
+>>Q000003 097
+3. uszumgal
+>>Q000003 098
+4. gal ab2-udu
+>>Q000003 099
+5. lagar ab2-udu
+>>Q000003 100
+6. gal pa-du6 ab2-udu
+>>Q000003 101
+7. gal nagar
+>>Q000003 102
+8. gal du5
+>>Q000003 103
+9. gal# aszgab
+>>Q000003 104
+@column 7
+1. [...] sanga#-GAN2?
+>>Q000003 115
+2. [...] hursag
+>>Q000003 116
+3. gal ti
+>>Q000003 117
+4. gal# tidimx(|PA.SZA6|)
+>>Q000003 118
+5. gal luhszu
+>>Q000003 119
+6. gal hub2
+>>Q000003 120
+7. gal |MUSZ&MUSZ|?
+>>Q000003 121
+8. gal tak4-alan
+>>Q000003 122
+9. gal pa-uruda
+>>Q000003 123
+10. [...]-dur
+>>Q000003 124
+11. [...] bahar2#
+>>Q000003 125
+12. [...] kesz2#
+>>Q000003 126
+13. [...] e2#
+>>Q000003 127
+14. kid#
+>>Q000003 128
+15. [...] kid#
+>>Q000003 129
+@surface b
+$ beginning broken
+# missing colophon
+
+
+&P217645 = CDLI Lexical 000003, ex. 004
+#atf: lang sux
+@object prism
+@surface a
+@column 1
+1. nameszda#
+>>Q000003 001
+2. nam2-tuku
+>>Q000003 002
+3. nam2-di
+>>Q000003 003
+4. nam2-umusz
+>>Q000003 004
+5. nam2-iri#
+>>Q000003 005
+6. [...]-szesz#?
+>>Q000003 006
+7. ukur2
+>>Q000003 007
+8. nam2-engar
+>>Q000003 008
+9. szuszx(|SZE.NAM2|)
+>>Q000003 009
+10. pa-nam2-MAR
+>>Q000003 010
+11. esz3 iszib
+>>Q000003 011
+12. gal |BADxDISZ@t|
+>>Q000003 012
+13. en IB
+>>Q000003 013
+14. gal szita
+>>Q000003 014
+15. abgal
+>>Q000003 015
+16. kingal#
+>>Q000003 016
+17. tiru#
+>>Q000003 017
+18. [...]
+>>Q000003 018
+@column 2
+1. gal [...]
+>>Q000003 019
+2. gal [...]
+>>Q000003 020
+3. tug2 x
+>>Q000003 021
+4. szandana
+>>Q000003 022
+5. gal kisal
+>>Q000003 023
+6. gal sila4#
+>>Q000003 024
+7. gal szab
+>>Q000003 025
+8. gid2 szab
+>>Q000003 026
+9. gal nesag
+>>Q000003 027
+10. gal |NUN.LAGAR|
+>>Q000003 028
+11. gal simug2
+>>Q000003 029
+12. sanga simug2
+>>Q000003 031
+13. adkin? simug2
+>>Q000003 030
+14. esz3 ku3-simug2
+>>Q000003 032
+15. gal ku3-simug2
+>>Q000003 033
+16. gal ak
+>>Q000003 034
+17. gal im
+>>Q000003 035
+18. tur# im
+>>Q000003 036
+@column 3
+1. [...]
+>>Q000003 037
+2. [...]
+>>Q000003 038
+3. [...]
+>>Q000003 039
+4. [...]
+>>Q000003 040
+5. gal [...]
+>>Q000003 041
+6. [...]
+>>Q000003 043
+7. gal |GA2x(SAL.ME)|
+>>Q000003 042
+8. gal [...]
+>>Q000003 044
+9. gal tag#
+>>Q000003 045
+10. gal# sanga
+>>Q000003 046
+11. sanga mes
+>>Q000003 047
+12. sa12-du5
+>>Q000003 048
+13. |SAGxX|
+>>Q000003 049
+14. DUB2
+>>Q000003 050
+15. dam abgal
+>>Q000003 051
+16. GAN2@t me
+>>Q000003 053
+17. szu12 abgal
+>>Q000003 052
+18. nun |GA2xGAR|
+>>Q000003 054
+@column 4
+1. [...]
+>>Q000003 055
+2. [...]
+>>Q000003 056
+3. [...]
+>>Q000003 057
+4. [...]
+>>Q000003 058
+5. [...]
+>>Q000003 059
+6. [...]
+>>Q000003 060
+7. [...]
+>>Q000003 061
+8. [...]
+>>Q000003 062
+9. SIG7 nimgir#
+>>Q000003 063
+10. enkum#
+>>Q000003 064
+11. ninkum#?
+>>Q000003 065
+12. gal suhur
+>>Q000003 067
+13. sanga suhur
+>>Q000003 066
+14. apin mar
+>>Q000003 068
+15. BU-nun
+>>Q000003 069
+16. sanga BU-nun
+>>Q000003 070
+17. sanga nun
+>>Q000003 071
+18. gal tuku
+>>Q000003 072
+@column 5
+1. [...]
+>>Q000003 073
+2. [...]
+>>Q000003 074
+3. [...]
+>>Q000003 075
+4. [...]
+>>Q000003 076
+5. [...]-nar#
+>>Q000003 077
+6. [...]-balag
+>>Q000003 078
+7. [...]-szu12#
+>>Q000003 079
+8. [...]
+>>Q000003 080
+9. x-[...]
+>>Q000003 081
+10. e2-pa enkux(ZAG)#
+>>Q000003 082
+11. dilmun enkux(ZAG)
+>>Q000003 083
+12. gal sugx(|SUD.PA.EL|) enkux(ZAG)
+>>Q000003 085
+13. {d}sugx(|SUD.PA.EL|) enkux(ZAG)
+>>Q000003 084
+14. idigna enkux(ZAG)
+>>Q000003 086
+15. gal du6
+>>Q000003 087
+16. kur du6
+>>Q000003 088
+17. par4 du6
+>>Q000003 089
+18. ba-KU du6
+>>Q000003 090
+@column 6
+1. [...]
+>>Q000003 091
+2. [...] unu3#
+>>Q000003 092
+3. GAN2-en unu3
+>>Q000003 093
+4. tar#? unu3
+>>Q000003 094
+5. gal pa-gu2
+>>Q000003 095
+6. gal kuruszda#
+>>Q000003 096
+7. gal? kuruszda
+>>Q000003 097
+8. uszumgal#
+>>Q000003 098
+9. [...] udu
+>>Q000003 099
+10. [...] ab2-udu
+>>Q000003 100
+11. gal# pa-du6 ab2-udu
+>>Q000003 101
+12. gal nagar
+>>Q000003 102
+13. gal du5
+>>Q000003 103
+14. gal aszgab
+>>Q000003 104
+15. gal zadim{za}
+>>Q000003 105
+16. gal simug
+>>Q000003 106
+17. gal dim
+>>Q000003 107
+18. gal e2
+>>Q000003 108
+@column 7
+1. [...]
+>>Q000003 109
+2. [...]
+>>Q000003 110
+3. gal gurusz#
+>>Q000003 111
+4. gal musz
+>>Q000003 112
+5. gal munu4
+>>Q000003 113
+6. gal sanga
+>>Q000003 114
+7. gal sanga GAN2
+>>Q000003 115
+8. gal hursag#
+>>Q000003 116
+9. gal ti
+>>Q000003 117
+10. gal tidimx(|PA.SZA6|)
+>>Q000003 118
+11. gal luhszu
+>>Q000003 119
+12. gal hub2
+>>Q000003 120
+13. gal |ALANxGAN2@t|
+>>Q000003 122
+14. gal |MUSZ&KAK&MUSZ|
+>>Q000003 121
+15. gal pa-dur
+>>Q000003 124
+16. gal pa-uruda
+>>Q000003 123
+17. gal bahar3
+>>Q000003 125
+18. gal mes-kesz2
+>>Q000003 126
+19. gal e2
+>>Q000003 127
+20. kid#
+>>Q000003 128
+21. gal kid
+>>Q000003 129
+@surface b
+$ beginning broken
+1'. x [...]
+>>Q000003 colophon
+2'. lu2 x [...]
+>>Q000003 colophon
+3'. dub-sar#?
+>>Q000003 colophon
+4. dumu da-da#
+>>Q000003 colophon
+5'. te [...]
+>>Q000003 colophon
+
+
+&P247526 = FAOS 02/1, 215
+#atf: use lexical
+@object prism
+@surface a
+@column 1
+1. [...]
+2. [...]
+3. [udu] ku5-ku5-ra2#
+4. udu# niga
+5. udu# niga sag10
+6. udu# niga gu4 us2-sa
+7. udu# gesz du3-a
+8. udu# ur3-ra
+9. [udu] szu#? ur3-ra
+10. [udu masz2] da#-ri-a
+11. [udu] masz2#-szu-gid2-gid2
+12. [udu] zulumhi!(|SIK2.BU|)
+13. [udu] ri-ri-ga
+14. [udu] na ri-ga
+15. [udu] dingir-e gu7-[a]
+16. [udu] ur-mah gu7#-[a]
+17. [udu] te-x
+18. [udu] zi-ga#
+19. udu#-[...]
+20. [udu] nam-en-[na]
+21. [udu] nam-erim2#-[ma]
+22. [...]
+23. [...]
+24. [...]
+25. [udu ...]-ra#
+26. [udu ...]-ra
+27. [udu ...]-ra
+28. [udu ...]-x-ra
+29. [udu ...]-ra
+30. [udu ...] dingir-ra
+31'. [udu ...]-ra
+$ bottom fragment illegible
+@column 2
+1. [...]
+2. [...]
+3. [...]
+4. udu-[...]
+5. udu-[...]
+6. udu du7#-[du7]
+7. udu sag10#-[...]
+8. udu gur4-[gur4]
+9. udu gur4-[gur4]
+10. udu x-x-[...]
+11. udu# ti-ri2#-[s,um]
+12. udu# USZ-[...]
+13. udu# zu2-si-[ga]
+14. udu# zu2-si-ga kur-[ra]
+15. udu# si-ga-x-[...]
+# x-[...]for mar-[tu]
+16. [udu x]-ga-[...]
+17. [udu x]-gig?-[...]
+18. [udu x]-dingir#-ra
+$ n lines broken
+19'. udu ki {d}suen-[na]
+20'. udu sag-[...]
+21'. udu bar-gal2?-la#
+22'. udu min-a2?#-[...]
+23'. udu gal-[...]
+24'. x x x
+25'. [...]
+26'. udu x-[...]
+27'. udu gesz [tag-ga]
+28'. [...]
+29'. [...] x [...]
+30'. ansze?
+@column 3
+$ beginning broken
+1'. [...] x x [...]
+2'. [...] x x [...]
+3'. [...] gal2
+4'. ansze#? gesz3 nu-zu
+5'. ansze? nu!(ASZ)-ur4
+# ASZ for nu
+@face b
+@column 1
+1. x x x
+2'. [kusz-ur-bar]-ra
+3'. [kusz-ur]-gi7-ra
+4'. [kusz]-kir4
+5'. [kusz-ur]-szub5
+6'. [kusz-ur]-szub-gu4
+# uses gud for kud
+7'. [kusz]-masz#-da3
+8'. [kusz-amar]-masz-da3
+9'. [kusz]-pirig
+10'. [kusz]-nimurx(|PIRIG#.TUR|)#
+11'. [kusz]-ka5-a
+12'. [kusz-x]-ka5#-a#
+@column 2
+$ broken
+2'. kusz-usan3-[...]
+3'. kusz-usan3-zi#-um?
+4'. kusz-dal-usz2
+5'. kusz-a2#-dal-usz2
+6'. kusz-sag-si
+7'. kusz-sag-si-sa2
+8'. kusz-a-tum
+9'. kusz-balag
+10'. kusz-balag-na?-zi
+11'. kusz#-sag-ti
+12'. kusz#-gakkul
+13'. kusz#-gakkul-szu-numun-na-ab?
+14'. kusz#-a2#-si
+15'. kusz#-a2-si-da-ba
+16'. kusz#-LU2?#-KI?
+17'. kusz#-gur21#-erin2
+18'. kusz#-E-[...]
+19'. kusz#-E-[...]
+20'. kusz#-E-[...]
+21'. kusz#-E-[...]
+$ missing
+$ missing
+24'. [kusz ...]-x-szu-[...]
+25'. [kusz]-sze-gin2
+26'. kusz#-sze-gin2-ku3-sig17
+27'. kusz-ga-ba-bu-um
+28'. kusz-pa-ti-ha-tum
+29'. kusz-GISZ-LU-[...]
+30'. kusz-ma-ri-in#-[...]
+@column 3
+$ traces
+2'. gu4#-[...]
+3'. gu4#-[...]
+4'. gu4#-x-[...]
+5'. gu4#-[...]
+6'. gu4#-[...]
+7'. gu4#-babbar#
+8'. gu4#-gi6#
+9'. [gu4]-su13-a
+10'. gu4#-[gun3]-a
+11'. gu4-[sig7]-sig7#
+12'. gu4-szu-gi4#
+13'. gu4-x-x
+14'. gu4-KA-min
+15'. gu4-ba?-da
+16'. gu4#-[...]-BU#?
+17'. gu4-si-min-gal2
+18'. gu4-al#-gesz-ra
+# read keszda?
+19'. gu4#-al#-hul-a
+20'. gu4#-x-x
+21'. ab2#-[...]-x
+22'. ab2-us2?#-sag-x
+23'. ab2-tu-ra
+24'. ab2-nam-ra#
+25'. ab2-[babbar]
+26'. ab2-[gi6]
+27'. ab2-su13-[a]
+28'. ab2-gun3-[a]
+29'. ab2-sig7-sig7#
+30'. ab2-gu4
+31'. ab2-x-[...]
+32'. ab2-x-[...]
+33'. ab2-x-[...]
+34'. ab2-u3-[tu]
+35'. [amar]
+36'. amar-[...]
+37'. amar-[...]
+38'. amar-[...]
+39'. amar-[...]
+@fragment e
+@column 1
+$ broken
+@column 2
+$ broken
+# traces
+@column 3
+1. [...]
+2'. ud5
+3'. ud5-masz2-na2-a
+4'. ud5-masz2-du3-a
+5'. ud5-u3-tu
+6'. ud5-nu-u3-tu
+7'. ud5-KA-gal
+8'. ud5-babbar
+9'. ud5#-gi6#
+10'. [ud5]-su13#-[a]
+@obverse
+1. pisan-dub-ba
+#tr.en: Basket-of-tablets:
+2. nig2-ka9-ak gi? u3 DUB tug2#? am#?
+#tr.en: accounts of ...,
+3. lugal-[...]
+#tr.en: Lugal-...,
+4. i3-gal2#
+#tr.en: are here;
+@reverse
+1. sza3 bala-a
+#tr.en: of the bala;
+2. mu 5(disz)-kam
+#tr.en: (a period of) 5 years;
+3. mu en eridu{ki} ba-hun-ta
+#tr.en: from the year: “The en(-priest) of Eridu was hired”
+4. mu si-ma-num2{ki} ba-hul-sze3
+#tr.en: to the year: “Simanum was destroyed.”
+
+
+&P328759 = CUSAS 27, 190
+#atf: lang akk
+@object tag
+@surface a
+1. [x] x _sar ki-gal2#_
+2. _sa10_-su-nu 4(disz@t) 1/2(disz) _gin2# [ku3-babbar]_
+3. a-ti isz-ki-ni-[su-nu]
+4. in 1(u) la2 1(disz@t) _gin2 [ku3-babbar]_
+5. [x] x x [...]
+$ rest broken
+
+
+&P142686 = AAICAB 1/1, pl. 021, 1911-173
+#atf: lang sux
+@object tag
+@obverse
+1. pisan-dub-ba
+#tr.en: Basket-of-tablets:
+2. nig2-ka9-ak gi? u3 DUB tug2#? am#?
+#tr.en: accounts of ...,
+3. lugal-[...]
+#tr.en: Lugal-...,
+4. i3-gal2#
+#tr.en: are here;
+@reverse
+1. sza3 bala-a
+#tr.en: of the bala;
+2. mu 5(disz)-kam
+#tr.en: (a period of) 5 years;
+3. mu en eridu{ki} ba-hun-ta
+#tr.en: from the year: “The en(-priest) of Eridu was hired”
+4. mu si-ma-num2{ki} ba-hul-sze3
+#tr.en: to the year: “Simanum was destroyed.”
+
+
+&P142689 = AAICAB 1/1, pl. 022, 1911-176
+#atf: lang sux
+@object tag
+@obverse
+1. pisan-dub-ba
+#tr.en: Basket-of-tablets:
+2. gurum2-ak
+#tr.en: inspections of
+3. {gesz}kiri6 gid2-da
+#tr.en: orchards surveyed,
+4. {gesz}geszimmar szid-da
+#tr.en: date palms counted,
+5. e2 {d}szara2
+#tr.en: house of Šara;
+6. e2 {d}nin-ur4-ra
+#tr.en: house of Ninura;
+7. e2 {d}szul-gi-ra
+#tr.en: house of Šulgi;
+8. {gesz}kiri6 apin-la2
+#tr.en: orchards of ...,
+@reverse
+1. {gesz}kiri6 esz3 didli
+#tr.en: orchards of various shrines,
+2. gurum2 szu-ku6 muszen-du3
+#tr.en: inspections of fishermen and bird-hunters;
+3. bahar3 ka-bur
+#tr.en: potters ...,
+4. u3 gurum2 dam-gar3
+#tr.en: and inspections of exchange agents;
+5. im-bi 1(u) 2(disz)-am3
+#tr.en: the tablets being 12,
+6. i3-gal2
+#tr.en: are here;
+7. mu en eridu{ki} ba-hun
+#tr.en: year: “The en(-priest) of Eridu was hired.”
+$ blank space
+@left
+1. x?
+#tr.en: ... .
+
+
+&P248623 = AAICAB 1/2, pl. 095, 1935-548
 #atf: lang sux
 @tablet
 @obverse
-$ (not given)
+1. 5(ban2) 8(disz) sila3 zi3 gazx(KUM) sza3 du
+2. sa2-du11 ku5-ra2
+3. bala lugal-ezem
+4. mu szu-szu-mu-dar-sze3
 @reverse
+1. kiszib3 tu-ra-am-i3-li2
+$ blank space
+# seal impression
+2. iti u5-bi2-gu7
+3. mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 e2 {d}szara2 umma{ki}-ka mu-du3
+
+
+
+&P359579 = ICK 1, 182
+#atf: lang akk
+@tablet
+@obverse
+1. um-ma wa-ak-lum2-ma
+2. a-na ka3-ri-im ka3-ni-[isz]{ki}
+3. qi2-bi-ma a-lu-um
+4. di3-nam i-na ha-am-ri-im
+5. i-di2-in-ma im-di2-dingir
+6. _dumu_ szu-la-ba-an
+7. _pa-du_{[am]} e-ha-az-ma
+8. a-na ka3-ri-im ka3-ni-isz3{ki}
+9. i-sza-par2-ma lu i-na
+10. lu-qu2-tim lu i-na
+11. [ba]-ab2#-tim lu _ku3-babbar_
+@fragment A
+12'. x [...]
+13'. sza kur#-[ub ...]
+14'. ma [...]
+15'. hu [...]
+16'. a-mur-[...]
+17'. u2 [...]
+18'. u2 [...]
+@reverse
+1'. a-[...]
+2'. sza [...]
+3'. ba x [...]
+4'. isz [...]
+@fragment B
+1'. [...] im?
+2'. [...] x
+3'. [...] im-di2-dingir
+4'. [...] na#?
+$ (bruch)
+@reverse
+1'. [...] x
+2'. [...]-szu
+3'. [...] x-ma
+4'. [... sza]-qal-[...]-im
+@fragment C
+@reverse
+1'. x [...]
+2'. li-mu-[um]
+3'. szu-{d}suen _dumu#_
+4'. pa2-pi2-li-im
+5'. ka2-ru-um
+6'. e-mu-uq _pa-du_
+7'. _pa-du_{s,i2-im}
+8'. bu-s,i2-a _dumu_ id-na-a
+
+
+&P359579 = ICK 1, 182
+#atf: lang akk
+@object bulla
+@fragment A
+12'. x [...]
+13'. sza kur#-[ub ...]
+14'. ma [...]
+15'. hu [...]
+16'. a-mur-[...]
+17'. u2 [...]
+18'. u2 [...]
+@reverse
+1'. a-[...]
+2'. sza [...]
+3'. ba x [...]
+4'. isz [...]
+@fragment B
+1'. [...] im?
+2'. [...] x
+3'. [...] im-di2-dingir
+4'. [...] na#?
+$ (bruch)
+
+
+
+&P101789 = AR RIM 04 28
+#atf: lang sux
+@object bulla
+@surface a1
+1. 2(barig) la2 2(disz) sila3 kasz saga
+2. 1(asz) 2(barig) 3(ban2) 8(disz) sila3 kasz du gur
+3. 2(disz) dug dida du 2(ban2)-ta
+4. 2(u) 1(disz) dug dida du 1(ban2)-ta
+5. 2(asz) 2(barig) 5(ban2) 5(disz) sila3 ninda gur
+6. 4(ban2) sze sza3-gal {ansze}kunga2
+@reverse
+1'. a-[...]
+2'. sza [...]
+3'. ba x [...]
+4'. isz [...]
+@surface a2
+1. 4(disz) sila3 1(u) 8(disz) gin2 i3 x
+2. 3(disz) sila3 8(disz) gin2 naga gazx(KUM)
+3. 2(gesz2) 3(u) 5(disz) sa x gazx(KUM)
+4. sa2-du11 kas4
+5. giri3 ku3-ga-ni
+6. kiszib3 ur-e11-e
+@surface a3
+1. iti szu-numun
+2. mu {d}szu-{d}suen lugal uri5{ki}-ma-ke4 bad3 mar-tu mu-ri-iq-ti-id-ni-im mu-du3#
+@seal 1
+1. ur-e11#-[e]
+2. [dub-sar]
+3. [dumu ur-nigar{gar}]
+
+
+&P100721 = Aleppo 389
+#atf: lang sux
+@object bulla
+@obverse
+1. 1(disz) udu-[nita2 ba]-usz2
+2. iti sig4-{gesz}i3-szub-gal2-la
+@reverse
+1. mu ur-bi2-lum{ki} ba-hul
+@seal 1
+1. ur-e11-e
+2. dub-sar
+3. dumu ur-nigar{gar}
+
+
+&P100318 = AJSL 29, 136, no. 7
+#atf: lang sux
+@object bulla
+@obverse
+1. 3(gesz'u) 4(u) udu masz2 hi-a
+2. ki nu-ur2-gi-li2-ta!
+3. ba-zi
+4. iti sze-sag11-ku5-ta
+5. iti ezem-{d}me-ki-gal2-sze3
+6. iti 1(u) 2(disz)-kam
+7. mu {d}szu-{d}suen lugal uri5{ki#}-<<ma>>-ma-ke4 [ma]-da za-ab-sza-li{ki} mu-hul
+10. e2-tum
+@seal 1
+@column 1
+1. {d}[szu-{d}]suen
+2. lugal [kal-ga]
+3. [lugal] uri5#{ki}-ma
+4. [lugal an] ub!-da limmu2-ba
+@column 2
+1. lugal-iti?-da
+2. dub-sar
+3. dumu ur-{d}dumu-zi-da
+4. ARAD2-zu
+
+
+&P217535 = RIME 2.09.02.2001, ex. 01
+#atf: lang akk
+@object bulla
+@surface a
+@column 1
+1. lugal-gesz
+2. _ensi2_
+3. adab{ki}
+@column 2
+1. x-[...]
+2. _dub-sar_
+3. _ARAD2_-su2#
+
+
+&P330654 = AAICAB 1/4, TCICA 02
+#atf: lang sux
+@object bulla
+@surface a
+1. 6(asz) 3(barig) 5(disz) sila3 [kasz ... gur]
+2. 1(disz) kasz dida saga 1(ban2) 5(disz)
+3. 5(disz) kasz dida du 3(ban2)
+4. 1(disz) kasz dida 2(ban2)-ta
+5. 4(disz) kasz dida 1(ban2) 5(disz)
+6. 3(asz) 3(barig) 4(disz) sila3 ninda du gur
+@surface b
+1. 2(ban2) zi3-gu saga
+2. 1(asz) 4(barig) 3(ban2) 5(disz) sila3 dabin gur
+3. 3(ban2) 3(disz) sila3 2(disz) gin2 igi-sag szum2
+4. 2(ban2) 8(disz) sila3 1(u) 6(disz) gin2 i3-gesz
+5. 1(ban2) 3(disz) 1/3(disz) sila3 naga gazx(GUM)
+6. 4(ban2) zu2-lum
+7. n x x
+@surface a
+1. sa2-du11 kas4
+2. sza3 an-za-gar3 i7 gir2-su{ki}
+3. giri3 lu2-du10-ga sukkal
+4. kiszib3 lu2-kal-la
+5. iti sig4-{gesz}i3-szub-ba-gar
+6. mu {d}szu-{d}suen# lugal#-e si-ma-num2[{ki} mu-hul]
+@surface a
+1. ur-{d}nun-gal u3 ur-e2-mah mu-gi-ne2-esz
+$ blank space
+# seal impression
+@seal 1
+1. ur-{d}nun-gal
+2. dub-sar
+3. dumu ur-{d}szara2
+4. sza13-dub-ba
+@seal 2
+1. lu2-kal-la
+2. dub-sar
+3. dumu ur-e11-e szusz3
+
+
+&P330653 = AAICAB 1/4, TCICA 01
+#atf: lang sux
+@object bulla
+@surface a
+1. 2(u) udu niga sza3-gal u4 1(disz)-a-bi 1(ban2) sze-ta
+2. iti 8(dis)-sze3
+3. sze-bi 8(asz) gur
+4. iti dal-ta
+@surface b
+1. iti {d}dumu-zi-sze3
+2. udu niga sa2-du11 {d}szara2 a-pi4-sal4{ki}
+3. ki gu-du-du-ta
+@surface c
+1. kiszib3 lu2-{d}ha-ia3
+2. mu ma2 {d}en-ki ba-ab-du8
+@seal 1
+1. lu2-{d}ha-ia3
+2. dub-sar
+3. dumu ur-e11-e szusz3
+
+
+&P361670 = Etudes Garelli, 227; 232-233
+#atf: lang akk
+@tablet
+@obverse
+1. 1/2(disz) _ma-na ku3-babbar_
+2. i-s,e2-er
+3. hi-lu-ma-an
+4. a-mur-esz18-dar i-szu
+5. a-na ha-ar-pe2
+6. _ku3-babbar_ i-sza-qal
+7. u3 1(disz) _gu4_ ma-ar-am
+8. i-ra-di2-am
+@seal A
+1. _dumu#_ ma-na-na
+2. a-szur3-ba-ni
+@reverse
+1. szu-ma u2-ka3-al
+2. i-sza-tim
+3. 1(disz) _gu4_ ma-ar-am
+4. u2-s,a-ba-am
+5. _igi_ u2-ra-a
+6. _igi_ ta-ri-ku-da
+7. _igi_ ha-nu
+$ seal A
+@envelope
+@obverse
+1. _kiszib3_ u2-ra-a _kiszib3_
+2. ta-ri-ku-da
+3. _kiszib3_ ha-nu _kiszib3_ hi-lu-ma-an
+4. sza hu-bu-ul hi-lu-ma#-an#
+5. sza 1/2(disz) _ma#-na ku3-babbar_
+6. a-na ha-ar-pe2
+7. i-sza-qu2-lu u3 1(disz) _gu4#_
+8. ma-ar-am i-ra-di2-am
+9. szu-ma _ku3#-babbar_ u2-ka3-al
+10. i-sza-tim 1(disz) _gu4_
+11. ma-ar-am# u2-s,u2!-ab2
+$ seal A
+@seal A
+1. _dumu#_ ma-na-na
+2. a-szur3-ba-ni
+
+
+&P332304 = A l'ombre de Babel, no. 46
+#atf: lang sux
+#atf: use lexical
+@tablet
+@obverse
+$ (not given)
+@reverse?
 1. iti dal
 $ blank space
 #seal impression
 2. mu sza-asz-ru?-um?{ki} ba-hul
 @seal 1
+1. ur-dingir-ra szusz3
+2. dumu a-zi-da
+#reading of seal from bdtns
+@seal A
+1. ur-dingir-ra szusz3
+2. dumu a-zi-da
+#reading of seal from bdtns
+@seal C
+1. ur-dingir-ra szusz3
+2. dumu a-zi-da
+#reading of seal from bdtns
+@seal 12
 1. ur-dingir-ra szusz3
 2. dumu a-zi-da
 #reading of seal from bdtns
@@ -27,6 +4580,7 @@ $ blank space
 
 &P142660 = AAICAB 1/1, pl. 018, 1911-147
 #atf: lang sux
+#atf: use lexical
 @tablet
 @obverse
 1. 1(disz) 1/3(disz) gin2 ku3-babbar
@@ -44,6 +4598,7 @@ $ blank space
 
 &P285642 = AAICAB 1/1, pl. 019, 1911-154
 #atf: lang sux
+#link: def A = Q000039 = OB Nippur Ur5-ra 01 (wood)
 @tablet
 @obverse
 1. 2(asz) sze gur lugal
@@ -60,6 +4615,7 @@ $ blank space
 
 &P142678 = AAICAB 1/1, pl. 020, 1911-165
 #atf: lang sux
+#link: def A = Q000039 = OB Nippur Ur5-ra 01 (wood)
 @tablet
 @obverse
 1. 1(disz) dug gal
@@ -152,13 +4708,41 @@ $ blank space
 
 &P999999 = AAICAB 1/1, pl. 031, 1911-217
 #atf: lang sux
+#link: def A = Q000039
+#CBS 09868 + 12741= MSL 07: 211 = V18 = SLT 193
+#version: 0.8
 @tablet
-@obverse
+@fragment A
 1. 2(asz) gu2 siki GI
 2. siki esir2?-a sa10-sa10-de3
 $ blank space
 3. ki ur-{d}nisaba-ta
 4. lugal-e-ba-an-sa6
+@reverse
+1. szu ba-ti
+2. iti ezem-{d}szul-gi
+$ blank space
+# seal impression
+3. mu bad3 ba-du3
+@fragment B'
+1. 2(asz) gu2 siki GI
+2. siki esir2?-a sa10-sa10-de3
+$ blank space
+3. ki ur-{d}nisaba-ta
+4. lugal-e-ba-an-sa6
+@fragment C
+1. 2(asz) gu2 siki GI
+2. siki esir2?-a sa10-sa10-de3
+$ blank space
+3. ki ur-{d}nisaba-ta
+4. lugal-e-ba-an-sa6
+@reverse
+1. szu ba-ti
+2. iti ezem-{d}szul-gi
+$ blank space
+# seal impression
+3. mu bad3 ba-du3
+@fragment D
 @reverse
 1. szu ba-ti
 2. iti ezem-{d}szul-gi
@@ -179,6 +4763,9 @@ $ blank space
 
 &P142741 = AAICAB 1/1, pl. 038-039, 1911-229
 #atf: lang sux
+#link: def A = Q000039 = prashant
+#CBS 09868 + 12741= MSL 07: 211 = V18 = SLT 193
+#version: 0.8
 @tablet
 @obverse
 @column 1
@@ -381,7 +4968,7 @@ $ double ruling
 14. |SZU+LAGAB| 2(disz) dumu-munus 1(ban2) 2(disz)-ta
 15. geme2 sze-gesz#-i3# sur#-sur#-ra#-me#
 $ rest broken
-@column 4
+@column 4'
 $ double ruling
 1. gurum2 ak
 2. sze-ba siki-ba
@@ -392,4 +4979,4 @@ $ double ruling
 7. ur-{gesz}gigir ugula [...]
 8. giri3 a-tu [...]
 9. iti e2-iti-[6(disz)]
-10. mu {d#}szul#-[gi]  nita kal#-[ga]  lugal uri5[{ki}-ma]  lugal an [ub-da] limmu2-[ba-ke4]  en-nam-szita-[{d}szul]-gi-ra-ke4# murub2 unu en# [{d}en-ki] eridu{ki}-ga x-[...]
+10'. mu {d#}szul#-[gi]  nita kal#-[ga]  lugal uri5[{ki}-ma]  lugal an [ub-da] limmu2-[ba-ke4]  en-nam-szita-[{d}szul]-gi-ra-ke4# murub2 unu en# [{d}en-ki] eridu{ki}-ga x-[...]

@@ -5,13 +5,14 @@ class Pnumber(object):
     plist = []
     pnumber = 0
 
-    def __init__(self):
+    def __init__(self, fileName):
         self.found = False
         self.pList = self.ReadPnumbers()
         self.oldPlist, self.newPlist = self.ReadPMap()
+        self.fileName = fileName
 
     def ReadPnumbers(self):
-        pfile = open('SupportFiles/ValidPnumbers.txt', 'r')
+        pfile = open('/Library/WebServer/Documents/checker-script/SupportFiles/ValidPnumbers.txt', 'r')
         plist = pfile.readlines()
         pfile.close()
         content = [x.strip() for x in plist]
@@ -22,7 +23,7 @@ class Pnumber(object):
         temp = []
         oldPlist = []
         newPlist = []
-        with open("SupportFiles/PnumberMap.txt") as file:
+        with open("/Library/WebServer/Documents/checker-script/SupportFiles/PnumberMap.txt") as file:
             for line in file:
                 temp = line.split()
                 oldPlist.append(temp[0].strip())
@@ -58,10 +59,15 @@ class Pnumber(object):
 
         if foundMap:
             index = self.oldPlist.index(pnumber)
-            print "Replace Old Pnumber : "+pnumber+" with New Pnumber : "+self.newPlist[index]
-            return self.newPlist[index], True
+            temp = "Replace Old Pnumber : "+pnumber+" with New Pnumber : "+self.newPlist[index]
+            return self.newPlist[index], True, temp
         else:
             if(self.CheckPnumber(pnumber)):
-                return pnumber, True
+                return pnumber, True, None
             else:
-                return pnumber, False
+                return pnumber, False, None
+
+    def write_to_file(self, fileName, content):
+        text_file = open("/atfchecker_data/output/"+fileName, "a")
+        text_file.write(content+"\n")
+        text_file.close()

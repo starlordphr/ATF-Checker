@@ -1,0 +1,42 @@
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Seal Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> Seal Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Seal Warning: There shouldn't be any Seal.
+xxxxxxx> Sealing Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> General Warning: Seal Impression should be at the end of the ATF.
+xxxxxxx> Sealing Warning: There should atleast be one Seal impression.
+xxxxxxx> Sealing Warning: There should atleast be one Seal impression.
+xxxxxxx> Cone Warning: More than 2 Generic Surfaces are not allowed.
+xxxxxxx> Cone Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> General Warning: Surface Type: face is not supported anymore.
+xxxxxxx> Barrel Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> General Warning: Surface Type: face is not supported anymore.
+xxxxxxx> Prism Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> Bulla Warning: Both Generic Surface type (ex. @surface) and Specific Surface type (ex. @obverse), cannot be used together.
+xxxxxxx> Tablet General Warning: Seal Impression should be at the end of the ATF.
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Composite Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Composite Warning: Columns are not allowed.
+xxxxxxx> Seal Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> Seal Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> Seal Warning: There shouldn't be any Seal.
+xxxxxxx> Sealing Warning: More than 1 Generic Surfaces are not allowed.
+xxxxxxx> General Warning: Seal Impression should be at the end of the ATF.
+xxxxxxx> Sealing Warning: There should atleast be one Seal impression.
+xxxxxxx> Sealing Warning: There should atleast be one Seal impression.
+xxxxxxx> Cone Warning: More than 2 Generic Surfaces are not allowed.
+xxxxxxx> Cone Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> General Warning: Surface Type: face is not supported anymore.
+xxxxxxx> Barrel Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> General Warning: Surface Type: face is not supported anymore.
+xxxxxxx> Prism Warning: Specific Surface type (ex. @obverse) are not allowed.
+xxxxxxx> Bulla Warning: Both Generic Surface type (ex. @surface) and Specific Surface type (ex. @obverse), cannot be used together.
+xxxxxxx> Tablet General Warning: Seal Impression should be at the end of the ATF.
