@@ -1,6 +1,6 @@
 import os
 import re
-import nltk
+# import nltk
 from collections import defaultdict
 
 class ExtractInformation(object):
@@ -15,10 +15,13 @@ class ExtractInformation(object):
         with open(self.mainDirectory+directory+"/"+fileName, "w") as f:
             f.write(content)
 
-    def InsertToken(self, line, p):
-        tempToken = p.findall(line) #find all the text as tokens and exclude white spaces from the string
+    def InsertToken(self, line):
+        for tokens in nltk.word_tokenize(line):
+            self.tokenList.append(tokens)
+
+    def InsertTokenMy(self, line, p):
+        tempToken = p.findall(line)
         if tempToken:
-            #Traverse through the tokens
             for tokens in tempToken[0].split():
                 tempList = self.CleanToken(tokens)
                 if tempList:
@@ -41,7 +44,6 @@ class ExtractInformation(object):
     def CheckFrequency(self):
 
         for tokens in self.tokenList:
-            #GenerateSign is for some checks
             self.GenerateSign(tokens)
             if tokens in self.wordFreq:
                 self.wordFreq[tokens] = self.wordFreq[tokens] + 1
@@ -56,8 +58,6 @@ class ExtractInformation(object):
             else:
                 self.signFreq[sign] = 1
 
-    #function which is used to remove symbols and returns a token list
-    #you can append certain symbol checks here .... just add it to the symbol list.
     def CleanToken(self, token):
         symbols = ['<','>','#','!','?','[',']','_']
         for symbol in symbols:
@@ -90,7 +90,6 @@ class ExtractInformation(object):
             for signs in iterItem:
                 finalTemp.append(signs)
 
-        #An important check ..... to treate text inside {} as a word and also find symbols associated with it
         for element in finalTemp:
             if '{' in element and '}' in element:
                 if element.rfind('{') == 0:
@@ -108,7 +107,6 @@ class ExtractInformation(object):
         if "(" in word and ")" in word and len(finalSignList) == 1:
             self.signList.append(finalSignList[0])
 
-        #An important check ..... to treate text inside () as a word and also find symbols associated with it
         if "(" in word and ")" in word:
             for signs in finalSignList:
                 if "(" in signs:
@@ -132,32 +130,26 @@ class ExtractInformation(object):
         database_dir = self.mainDirectory+"Processed_Database/"
         for fileName in os.listdir(database_dir):
             if not os.path.isdir(database_dir+fileName) and not fileName[0] == ".":
-                #define variables
                 temp = ""
                 signTemp = ""
                 dictTemp = ""
                 signDictTemp = ""
-                #clean variables for future use
                 del self.tokenList
                 del self.signList
                 del self.wordFreq
                 del self.signFreq
-                #define variables
                 self.tokenList = list()
                 self.signList = list()
                 self.wordFreq = dict()
                 self.signFreq = dict()
                 with open(database_dir+fileName) as fileHandle:
                     for line in fileHandle:
-                        #For checking the beginning of an atf text
                         if line[0].isdigit():
-                            #If line starts with ($, it might be a comment, process after comment part
+                            #self.InsertTokenMy(re.sub("($(.)*$)","",line), p)
                             if "$)" in line and "($" in line:
-                                #InsertToken function starts the main processing
-                                self.InsertToken(line[line.find('$)')+2], p)
+                                self.InsertTokenMy(line[line.find('$)')+2], p)
                             else:
-                                self.InsertToken(line, p)
-                #CheckFrequency function is also used for some additional checks
+                                self.InsertTokenMy(line, p)
                 self.CheckFrequency()
                 self.CheckSignFrequency()
                 self.tokenList = list(set(self.tokenList))
@@ -174,10 +166,9 @@ class ExtractInformation(object):
             else:
                 continue
 
-    #This function is for traversing through all the texts extracted from the database
     def PreProcessFiles(self):
         tempFileDict = dict()
-        database_dir = self.mainDirectory+"Database/"
+        database_dir = self.mainDirectory + "Database/"
         for fileName in os.listdir(database_dir):
             tempFileDict[fileName] = 0
 
@@ -192,23 +183,55 @@ class ExtractInformation(object):
                         self.JoinFiles(fileName)
                 else:
                     continue
-    #For joining similar files with different names '?'
+
     def JoinFiles(self, file1, file2 = None):
         temp = ""
-        with open(self.mainDirectory+"Database"+"/"+file1, "r") as f:
+        # +"Darabase" removed
+        with open(self.mainDirectory+"Database/"+file1, "r") as f:
             for line in f:
                 temp += str(line)
 
         if not file2 == None:
             temp += "\n\n"
 
-            with open(self.mainDirectory+"Database"+"/"+file2, "r") as f:
+            # +"Database" removed
+            with open(self.mainDirectory+"Database/"+file2, "r") as f:
                 for line in f:
                     temp += str(line)
 
         self.write_to_file("Processed_Database", file1, temp)
 
+
+    def ExtractTokens(self):
+        database_dir = self.mainDirectory+"Database/"
+        for fileName in os.listdir(database_dir):
+            if not os.path.isdir(database_dir+fileName) and not fileName[0] == ".":
+                temp = ""
+                del self.tokenList
+                del self.wordFreq
+                self.tokenList = list()
+                self.wordFreq = dict()
+                with open(database_dir+fileName) as fileHandle:
+                    for line in fileHandle:
+                        if line[0].isdigit() and line[1] == ".":
+                            self.InsertToken(line[2:])
+                        elif line[0].isdigit() and line[2] == ".":
+                            self.InsertToken(line[3:])
+                self.tokenList = list(set(self.tokenList))
+                temp = self.ListToString()
+                self.write_to_file("Token_Database", fileName, temp)
+                print fileName, " Completed!"
+            else:
+                continue
+
+
+
 if __name__ == "__main__":
-    objExtract = ExtractInformation("/Volumes/cdli_www_2/transfers/cdlicore/atfchecker_helper/")
+    path = raw_input("Database path: ")
+    if path == "":
+        objExtract = ExtractInformation("/Volumes/cdli_www_2/transfers/cdlicore/atfchecker_helper/")
+    else:
+        objExtract = ExtractInformation(path)
     objExtract.PreProcessFiles()
     objExtract.CreateTokens()
+    objExtract.ExtractTokens()
