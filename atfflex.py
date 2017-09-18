@@ -19,7 +19,7 @@ class AtfLexer(object):
         self.fileName = fileName
         self.pNumber = ""
         self.errors = ""
-        self.databaseDirectoryPath = "/Volumes/cdli_www_2/transfers/cdlicore/atfchecker_helper"
+        self.databaseDirectoryPath = os.path.join(os.path.dirname(__file__),"SupportFiles")
         self.languageFile = languageFile
         self.tokenList = list()
         self.signList = list()
@@ -308,8 +308,10 @@ class AtfLexer(object):
         if self.line == True:
             if "$)" in t.value and "($" in t.value:
                 stringValue = t.value[t.value.find('$)')+2]
+                localTempToken = p.findall(stringValue)
+            else:
+                localTempToken = stringValue
 
-            localTempToken = p.findall(stringValue)
             if localTempToken:
                 for tokens in localTempToken[0].split():
                     self.CheckToken(t.value)

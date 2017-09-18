@@ -29,7 +29,7 @@ if __name__ == "__main__":
             print(tok)
 
 os.remove("/atfchecker_data/storage/"+fileName)
-
+#exit(0)
 with open("/atfchecker_data/output/"+fileName, 'r') as myfile:
     parseResult = myfile.read()
 
